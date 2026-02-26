@@ -1,0 +1,62 @@
+[
+    {
+      "question": "Quelles informations doivent être fournies aux personnes concernées lorsqu'elles exercent leur droit d'accès au titre du RGPD?",
+      "target": "Selon l'article 15 du RGPD, lorsqu'une personne concernée exerce son droit d'accès, elle doit recevoir: (a) les finalités du traitement; (b) les catégories de données concernées; (c) les destinataires ou catégories de destinataires; (d) la durée de conservation prévue; (e) l'existence du droit de rectification, d'effacement, de limitation ou d'opposition; (f) le droit d'introduire une réclamation auprès d'une autorité de contrôle; (g) la source des données si non collectées auprès de la personne; (h) l'existence d'une décision automatisée, y compris le profilage. Pour les transferts internationaux, des informations sur les garanties appropriées doivent également être fournies."
+    },
+    {
+      "question": "En quoi consiste le droit de rectification dans le RGPD?",
+      "target": "Le droit de rectification, défini à l'article 16 du RGPD, permet à toute personne concernée d'obtenir du responsable du traitement, dans les meilleurs délais, la rectification des données à caractère personnel la concernant qui sont inexactes. Compte tenu des finalités du traitement, la personne concernée a également le droit d'obtenir que les données incomplètes soient complétées, y compris en fournissant une déclaration complémentaire."
+    },
+    {
+      "question": "Dans quelles circonstances une personne peut-elle demander l'effacement de ses données personnelles (droit à l'oubli)?",
+      "target": "Selon l'article 17 du RGPD, une personne peut demander l'effacement de ses données lorsque: (a) les données ne sont plus nécessaires au regard des finalités initiales; (b) la personne retire son consentement et il n'existe pas d'autre fondement juridique; (c) la personne s'oppose au traitement et il n'existe pas de motif légitime impérieux; (d) les données ont fait l'objet d'un traitement illicite; (e) l'effacement est nécessaire pour respecter une obligation légale; (f) les données ont été collectées dans le cadre de l'offre de services de la société de l'information à un enfant."
+    },
+    {
+      "question": "Existe-t-il des exceptions au droit à l'effacement (droit à l'oubli) dans le RGPD?",
+      "target": "Oui, l'article 17(3) du RGPD prévoit des exceptions au droit à l'effacement lorsque le traitement est nécessaire: (a) à l'exercice du droit à la liberté d'expression et d'information; (b) pour respecter une obligation légale ou exécuter une mission d'intérêt public; (c) pour des motifs d'intérêt public dans le domaine de la santé publique; (d) à des fins archivistiques, de recherche scientifique/historique ou statistiques; (e) à la constatation, l'exercice ou la défense de droits en justice."
+    },
+    {
+      "question": "Qu'est-ce que le droit à la limitation du traitement et quand s'applique-t-il?",
+      "target": "Le droit à la limitation du traitement (article 18) permet à la personne concernée d'obtenir du responsable du traitement la limitation du traitement lorsque: (a) l'exactitude des données est contestée, pendant une durée permettant la vérification; (b) le traitement est illicite et la personne s'oppose à l'effacement et exige la limitation; (c) le responsable n'a plus besoin des données mais celles-ci sont nécessaires à la personne pour la constatation, l'exercice ou la défense de droits en justice; (d) la personne s'est opposée au traitement, pendant la vérification des motifs légitimes."
+    },
+    {
+      "question": "Quelles sont les obligations de notification en cas de rectification, d'effacement ou de limitation des données?",
+      "target": "Selon l'article 19 du RGPD, le responsable du traitement doit notifier toute rectification, tout effacement ou toute limitation du traitement à chaque destinataire auquel les données ont été communiquées, sauf si cela s'avère impossible ou exige des efforts disproportionnés. Le responsable doit également informer la personne concernée de ces destinataires si elle en fait la demande."
+    },
+    {
+      "question": "En quoi consiste le droit à la portabilité des données et quand s'applique-t-il?",
+      "target": "Le droit à la portabilité (article 20) permet aux personnes concernées de recevoir leurs données dans un format structuré, couramment utilisé et lisible par machine, et de les transmettre à un autre responsable du traitement sans obstacle. Ce droit s'applique lorsque: (a) le traitement est fondé sur le consentement ou un contrat; et (b) le traitement est effectué à l'aide de procédés automatisés. Lorsque c'est techniquement possible, les données peuvent être transmises directement d'un responsable à un autre."
+    },
+    {
+      "question": "Dans quelles circonstances une personne peut-elle s'opposer au traitement de ses données personnelles?",
+      "target": "Selon l'article 21 du RGPD, une personne peut s'opposer au traitement: (1) À tout moment pour des raisons tenant à sa situation particulière, lorsque le traitement est fondé sur l'intérêt légitime ou une mission d'intérêt public; (2) À tout moment, sans justification, lorsque les données sont traitées à des fins de prospection; (3) Pour des raisons tenant à sa situation particulière, lorsque les données sont traitées à des fins de recherche scientifique/historique ou statistiques, sauf si le traitement est nécessaire à l'exécution d'une mission d'intérêt public."
+    },
+    {
+      "question": "Quels droits les personnes concernées ont-elles concernant les décisions automatisées, y compris le profilage?",
+      "target": "Selon l'article 22 du RGPD, les personnes ont le droit de ne pas faire l'objet d'une décision fondée exclusivement sur un traitement automatisé, y compris le profilage, produisant des effets juridiques les concernant ou les affectant de manière significative. Des exceptions existent si la décision: (a) est nécessaire à la conclusion ou l'exécution d'un contrat; (b) est autorisée par le droit avec des garanties appropriées; ou (c) est fondée sur le consentement explicite. Dans les cas (a) et (c), le responsable doit mettre en œuvre des mesures appropriées incluant au moins le droit d'obtenir une intervention humaine, d'exprimer son point de vue et de contester la décision."
+    },
+    {
+      "question": "Les droits des personnes concernées peuvent-ils être limités en vertu du RGPD?",
+      "target": "Oui, l'article 23 prévoit que le droit de l'Union ou des États membres peut limiter la portée des droits et obligations prévus aux articles 12 à 22, lorsque cette limitation respecte l'essence des libertés fondamentales et constitue une mesure nécessaire et proportionnée pour garantir des objectifs importants comme: la sécurité nationale, la défense, la sécurité publique, la prévention et détection d'infractions pénales, d'autres objectifs d'intérêt public général, la protection de l'indépendance judiciaire, etc. Ces mesures législatives doivent contenir des dispositions spécifiques relatives aux finalités, catégories de données, étendue des limitations, garanties, etc."
+    },
+    {
+      "question": "Comment les responsables du traitement doivent-ils fournir les données lors d'une demande d'accès?",
+      "target": "Selon l'article 15(3) du RGPD, le responsable du traitement doit fournir une copie des données faisant l'objet d'un traitement. Pour toute copie supplémentaire, il peut exiger le paiement de frais raisonnables basés sur les coûts administratifs. Lorsque la personne présente sa demande par voie électronique, les informations doivent être fournies sous une forme électronique d'usage courant, sauf demande contraire de la personne concernée. Le droit d'obtenir une copie ne doit pas porter atteinte aux droits et libertés d'autrui."
+    },
+    {
+      "question": "Quelles mesures doivent être mises en place lorsqu'un responsable du traitement a rendu publiques des données qui doivent être effacées?",
+      "target": "Selon l'article 17(2) du RGPD, lorsqu'un responsable du traitement a rendu publiques des données à caractère personnel et qu'il est tenu de les effacer, il doit, compte tenu des technologies disponibles et des coûts de mise en œuvre, prendre des mesures raisonnables, y compris d'ordre technique, pour informer les autres responsables du traitement qui traitent ces données que la personne concernée a demandé l'effacement de tout lien vers ces données, ou de toute copie ou reproduction de celles-ci."
+    },
+    {
+      "question": "Que se passe-t-il lorsque le traitement des données est limité en vertu de l'article 18 du RGPD?",
+      "target": "Lorsque le traitement a été limité en vertu de l'article 18, les données à caractère personnel ne peuvent, à l'exception de leur conservation, être traitées qu'avec le consentement de la personne concernée, ou pour la constatation, l'exercice ou la défense de droits en justice, pour la protection des droits d'une autre personne physique ou morale, ou encore pour des motifs importants d'intérêt public. La personne qui a obtenu la limitation du traitement doit être informée par le responsable avant que cette limitation ne soit levée."
+    },
+    {
+      "question": "Dans quels cas une décision basée uniquement sur un traitement automatisé est-elle autorisée selon le RGPD?",
+      "target": "Selon l'article 22 du RGPD, une décision fondée exclusivement sur un traitement automatisé, y compris le profilage, est autorisée lorsqu'elle: (a) est nécessaire à la conclusion ou à l'exécution d'un contrat entre la personne concernée et le responsable du traitement; (b) est autorisée par le droit de l'Union ou d'un État membre avec des mesures appropriées pour la sauvegarde des droits et libertés; ou (c) est fondée sur le consentement explicite de la personne concernée. Des garanties supplémentaires s'appliquent pour les catégories particulières de données."
+    },
+    {
+      "question": "Quelles informations une mesure législative limitant les droits des personnes doit-elle contenir?",
+      "target": "Selon l'article 23(2) du RGPD, toute mesure législative limitant les droits des personnes doit contenir des dispositions spécifiques relatives, au moins: (a) aux finalités du traitement ou catégories de traitement; (b) aux catégories de données; (c) à l'étendue des limitations; (d) aux garanties contre les abus ou l'accès illicite; (e) à la détermination du responsable du traitement; (f) aux durées de conservation et garanties applicables; (g) aux risques pour les droits et libertés des personnes; et (h) au droit des personnes d'être informées de la limitation, sauf si cela risque de nuire à la finalité de la limitation."
+    }
+  ]

@@ -1,0 +1,62 @@
+[
+    {
+      "question": "Quelles sont les principales responsabilités du Comité européen de la protection des données selon le RGPD?",
+      "target": "Le Comité européen de la protection des données a de nombreuses responsabilités, notamment: élaborer des lignes directrices pour les autorités de contrôle; publier des recommandations et bonnes pratiques; émettre des avis sur les codes de conduite; rendre des décisions contraignantes dans le cadre du mécanisme de contrôle de la cohérence; promouvoir la coopération entre les autorités de contrôle; encourager les programmes de formation; tenir des registres publics des décisions; et fournir des avis sur le caractère adéquat du niveau de protection dans les pays tiers."
+    },
+    {
+      "question": "Quels droits les personnes concernées ont-elles pour demander réparation en vertu du RGPD?",
+      "target": "Les personnes concernées disposent de plusieurs droits: le droit d'introduire une réclamation auprès d'une autorité de contrôle (article 77); le droit à un recours juridictionnel effectif contre une autorité de contrôle (article 78); le droit à un recours juridictionnel effectif contre un responsable du traitement ou un sous-traitant (article 79); et le droit d'obtenir réparation pour tout dommage matériel ou moral résultant d'une violation du RGPD (article 82)."
+    },
+    {
+      "question": "Quels facteurs sont pris en compte pour déterminer les amendes administratives selon le RGPD?",
+      "target": "Selon l'article 83, les autorités considèrent: la nature, la gravité et la durée de la violation; le caractère intentionnel ou de négligence; les mesures prises pour atténuer le dommage; les mesures techniques et organisationnelles mises en œuvre; les violations pertinentes commises précédemment; le degré de coopération avec l'autorité; les catégories de données concernées; la manière dont l'autorité a eu connaissance de la violation; le respect des mesures précédemment ordonnées; et tout autre facteur aggravant ou atténuant."
+    },
+    {
+      "question": "Des organisations peuvent-elles représenter les personnes concernées dans les procédures liées au RGPD?",
+      "target": "Oui, selon l'article 80, les personnes concernées ont le droit de mandater un organisme, une organisation ou une association à but non lucratif pour introduire une réclamation en leur nom, exercer les droits visés aux articles 77 à 79, et exercer le droit d'obtenir réparation. Les États membres peuvent également permettre à ces organisations d'introduire des réclamations indépendamment, sans mandat d'une personne concernée, si elles considèrent que les droits ont été violés."
+    },
+    {
+      "question": "Comment la responsabilité est-elle répartie entre les responsables du traitement et les sous-traitants selon le RGPD?",
+      "target": "Selon l'article 82, tout responsable du traitement ayant participé au traitement est responsable du dommage causé par une violation du RGPD. Un sous-traitant n'est tenu responsable que s'il n'a pas respecté les obligations spécifiques aux sous-traitants ou s'il a agi en dehors des instructions licites du responsable. Plusieurs responsables ou sous-traitants impliqués dans le même traitement sont chacun tenus responsables du dommage dans sa totalité pour garantir une réparation effective, avec possibilité de recours contre les autres participants."
+    },
+    {
+      "question": "Comment est structuré le Comité européen de la protection des données et qui assure son secrétariat?",
+      "target": "Selon les articles 73-75, le Comité élit un président et deux vice-présidents parmi ses membres à la majorité simple pour un mandat de cinq ans, renouvelable une fois. Le secrétariat du Comité est assuré par le Contrôleur européen de la protection des données, qui opère sous l'autorité exclusive du président du Comité. Le secrétariat fournit un soutien analytique, administratif et logistique au Comité."
+    },
+    {
+      "question": "Que se passe-t-il lorsque des procédures parallèles concernant la même question RGPD sont engagées dans différents États membres?",
+      "target": "Selon l'article 81, lorsqu'une juridiction d'un État membre est informée que des procédures concernant le même objet sont pendantes dans un autre État membre, elle doit contacter cette juridiction pour confirmer l'existence de telles procédures. Les juridictions autres que celle saisie en premier lieu peuvent suspendre leur action ou, dans certains cas, se dessaisir à la demande d'une partie si la juridiction saisie en premier lieu est compétente."
+    },
+    {
+      "question": "Comment le RGPD favorise-t-il la coopération entre les autorités de protection des données?",
+      "target": "Le RGPD favorise la coopération entre autorités via plusieurs mécanismes décrits à l'article 70, notamment: le Comité facilitant les échanges bilatéraux et multilatéraux d'informations et de bonnes pratiques; la promotion de programmes de formation conjoints; la facilitation des échanges de personnel; la promotion de l'échange de connaissances sur la législation et les pratiques en matière de protection des données; et la tenue d'un registre électronique public des décisions prises par les autorités et juridictions sur les questions traitées dans le cadre du mécanisme de contrôle de la cohérence."
+    },
+    {
+      "question": "Quelles exigences de confidentialité s'appliquent aux travaux du Comité européen de la protection des données?",
+      "target": "Selon l'article 76, les débats du Comité peuvent être confidentiels lorsque cela est jugé nécessaire, comme le prévoit son règlement intérieur. L'accès aux documents soumis aux membres du Comité, aux experts et aux représentants de tiers est régi par le règlement (CE) n° 1049/2001 relatif à l'accès du public aux documents du Parlement européen, du Conseil et de la Commission."
+    },
+    {
+      "question": "Comment sont prises les décisions au sein du Comité européen de la protection des données?",
+      "target": "Selon l'article 72, le Comité prend ses décisions à la majorité simple de ses membres, sauf disposition contraire du RGPD. Le Comité adopte son règlement intérieur à la majorité des deux tiers de ses membres et détermine ses modalités de fonctionnement."
+    },
+    {
+      "question": "Quelles sont les missions du président du Comité européen de la protection des données?",
+      "target": "Selon l'article 74, le président a pour missions: convoquer les réunions du Comité et établir l'ordre du jour; notifier les décisions adoptées dans le cadre du mécanisme de contrôle de la cohérence à l'autorité de contrôle chef de file et aux autorités concernées; et veiller à l'accomplissement, dans les délais, des missions du Comité. Le règlement intérieur fixe la répartition des tâches entre le président et les vice-présidents."
+    },
+    {
+      "question": "Quelles sont les responsabilités du secrétariat du Comité européen de la protection des données?",
+      "target": "Selon l'article 75, le secrétariat est chargé de: la gestion courante du Comité; la communication entre les membres, le président et la Commission; la communication avec d'autres institutions et le public; l'utilisation des voies électroniques pour la communication; la traduction des informations; la préparation et le suivi des réunions; et la préparation, rédaction et publication d'avis, de décisions relatives au règlement des litiges et d'autres textes adoptés par le Comité."
+    },
+    {
+      "question": "Dans quelles conditions une autorité de contrôle peut-elle imposer des amendes administratives?",
+      "target": "Selon l'article 83, chaque autorité de contrôle veille à ce que les amendes administratives soient effectives, proportionnées et dissuasives. Les amendes peuvent être imposées en complément ou à la place d'autres mesures. L'autorité tient compte de nombreux facteurs incluant la nature et gravité de la violation, le nombre de personnes affectées, le caractère intentionnel ou négligent, les mesures d'atténuation prises, les violations antérieures, la coopération avec l'autorité, et les catégories de données concernées."
+    },
+    {
+      "question": "Comment le droit à réparation est-il garanti aux personnes ayant subi un dommage du fait d'une violation du RGPD?",
+      "target": "Selon l'article 82, toute personne ayant subi un dommage matériel ou moral du fait d'une violation du RGPD a le droit d'obtenir réparation du responsable du traitement ou du sous-traitant. Pour garantir une réparation effective, lorsque plusieurs entités sont impliquées dans le même traitement, chacune est tenue responsable du dommage dans sa totalité. Une entité qui a payé l'intégralité de la réparation peut ensuite réclamer aux autres leur part correspondant à leur responsabilité dans le dommage."
+    },
+    {
+      "question": "Quelle procédure s'applique lorsqu'une personne souhaite introduire une réclamation concernant le traitement de ses données?",
+      "target": "Selon l'article 77, toute personne concernée a le droit d'introduire une réclamation auprès d'une autorité de contrôle, en particulier dans l'État membre de sa résidence habituelle, de son lieu de travail ou du lieu où la violation aurait été commise. L'autorité de contrôle informe l'auteur de la réclamation de l'état d'avancement et de l'issue de la réclamation, y compris de la possibilité d'un recours juridictionnel en vertu de l'article 78."
+    }
+  ]

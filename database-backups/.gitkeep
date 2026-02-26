@@ -1,0 +1,2 @@
+# This file ensures the database-backups directory is tracked by git
+# Database backup files will be placed in this directory 

@@ -1,0 +1,66 @@
+[
+    {
+      "question": "Quels sont les principes fondamentaux du traitement des données personnelles selon le RGPD ?",
+      "target": "Le RGPD établit 6 principes fondamentaux à l'article 5: 1) Licéité, loyauté et transparence, 2) Limitation des finalités, 3) Minimisation des données, 4) Exactitude, 5) Limitation de la conservation, et 6) Intégrité et confidentialité. Il y a également un principe transversal de responsabilité (accountability) qui exige que le responsable du traitement puisse démontrer le respect de ces principes."
+    },
+    {
+      "question": "Que signifie le principe de 'minimisation des données' selon le RGPD ?",
+      "target": "Selon l'article 5 du RGPD, le principe de minimisation des données exige que les données à caractère personnel soient 'adéquates, pertinentes et limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées'. Ce principe oblige les organisations à ne collecter que les données strictement nécessaires pour atteindre l'objectif défini et à éviter toute collecte excessive."
+    },
+    {
+      "question": "Quelles sont les bases légales pour le traitement des données personnelles selon le RGPD ?",
+      "target": "Selon l'article 6 du RGPD, le traitement n'est licite que si au moins une des six conditions suivantes est remplie: a) consentement de la personne concernée, b) exécution d'un contrat, c) obligation légale, d) sauvegarde des intérêts vitaux, e) mission d'intérêt public ou relevant de l'exercice de l'autorité publique, f) intérêts légitimes du responsable du traitement (sauf pour les autorités publiques dans l'exécution de leurs missions)."
+    },
+    {
+      "question": "Comment le RGPD définit-il les 'données à caractère personnel' ?",
+      "target": "Selon l'article 4 du RGPD, les 'données à caractère personnel' sont définies comme 'toute information se rapportant à une personne physique identifiée ou identifiable (personne concernée)'. Une personne est réputée être 'identifiable' lorsqu'elle peut être identifiée, directement ou indirectement, notamment par référence à un identifiant (nom, numéro d'identification, données de localisation, identifiant en ligne) ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale."
+    },
+    {
+      "question": "Quel est le champ d'application territorial du RGPD ?",
+      "target": "Selon l'article 3 du RGPD, le règlement s'applique dans trois cas: 1) au traitement des données effectué dans le cadre des activités d'un établissement du responsable ou sous-traitant sur le territoire de l'Union, que le traitement ait lieu ou non dans l'Union; 2) au traitement des données de personnes concernées se trouvant dans l'Union par un responsable ou sous-traitant non établi dans l'Union, lorsque les activités sont liées à l'offre de biens/services ou au suivi du comportement de ces personnes dans l'Union; 3) au traitement par un responsable établi dans un lieu où le droit d'un État membre s'applique en vertu du droit international public."
+    },
+    {
+      "question": "Qu'est-ce qu'une analyse d'impact relative à la protection des données (AIPD) et quand est-elle requise ?",
+      "target": "Une analyse d'impact relative à la protection des données (AIPD) est une évaluation des risques pour les droits et libertés des personnes physiques liés au traitement des données. Selon le document, elle est requise dans plusieurs cas, notamment: lorsque le traitement est susceptible d'engendrer un risque élevé pour les droits et libertés, lors d'une évaluation systématique et approfondie d'aspects personnels basée sur le profilage, lors du traitement à grande échelle de catégories particulières de données, de données biométriques ou de données relatives à des condamnations pénales, ou encore lors de la surveillance à grande échelle de zones accessibles au public. L'AIPD n'est pas obligatoire pour le traitement de données par un médecin, un professionnel de santé ou un avocat exerçant à titre individuel."
+    },
+    {
+      "question": "Comment le RGPD régit-il les transferts de données vers des pays tiers ?",
+      "target": "Le RGPD encadre strictement les transferts de données vers des pays tiers. Ces transferts sont autorisés si: 1) la Commission a adopté une décision d'adéquation reconnaissant que le pays tiers assure un niveau de protection adéquat; 2) des garanties appropriées sont mises en place (règles d'entreprise contraignantes, clauses contractuelles types, mécanismes de certification); 3) des dérogations spécifiques s'appliquent (consentement explicite, nécessité pour l'exécution d'un contrat, intérêts publics importants, etc.). Le règlement exige que le niveau de protection des personnes physiques garanti dans l'Union ne soit pas compromis par ces transferts."
+    },
+    {
+      "question": "Quel est le rôle du délégué à la protection des données (DPO) selon le RGPD ?",
+      "target": "Selon le document, le délégué à la protection des données (DPO) est une personne possédant des connaissances spécialisées de la législation et des pratiques en matière de protection des données. Il aide le responsable du traitement ou le sous-traitant à vérifier le respect interne du règlement. Le DPO est requis dans trois cas: 1) lorsque le traitement est réalisé par une autorité publique (sauf les juridictions), 2) lorsque les activités de base du responsable ou du sous-traitant consistent en opérations de traitement exigeant un suivi régulier et systématique à grande échelle des personnes concernées, ou 3) lorsque les activités de base consistent en un traitement à grande échelle de catégories particulières de données ou de données relatives à des condamnations pénales. Le DPO, qu'il soit ou non un employé, doit pouvoir exercer ses fonctions en toute indépendance."
+    },
+    {
+      "question": "Comment le RGPD définit-il le 'profilage' ?",
+      "target": "Selon l'article 4(4) du RGPD, le 'profilage' est défini comme 'toute forme de traitement automatisé de données à caractère personnel consistant à utiliser ces données pour évaluer certains aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des éléments concernant le rendement au travail, la situation économique, la santé, les préférences personnelles, les intérêts, la fiabilité, le comportement, la localisation ou les déplacements de cette personne physique'."
+    },
+    {
+      "question": "Qu'est-ce qu'une 'violation de données à caractère personnel' selon le RGPD ?",
+      "target": "Selon l'article 4(12) du RGPD, une 'violation de données à caractère personnel' est définie comme 'une violation de la sécurité entraînant, de manière accidentelle ou illicite, la destruction, la perte, l'altération, la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées d'une autre manière, ou l'accès non autorisé à de telles données'."
+    },
+    {
+      "question": "Quelles sanctions peuvent être appliquées en cas de violation du RGPD ?",
+      "target": "Selon le document, des sanctions administratives, y compris des amendes, peuvent être infligées pour toute violation du RGPD. Les amendes administratives doivent être effectives, proportionnées et dissuasives. Pour déterminer le montant, il est tenu compte de la nature, de la gravité et de la durée de la violation, du caractère intentionnel, des mesures prises pour atténuer le dommage, du degré de responsabilité, des violations antérieures, du degré de coopération avec l'autorité de contrôle, et d'autres circonstances aggravantes ou atténuantes. Le règlement prévoit que les États membres peuvent également déterminer un régime de sanctions pénales pour les violations du RGPD."
+    },
+    {
+      "question": "Comment le RGPD encadre-t-il la pseudonymisation des données personnelles ?",
+      "target": "Selon l'article 4(5) du RGPD, la 'pseudonymisation' est définie comme 'le traitement de données à caractère personnel de telle façon que celles-ci ne puissent plus être attribuées à une personne concernée précise sans avoir recours à des informations supplémentaires'. Ces informations supplémentaires doivent être conservées séparément et soumises à des mesures techniques et organisationnelles afin de garantir que les données ne sont pas attribuées à une personne identifiable. La pseudonymisation est considérée comme une mesure technique appropriée pour assurer la sécurité des données personnelles, mais les données pseudonymisées restent des données à caractère personnel soumises au RGPD."
+    },
+    {
+      "question": "Quelles sont les responsabilités d'un 'sous-traitant' selon le RGPD ?",
+      "target": "Selon le document, un 'sous-traitant' est 'la personne physique ou morale, l'autorité publique, le service ou un autre organisme qui traite des données à caractère personnel pour le compte du responsable du traitement'. Le sous-traitant doit aider le responsable du traitement à assurer le respect des obligations découlant de la réalisation des analyses d'impact relatives à la protection des données et de la consultation préalable de l'autorité de contrôle. Il doit également mettre en œuvre des mesures techniques et organisationnelles appropriées pour garantir la sécurité des données. Dans certains cas, il peut être tenu responsable des dommages causés par le traitement et doit coopérer avec les autorités de contrôle."
+    },
+    {
+      "question": "Qu'est-ce que le 'droit à l'oubli' selon le RGPD ?",
+      "target": "Le document fait référence au 'droit à l'oubli' comme l'un des droits des personnes concernées. Ce droit, également appelé 'droit à l'effacement', permet à une personne d'obtenir du responsable du traitement l'effacement de ses données personnelles dans certaines circonstances, notamment lorsque les données ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées, lorsque la personne retire son consentement, lorsque les données ont fait l'objet d'un traitement illicite, ou lorsque l'effacement est nécessaire pour respecter une obligation légale. Ce droit peut être limité dans certains cas, notamment pour des raisons d'intérêt public, de recherche scientifique ou historique, ou pour la constatation, l'exercice ou la défense de droits en justice."
+    },
+    {
+      "question": "Comment le RGPD protège-t-il les données relatives aux enfants ?",
+      "target": "Le RGPD accorde une attention particulière à la protection des données des enfants. Selon l'article 6(1)(f), lors de l'évaluation des intérêts légitimes comme base légale, une attention particulière doit être portée aux intérêts des enfants. Le document mentionne également que les enfants méritent une protection spécifique en ce qui concerne leurs données à caractère personnel, car ils peuvent être moins conscients des risques, conséquences et garanties concernées et de leurs droits. Des règles spécifiques s'appliquent au consentement des enfants, notamment dans le contexte des services de la société de l'information. Les informations destinées aux enfants doivent être formulées dans un langage clair et simple qu'ils peuvent facilement comprendre."
+    },
+    {
+      "question": "Quels sont les droits des personnes concernées selon le RGPD ?",
+      "target": "Le RGPD accorde plusieurs droits aux personnes concernées, notamment: le droit d'accès à leurs données personnelles, le droit de rectification des données inexactes, le droit à l'effacement ('droit à l'oubli'), le droit à la limitation du traitement, le droit à la portabilité des données, le droit d'opposition au traitement, et le droit de ne pas faire l'objet d'une décision fondée exclusivement sur un traitement automatisé, y compris le profilage. Les personnes concernées ont également le droit d'introduire une réclamation auprès d'une autorité de contrôle, le droit à un recours juridictionnel effectif et le droit à réparation en cas de dommage. Ces droits peuvent être soumis à certaines limitations dans des circonstances spécifiques prévues par le règlement."
+    }
+  ]

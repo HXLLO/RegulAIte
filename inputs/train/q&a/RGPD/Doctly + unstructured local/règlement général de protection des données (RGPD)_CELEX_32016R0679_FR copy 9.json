@@ -1,0 +1,46 @@
+[
+    {
+      "question": "Comment les membres des autorités de contrôle sont-ils nommés selon le RGPD?",
+      "target": "Selon l'article 53 du RGPD, les membres des autorités de contrôle sont nommés selon une procédure transparente par: leur parlement, leur gouvernement, leur chef d'État, ou un organisme indépendant chargé de procéder à la nomination en vertu du droit de l'État membre. Chaque membre doit avoir les qualifications, l'expérience et les compétences nécessaires, notamment dans le domaine de la protection des données à caractère personnel, pour l'exercice de ses fonctions et de ses pouvoirs."
+    },
+    {
+      "question": "Quelles sont les conditions mettant fin au mandat d'un membre de l'autorité de contrôle?",
+      "target": "D'après l'article 53 du RGPD, les fonctions d'un membre de l'autorité de contrôle prennent fin dans trois situations: à l'échéance de son mandat, en cas de démission, ou de mise à la retraite d'office (conformément au droit de l'État membre concerné). Un membre peut également être démis de ses fonctions uniquement s'il a commis une faute grave ou s'il ne remplit plus les conditions nécessaires à l'exercice de ses fonctions."
+    },
+    {
+      "question": "Quels éléments doivent être prévus par la loi de chaque État membre concernant les autorités de contrôle?",
+      "target": "L'article 54 du RGPD stipule que chaque État membre doit prévoir par la loi: la création de chaque autorité de contrôle; les qualifications et conditions d'éligibilité pour être nommé membre; les règles et procédures pour la nomination; la durée du mandat (qui ne peut être inférieure à 4 ans); le caractère renouvelable ou non du mandat; et les conditions régissant les obligations des membres et agents, y compris les interdictions d'activités incompatibles et les règles régissant la cessation de l'emploi. De plus, les membres et agents sont soumis au secret professionnel concernant toute information confidentielle dont ils ont eu connaissance dans l'exercice de leurs missions."
+    },
+    {
+      "question": "Quelle est la compétence territoriale d'une autorité de contrôle selon le RGPD?",
+      "target": "L'article 55 du RGPD précise que chaque autorité de contrôle est compétente pour exercer les missions et les pouvoirs dont elle est investie conformément au règlement sur le territoire de l'État membre dont elle relève. Cette compétence territoriale est fondamentale pour l'application du RGPD, mais comporte des exceptions pour le traitement transfrontalier où le mécanisme de guichet unique (one-stop-shop) s'applique via l'autorité de contrôle chef de file. Les autorités de contrôle ne sont pas compétentes pour contrôler les opérations de traitement effectuées par les juridictions dans l'exercice de leur fonction juridictionnelle."
+    },
+    {
+      "question": "Comment fonctionne le mécanisme de guichet unique avec l'autorité de contrôle chef de file?",
+      "target": "Selon l'article 56 du RGPD, l'autorité de contrôle de l'établissement principal ou de l'établissement unique du responsable du traitement ou du sous-traitant est compétente pour agir en tant qu'autorité chef de file concernant le traitement transfrontalier. Ce mécanisme permet aux entreprises opérant dans plusieurs États membres de n'avoir qu'un seul interlocuteur principal. Toutefois, par dérogation, chaque autorité reste compétente pour traiter une réclamation locale si son objet concerne uniquement un établissement dans son État membre ou affecte sensiblement des personnes concernées uniquement dans cet État. L'autorité chef de file doit coopérer avec les autres autorités concernées selon la procédure de l'article 60."
+    },
+    {
+      "question": "Quelles sont les principales missions des autorités de contrôle selon l'article 57 du RGPD?",
+      "target": "L'article 57 énumère de nombreuses missions des autorités de contrôle, dont: contrôler l'application du règlement; favoriser la sensibilisation du public aux risques et droits relatifs au traitement; conseiller les institutions nationales sur les mesures législatives; encourager la sensibilisation des responsables du traitement et sous-traitants; fournir des informations aux personnes concernées; traiter les réclamations; coopérer avec d'autres autorités; effectuer des enquêtes; suivre les évolutions technologiques pertinentes; adopter les clauses contractuelles types; établir des listes pour les analyses d'impact; encourager l'élaboration de codes de conduite; et mettre en place des mécanismes de certification. Ces missions sont essentielles pour assurer une application cohérente et efficace du RGPD dans chaque État membre."
+    },
+    {
+      "question": "Quels sont les trois types de pouvoirs des autorités de contrôle prévus par l'article 58 du RGPD?",
+      "target": "L'article 58 du RGPD confère aux autorités de contrôle trois types de pouvoirs: 1) Pouvoirs d'enquête: comme obtenir l'accès aux données, aux informations et aux locaux des responsables de traitement; 2) Pouvoirs correctifs: comme avertir, rappeler à l'ordre, ordonner la mise en conformité, imposer des limitations de traitement ou des amendes administratives; 3) Pouvoirs d'autorisation et consultatifs: comme conseiller les responsables de traitement, émettre des avis, agréer des organismes de certification, ou approuver des règles d'entreprise contraignantes. Ces pouvoirs sont essentiels pour que les autorités puissent efficacement superviser et faire respecter le RGPD."
+    },
+    {
+      "question": "Comment fonctionne la coopération entre l'autorité chef de file et les autres autorités concernées?",
+      "target": "Selon l'article 60 du RGPD, l'autorité chef de file coopère avec les autres autorités concernées en s'efforçant de parvenir à un consensus. Elle doit: partager toutes les informations utiles, mener des opérations conjointes si nécessaire, soumettre un projet de décision aux autres autorités pour obtenir leur avis, et tenir compte de leurs objections. Si une autorité concernée formule une objection pertinente et motivée que l'autorité chef de file ne suit pas, la question est soumise au mécanisme de cohérence (art. 63). Ce processus de coopération garantit une application cohérente du RGPD tout en respectant les compétences nationales des différentes autorités, et facilite la vie des entreprises qui n'ont qu'un interlocuteur principal."
+    },
+    {
+      "question": "Qu'est-ce que le mécanisme d'assistance mutuelle entre les autorités de contrôle?",
+      "target": "L'article 61 du RGPD établit un mécanisme d'assistance mutuelle obligeant les autorités de contrôle à se communiquer les informations utiles et à se prêter mutuellement assistance pour appliquer le règlement de façon cohérente. Cette assistance concerne les demandes d'informations, les inspections et les enquêtes. Les autorités doivent répondre dans un délai d'un mois maximum. Une autorité ne peut refuser d'assister que si elle n'est pas compétente pour l'objet de la demande ou si satisfaire à la demande constituerait une violation du règlement ou du droit applicable. En cas de non-réponse dans le délai d'un mois, l'autorité requérante peut adopter une mesure provisoire sur son territoire. Ce mécanisme est essentiel pour assurer une protection cohérente des données à travers l'UE."
+    },
+    {
+      "question": "Comment se déroulent les opérations conjointes des autorités de contrôle selon l'article 62?",
+      "target": "L'article 62 du RGPD prévoit que les autorités de contrôle peuvent mener des opérations conjointes, incluant des enquêtes et des mesures répressives auxquelles participent des membres d'autres autorités. Lorsque des traitements affectent significativement des personnes dans plusieurs États membres, les autorités de ces États ont le droit de participer aux opérations conjointes. L'autorité d'accueil peut conférer des pouvoirs aux agents des autorités d'origine, qui exercent ces pouvoirs sous l'autorité de l'autorité d'accueil. L'État d'accueil assume la responsabilité des actions des agents étrangers, avec un mécanisme de remboursement prévu. Ces opérations renforcent l'efficacité de la supervision transfrontalière et favorisent une application harmonisée du RGPD."
+    },
+    {
+      "question": "Quel est l'objectif du mécanisme de contrôle de la cohérence mentionné à l'article 63?",
+      "target": "L'article 63 du RGPD introduit le mécanisme de contrôle de la cohérence, qui vise à garantir une application cohérente du règlement dans l'ensemble de l'Union européenne. Ce mécanisme est activé notamment lorsqu'il y a des divergences d'appréciation entre les autorités de contrôle. Il permet au Comité européen de la protection des données (CEPD) d'émettre des avis ou d'adopter des décisions contraignantes sur des questions d'application générale ou produisant des effets dans plusieurs États membres. L'objectif est d'éviter les interprétations divergentes du RGPD qui créeraient une fragmentation du niveau de protection des données à caractère personnel dans l'Union, assurant ainsi une harmonisation effective de l'application du règlement."
+    }
+  ]

@@ -1,0 +1,72 @@
+# plugins/regul_aite/backend/requirements.txt
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+pydantic>=2.0.0
+neo4j>=5.8.0
+python-multipart>=0.0.6
+requests>=2.32.3
+python-dotenv>=1.0.0
+openai==1.68.2
+mysql-connector-python==9.2.0
+mariadb==1.1.12
+celery==5.5.1
+redis==5.2.1
+flower==2.0.1
+pytest>=7.4.0  # For testing
+
+# Authentication
+passlib[bcrypt]>=1.7.4
+PyJWT>=2.10.0
+email-validator>=2.0.0
+
+# Document processing
+unstructured==0.17.2
+# Ensure better cloud support
+unstructured-client>=0.13.0  # Client for Unstructured Cloud API
+spacy>=3.7.2
+langdetect>=1.0.9
+langid>=1.1.6
+langchain-text-splitters>=0.3.8  # For TokenTextSplitter
+langchain-core>=0.3.54
+langchain-openai==0.3.18
+huggingface_hub[hf_xet]
+
+# Additional document parsing APIs
+doctly>=0.1.0
+
+# Vector search and embeddings
+qdrant-client[fastembed]==1.13.3
+llama-index-vector-stores-qdrant>=0.5.0
+llama-index-embeddings-fastembed==0.3.1
+llama-index>=0.12.28
+llama-index-core==0.12.30
+llama-index-retrievers-bm25==0.5.2
+sentence-transformers==4.0.2
+llama-index-embeddings-huggingface==0.5.4
+PyStemmer==2.2.0.3
+
+# Language-specific models
+# Required for better French language support
+transformers>=4.51.3
+
+# Task queuing
+celery>=5.5.1
+redis>=5.2.1
+flower>=2.0.1
+nest_asyncio>=1.6.0  # For nested async event loops
+
+# Added for agent visualization and documentation
+graphviz>=0.20.0  # For decision tree visualization
+networkx>=3.0   # For graph operations
+matplotlib>=3.7.0  # For plots and visualizations
+PyYAML>=6.0     # For configuration files
+Jinja2>=3.1.2   # For template rendering
+
+# JSON validation and schema support
+jsonschema>=4.18.0
+
+# Data handling
+pandas>=2.0.0   # For data manipulation
+
+# Time and date handling
+python-dateutil>=2.8.2

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Session Deletion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        button {
+            padding: 8px 16px;
+            background-color: #4415b6;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        input[type="text"] {
+            padding: 8px;
+            width: 300px;
+            margin-right: 10px;
+        }
+        #output {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 15px;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+            min-height: 200px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Test Chat Session Deletion</h1>
+        
+        <div>
+            <h3>Step 1: List Available Sessions</h3>
+            <button id="listSessions">List Sessions</button>
+        </div>
+        
+        <div style="margin-top: 20px;">
+            <h3>Step 2: Delete a Session</h3>
+            <input type="text" id="sessionId" placeholder="Enter session_id to delete">
+            <button id="deleteSession">Delete Session</button>
+        </div>
+        
+        <h3>Output:</h3>
+        <div id="output"></div>
+    </div>
+    
+    <script>
+        const apiUrl = 'http://localhost:8090';
+        const output = document.getElementById('output');
+        
+        // Function to log messages to the output div
+        function log(message) {
+            const timestamp = new Date().toISOString();
+            output.innerHTML += `[${timestamp}] ${message}\n`;
+            console.log(message);
+        }
+        
+        // Function to get the X-User-ID header
+        function getUserId() {
+            // Hardcoded for testing
+            return 'ff892553-a59f-491a-b79e-8e3c4d9a585c';
+        }
+        
+        // List sessions
+        document.getElementById('listSessions').addEventListener('click', async () => {
+            try {
+                log('Listing sessions...');
+                
+                const response = await fetch(`${apiUrl}/chat/sessions`, {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-User-ID': getUserId()
+                    }
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    log('Sessions found: ' + JSON.stringify(data, null, 2));
+                    
+                    if (data.sessions && data.sessions.length > 0) {
+                        // Auto-fill the first session ID
+                        document.getElementById('sessionId').value = data.sessions[0].session_id;
+                    }
+                } else {
+                    log(`Error listing sessions: ${response.status} ${response.statusText}`);
+                }
+            } catch (error) {
+                log(`Error: ${error.message}`);
+            }
+        });
+        
+        // Delete session
+        document.getElementById('deleteSession').addEventListener('click', async () => {
+            const sessionId = document.getElementById('sessionId').value.trim();
+            
+            if (!sessionId) {
+                log('Please enter a session ID to delete');
+                return;
+            }
+            
+            try {
+                log(`Deleting session: ${sessionId}`);
+                log(`Using URL: ${apiUrl}/chat/sessions/${sessionId}`);
+                log(`Headers: X-User-ID: ${getUserId()}`);
+                
+                const response = await fetch(`${apiUrl}/chat/sessions/${sessionId}`, {
+                    method: 'DELETE',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-User-ID': getUserId()
+                    }
+                });
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    log('Session deleted successfully: ' + JSON.stringify(data, null, 2));
+                } else {
+                    log(`Error deleting session: ${response.status} ${response.statusText}`);
+                    const errorText = await response.text();
+                    log(`Error details: ${errorText}`);
+                }
+            } catch (error) {
+                log(`Error: ${error.message}`);
+            }
+        });
+    </script>
+</body>
+</html> 

@@ -1,0 +1,66 @@
+[
+    {
+      "question": "Qu'est-ce que le mécanisme de contrôle de la cohérence dans le RGPD?",
+      "target": "Le mécanisme de contrôle de la cohérence est un cadre établi par le RGPD pour assurer l'application cohérente du règlement dans l'ensemble de l'Union européenne. Il prévoit la coopération entre les autorités nationales de contrôle et, le cas échéant, avec la Commission européenne. Ce mécanisme est crucial pour éviter des interprétations divergentes du RGPD entre les différents États membres et garantir une protection harmonisée des données personnelles à travers l'UE."
+    },
+    {
+      "question": "Dans quels cas le Comité européen de la protection des données doit-il émettre un avis?",
+      "target": "Le Comité doit émettre un avis lorsqu'une autorité de contrôle compétente envisage d'adopter certaines mesures, notamment: 1) adopter une liste d'opérations nécessitant une analyse d'impact relative à la protection des données, 2) statuer sur la conformité d'un code de conduite, 3) approuver les critères d'agrément d'un organisme de certification, 4) établir des clauses types de protection des données, 5) autoriser des clauses contractuelles spécifiques pour les transferts, ou 6) approuver des règles d'entreprise contraignantes (BCR). De plus, toute question d'application générale ou produisant des effets dans plusieurs États membres peut être soumise au Comité pour avis."
+    },
+    {
+      "question": "Quel est le délai standard pour l'adoption d'un avis par le Comité européen de la protection des données?",
+      "target": "Le délai standard pour l'adoption d'un avis par le Comité européen de la protection des données est de huit semaines à la majorité simple des membres. Ce délai peut être prolongé de six semaines supplémentaires en fonction de la complexité de la question examinée. Il est important pour les responsables de traitement et sous-traitants de prendre en compte ces délais lors de la planification de projets impliquant des décisions nécessitant l'avis du Comité, car cela peut avoir un impact significatif sur le calendrier de mise en œuvre."
+    },
+    {
+      "question": "Comment fonctionne le règlement des litiges par le Comité européen de la protection des données?",
+      "target": "Le Comité adopte une décision contraignante dans trois situations principales: 1) lorsqu'une autorité de contrôle a formulé une objection pertinente et motivée à un projet de décision d'une autorité chef de file, ou que cette dernière a rejeté l'objection; 2) lorsqu'il existe des points de vue divergents sur la détermination de l'autorité compétente pour l'établissement principal; 3) lorsqu'une autorité ne demande pas l'avis du Comité ou ne suit pas son avis. La décision est adoptée à la majorité des deux tiers dans un délai d'un mois (prolongeable d'un mois). Cette décision est contraignante pour toutes les autorités concernées et constitue un mécanisme essentiel pour assurer l'application cohérente du RGPD dans l'ensemble de l'UE."
+    },
+    {
+      "question": "Quelles sont les dispositions pour les procédures d'urgence dans le cadre du mécanisme de cohérence?",
+      "target": "Dans des circonstances exceptionnelles, lorsqu'il est urgent d'intervenir pour protéger les droits et libertés des personnes concernées, une autorité de contrôle peut déroger au mécanisme normal de cohérence et adopter immédiatement des mesures provisoires sur son territoire pour une durée maximale de trois mois. Si des mesures définitives sont nécessaires, l'autorité peut demander un avis d'urgence ou une décision contraignante d'urgence au Comité. Ces procédures d'urgence sont adoptées dans un délai de deux semaines à la majorité simple, ce qui est considérablement plus rapide que la procédure standard et permet une réponse adaptée aux situations critiques nécessitant une action immédiate."
+    },
+    {
+      "question": "Quelle est la composition du Comité européen de la protection des données?",
+      "target": "Le Comité européen de la protection des données se compose du chef d'une autorité de contrôle de chaque État membre et du Contrôleur européen de la protection des données (ou leurs représentants). Dans les États membres où plusieurs autorités sont chargées de surveiller l'application du RGPD, un représentant commun est désigné. La Commission européenne a le droit de participer aux réunions sans droit de vote. Cette composition assure une représentation équilibrée de tous les États membres tout en maintenant l'indépendance du Comité vis-à-vis des institutions européennes, ce qui est essentiel pour son rôle d'arbitre et de guide dans l'application du RGPD."
+    },
+    {
+      "question": "Quelles sont les principales missions du Comité européen de la protection des données?",
+      "target": "Le Comité a pour mission principale de veiller à l'application cohérente du RGPD dans l'ensemble de l'UE. Ses missions spécifiques incluent: surveiller l'application du règlement, conseiller la Commission sur toute question relative à la protection des données, publier des lignes directrices sur divers aspects (profilage, violations de données, transferts internationaux, etc.), résoudre les litiges entre autorités nationales, et promouvoir la coopération. Le Comité joue donc un rôle central dans l'écosystème de protection des données européen en assurant une interprétation harmonisée des règles et en fournissant des orientations pratiques aux organisations et aux autorités de contrôle."
+    },
+    {
+      "question": "Comment l'indépendance du Comité européen de la protection des données est-elle garantie?",
+      "target": "L'indépendance du Comité est explicitement garantie par l'article 69 du RGPD qui stipule qu'il exerce ses missions et pouvoirs en toute indépendance. Le Comité ne sollicite ni n'accepte d'instructions de quiconque dans l'exercice de ses fonctions, à l'exception des demandes spécifiques de la Commission prévues par le règlement. Cette indépendance est fondamentale pour assurer l'impartialité de ses décisions et avis, permettant ainsi une application uniforme et objective du RGPD à travers l'Union européenne sans influence politique ou commerciale indue."
+    },
+    {
+      "question": "Quelle est la procédure à suivre par une autorité de contrôle après avoir reçu un avis du Comité?",
+      "target": "Après réception d'un avis du Comité, l'autorité de contrôle concernée doit tenir le plus grand compte de cet avis. Dans un délai de deux semaines suivant la réception, elle doit informer le président du Comité si elle maintient ou modifie son projet de décision initial. Si l'autorité décide de ne pas suivre l'avis du Comité (en tout ou partie), elle doit fournir les motifs de cette décision et le cas sera alors soumis au mécanisme de règlement des litiges prévu à l'article 65. Cette procédure garantit que les avis du Comité sont sérieusement considérés tout en respectant une certaine autonomie des autorités nationales."
+    },
+    {
+      "question": "Comment les décisions contraignantes du Comité sont-elles mises en œuvre au niveau national?",
+      "target": "Lorsque le Comité adopte une décision contraignante, l'autorité de contrôle chef de file ou l'autorité auprès de laquelle la réclamation a été introduite doit adopter sa décision finale sur la base de cette décision contraignante. Cela doit être fait dans les meilleurs délais et au plus tard un mois après la notification de la décision du Comité. La décision finale fait référence à la décision du Comité et précise qu'elle sera publiée sur le site internet du Comité. Ce mécanisme assure que les décisions du Comité sont effectivement appliquées au niveau national tout en maintenant le rôle des autorités nationales dans la relation directe avec les responsables de traitement, sous-traitants et personnes concernées."
+    },
+    {
+      "question": "Quels types de lignes directrices le Comité européen de la protection des données est-il chargé de publier?",
+      "target": "Le Comité est chargé de publier des lignes directrices, recommandations et bonnes pratiques sur de nombreux aspects du RGPD, notamment: les procédures de suppression des liens vers des données personnelles (droit à l'oubli), les critères applicables aux décisions fondées sur le profilage, l'établissement et la notification des violations de données, l'évaluation des risques élevés pour les droits et libertés des personnes, les critères et exigences applicables aux transferts internationaux de données (via BCR ou autres mécanismes). Ces publications sont essentielles pour les professionnels de la conformité, car elles fournissent des interprétations faisant autorité et des conseils pratiques pour l'application du RGPD dans des contextes spécifiques."
+    },
+    {
+      "question": "Que se passe-t-il si une autorité de contrôle ne respecte pas ses obligations d'assistance mutuelle ou de participation aux opérations conjointes?",
+      "target": "Lorsqu'une autorité de contrôle ne respecte pas ses obligations relatives à l'assistance mutuelle (article 61) ou aux opérations conjointes (article 62), toute autorité de contrôle, le président du Comité ou la Commission peut soumettre la question au Comité pour obtenir un avis. Cette procédure vise à garantir que les mécanismes de coopération entre autorités de contrôle fonctionnent efficacement. Il s'agit d'un aspect important du système de gouvernance du RGPD qui permet de résoudre les blocages dans la coopération transfrontalière et d'assurer une surveillance cohérente des activités de traitement qui concernent plusieurs États membres."
+    },
+    {
+      "question": "Comment s'effectue l'échange d'informations entre les autorités de contrôle dans le cadre du mécanisme de cohérence?",
+      "target": "L'échange d'informations entre les autorités de contrôle s'effectue par voie électronique, au moyen d'un formulaire type. Les autorités et la Commission doivent communiquer au Comité toutes les informations utiles, y compris un résumé des faits, le projet de décision, les motifs de la mesure et les points de vue des autres autorités concernées. La Commission peut adopter des actes d'exécution pour définir précisément les modalités de cet échange d'informations. Ce système standardisé facilite une communication efficace et transparente entre les différentes autorités impliquées dans les procédures transfrontalières et contribue à l'application cohérente du RGPD."
+    },
+    {
+      "question": "Quel rôle joue le président du Comité européen de la protection des données dans le processus de cohérence?",
+      "target": "Le président du Comité joue un rôle central dans le processus de cohérence. Il est chargé de transmettre dans les meilleurs délais, par voie électronique, toutes les informations utiles aux membres du Comité et à la Commission. Il publie également les avis et décisions du Comité. En cas d'égalité des voix au sein du Comité lors de l'adoption d'une décision, la voix du président est prépondérante. De plus, il représente officiellement le Comité, qui possède la personnalité juridique en tant qu'organe de l'Union. Ce rôle est crucial pour le bon fonctionnement du mécanisme de cohérence et l'efficacité du Comité."
+    },
+    {
+      "question": "Quelle est la différence entre un avis et une décision contraignante du Comité?",
+      "target": "La principale différence réside dans leur force juridique et leurs contextes d'application. Un avis du Comité est émis dans des cas préventifs (article 64), notamment lors de l'évaluation de mesures planifiées par une autorité de contrôle. Bien que l'autorité doive en tenir le plus grand compte, elle peut choisir de ne pas le suivre en justifiant sa décision. En revanche, une décision contraignante (article 65) est adoptée dans des situations de désaccord ou de non-conformité et s'impose aux autorités concernées. Elle intervient principalement pour résoudre des litiges entre autorités de contrôle et garantir une application uniforme du RGPD dans des cas concrets. Les délais et les majorités requises pour leur adoption diffèrent également."
+    },
+    {
+      "question": "Quelles sont les conséquences si une autorité de contrôle ne suit pas l'avis du Comité?",
+      "target": "Si une autorité de contrôle informe le président du Comité qu'elle n'a pas l'intention de suivre son avis (en tout ou partie), elle doit fournir les motifs pertinents de cette décision. Dans ce cas, l'article 65, paragraphe 1 s'applique, ce qui signifie que la question est soumise au mécanisme de règlement des litiges. Le Comité adopte alors une décision contraignante sur la question, à la majorité des deux tiers de ses membres. Cette procédure assure que, même si une autorité de contrôle peut initialement choisir de ne pas suivre un avis, un mécanisme existe pour garantir l'application cohérente du RGPD dans les situations où les divergences d'interprétation persistent."
+    }
+  ]

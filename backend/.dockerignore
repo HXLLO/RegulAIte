@@ -1,0 +1,35 @@
+# plugins/regul_aite/backend/.dockerignore
+Dockerfile
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+.env
+*.so
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.idea/
+.vscode/
+
+# Data directories that should not be included in the build context
+data/
+*/data/
+**/data/
+data/mariadb/
+data/neo4j/
+data/qdrant/
+**/mariadb/
+**/neo4j/
+**/qdrant/
+
+# Test files
+tests/

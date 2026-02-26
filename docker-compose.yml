@@ -1,0 +1,227 @@
+# plugins/regul_aite/docker-compose.yml
+# RegulAite docker-compose configuration
+services:
+  mariadb:
+    image: mariadb:lts
+    container_name: regulaite-mariadb
+    pull_policy: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=${MARIADB_ROOT_PASSWORD:-StrongR00tP@ssW0rd!}
+      - MYSQL_DATABASE=${MARIADB_DATABASE:-regulaite}
+      - MYSQL_USER=${MARIADB_USER:-regulaite_user}
+      - MYSQL_PASSWORD=${MARIADB_PASSWORD:-SecureP@ssw0rd!}
+      - MARIADB_AUTO_UPGRADE=1
+      - MARIADB_DISABLE_UNIX_SOCKET=1
+    volumes:
+      - ./backend/config/mariadb:/etc/mysql/conf.d:ro
+      - ./backend/config/mariadb/initdb:/docker-entrypoint-initdb.d:ro
+      - ./backend/database/mariadb:/var/lib/mysql
+      - ./database-backups:/app/database-backups:ro
+    ports:
+      - "3306:3306"
+    networks:
+      - regulaite_network
+    restart: on-failure
+    command: [
+      "mariadbd",
+      "--character-set-server=utf8mb4",
+      "--collation-server=utf8mb4_unicode_ci",
+      "--skip-name-resolve",
+      "--skip-host-cache",
+      "--default-authentication-plugin=mysql_native_password",
+      "--bind-address=0.0.0.0",
+      "--max_allowed_packet=64M"
+    ]
+    healthcheck:
+      test: ["CMD-SHELL", "mariadb-admin ping -h localhost -u$MYSQL_USER -p$MYSQL_PASSWORD"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 60s
+    cap_add:
+      - SYS_NICE
+
+  qdrant:
+    image: qdrant/qdrant
+    container_name: regulaite-qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    networks:
+      - regulaite_network
+    volumes:
+      - ./backend/database/qdrant:/qdrant/storage
+    restart: on-failure
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c ':> /dev/tcp/127.0.0.1/6333' || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  unstructured:
+    image: downloads.unstructured.io/unstructured-io/unstructured-api:latest
+    # image: robwilkes/unstructured-api:latest
+    container_name: regulaite-unstructured
+    pull_policy: always
+    ports:
+      - "9900:8000"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/healthcheck"]
+      interval: 1m
+      timeout: 1m
+      retries: 5
+      start_period: 1m30s
+    environment:
+      - UNSTRUCTURED_API_TIMEOUT=600
+    networks:
+      - regulaite_network
+    restart: on-failure
+    depends_on:
+      qdrant:
+        condition: service_healthy
+
+  ai-backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: development
+    container_name: regulaite-ai-backend
+    ports:
+      - "8090:8080"
+      - "50051:50051"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - MARIADB_HOST=mariadb
+      - MARIADB_PORT=3306
+      - MARIADB_DATABASE=${MARIADB_DATABASE:-regulaite}
+      - MARIADB_USER=${MARIADB_USER:-regulaite_user}
+      - MARIADB_PASSWORD=${MARIADB_PASSWORD:-SecureP@ssw0rd!}
+      - QDRANT_URL=http://qdrant:6333
+      - QDRANT_GRPC_URL=qdrant:6334
+      # Document Parser Settings
+      - UNSTRUCTURED_API_URL=${UNSTRUCTURED_API_URL:-http://unstructured:8000/general/v0/general}
+      - UNSTRUCTURED_CLOUD_API_URL=${UNSTRUCTURED_CLOUD_API_URL:-https://api.unstructured.io/general/v0/general}
+      - UNSTRUCTURED_CLOUD_API_KEY=${UNSTRUCTURED_CLOUD_API_KEY:-}
+      - UNSTRUCTURED_EXTRA_ARGS=${UNSTRUCTURED_EXTRA_ARGS:-}
+      - LLAMAPARSE_API_URL=${LLAMAPARSE_API_URL:-https://api.llamaindex.ai/v1/parsing}
+      - LLAMAPARSE_API_KEY=${LLAMAPARSE_API_KEY:-}
+      - DOCTLY_API_URL=${DOCTLY_API_URL:-https://api.doctly.dev/v1/parse}
+      - DOCTLY_API_KEY=${DOCTLY_API_KEY:-}
+      - DEFAULT_PARSER_TYPE=${DEFAULT_PARSER_TYPE:-unstructured}
+      - EXTRACT_TABLES=${EXTRACT_TABLES:-true}
+      - EXTRACT_METADATA=${EXTRACT_METADATA:-true}
+      - EXTRACT_IMAGES=${EXTRACT_IMAGES:-false}
+      - CHUNK_SIZE=${CHUNK_SIZE:-1000}
+      - CHUNK_OVERLAP=${CHUNK_OVERLAP:-200}
+    volumes:
+      - ./backend:/app # Mount the plugin directory for development (removed :ro)
+    networks:
+      - regulaite_network
+    restart: on-failure
+    depends_on:
+      qdrant:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      mariadb:
+        condition: service_healthy
+
+  redis:
+    image: redis:alpine
+    container_name: regulaite-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - regulaite_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    restart: on-failure
+
+  celery-worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: development
+    container_name: regulaite-celery-worker
+    command: celery -A queuing_sys.celery_worker.app worker --loglevel=info
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - MARIADB_HOST=mariadb
+      - MARIADB_PORT=3306
+      - MARIADB_DATABASE=${MARIADB_DATABASE:-regulaite}
+      - MARIADB_USER=${MARIADB_USER:-regulaite_user}
+      - MARIADB_PASSWORD=${MARIADB_PASSWORD:-SecureP@ssw0rd!}
+      - QDRANT_URL=http://qdrant:6333
+      - UNSTRUCTURED_API_URL=${UNSTRUCTURED_API_URL:-http://unstructured:8000/general/v0/general}
+      # Document Parser Settings
+      - UNSTRUCTURED_CLOUD_API_URL=${UNSTRUCTURED_CLOUD_API_URL:-https://api.unstructured.io/general/v0/general}
+      - UNSTRUCTURED_CLOUD_API_KEY=${UNSTRUCTURED_CLOUD_API_KEY:-}
+      - UNSTRUCTURED_EXTRA_ARGS=${UNSTRUCTURED_EXTRA_ARGS:-}
+      - LLAMAPARSE_API_URL=${LLAMAPARSE_API_URL:-https://api.llamaindex.ai/v1/parsing}
+      - LLAMAPARSE_API_KEY=${LLAMAPARSE_API_KEY:-}
+      - DOCTLY_API_URL=${DOCTLY_API_URL:-https://api.doctly.dev/v1/parse}
+      - DOCTLY_API_KEY=${DOCTLY_API_KEY:-}
+      - DEFAULT_PARSER_TYPE=${DEFAULT_PARSER_TYPE:-unstructured}
+      - EXTRACT_TABLES=${EXTRACT_TABLES:-true}
+      - EXTRACT_METADATA=${EXTRACT_METADATA:-true}
+      - EXTRACT_IMAGES=${EXTRACT_IMAGES:-false}
+      - CHUNK_SIZE=${CHUNK_SIZE:-1000}
+      - CHUNK_OVERLAP=${CHUNK_OVERLAP:-200}
+    networks:
+      - regulaite_network
+    depends_on:
+      redis:
+        condition: service_healthy
+      qdrant:
+        condition: service_healthy
+    restart: on-failure
+
+  celery-flower:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: development
+    container_name: regulaite-celery-flower
+    command: celery -A queuing_sys.celery_worker.app flower --port=5555
+    ports:
+      - "5555:5555"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+    networks:
+      - regulaite_network
+    depends_on:
+      redis:
+        condition: service_healthy
+    restart: on-failure
+
+  front-end:
+    build:
+      context: ./front-end
+      dockerfile: Dockerfile
+    container_name: regulaite-front-end
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:8090
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
+      - WDS_SOCKET_PORT=3000
+    volumes:
+      - ./front-end/src:/app/src
+      - ./front-end/public:/app/public
+    restart: on-failure
+    networks:
+      - regulaite_network
+    depends_on:
+      ai-backend:
+        condition: service_started
+
+networks:
+  regulaite_network:
+    external: true
+

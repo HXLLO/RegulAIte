@@ -1,0 +1,194 @@
+/* Chat UI Custom Styles */
+
+/* Pulse animation for processing indicators */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.animate-pulse {
+  animation: pulse 1.5s infinite;
+}
+
+/* Smooth transitions for collapsible sections */
+.thoughts-collapse-enter {
+  opacity: 0;
+  max-height: 0;
+  transform: translateY(-10px);
+}
+
+.thoughts-collapse-enter-active {
+  opacity: 1;
+  max-height: 500px;
+  transform: translateY(0);
+  transition: all 300ms ease-in-out;
+}
+
+.thoughts-collapse-exit {
+  opacity: 1;
+  max-height: 500px;
+  transform: translateY(0);
+}
+
+.thoughts-collapse-exit-active {
+  opacity: 0;
+  max-height: 0;
+  transform: translateY(-10px);
+  transition: all 300ms ease-in-out;
+}
+
+/* Streaming cursor animation */
+.streaming-cursor {
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  51%, 100% {
+    opacity: 0;
+  }
+}
+
+/* Message appearance animations */
+.message-appear {
+  animation: messageSlideIn 0.4s ease-out;
+}
+
+@keyframes messageSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* User message tail styling */
+.user-message-tail::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: -8px;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-left: 8px solid var(--chakra-colors-blue-200);
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent;
+}
+
+.user-message-tail::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: -7px;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-left: 7px solid var(--chakra-colors-blue-50);
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+}
+
+/* Hover effects for interactive elements */
+.interactive-hover {
+  transition: all 0.2s ease-in-out;
+}
+
+.interactive-hover:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Focus styles for accessibility */
+.focus-visible {
+  outline: 2px solid #4415b6;
+  outline-offset: 2px;
+}
+
+/* Smooth scrolling for message container */
+.message-container {
+  scroll-behavior: smooth;
+}
+
+/* Loading state styles */
+.loading-dots {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.loading-dots::after {
+  content: '';
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: currentColor;
+  animation: loadingDots 1.4s infinite ease-in-out;
+}
+
+.loading-dots::before {
+  content: '';
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: currentColor;
+  animation: loadingDots 1.4s infinite ease-in-out;
+  animation-delay: -0.16s;
+}
+
+@keyframes loadingDots {
+  0%, 80%, 100% {
+    opacity: 0.3;
+    transform: scale(0.8);
+  }
+  40% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Source section styling */
+.source-item {
+  transition: all 0.2s ease-in-out;
+}
+
+.source-item:hover {
+  transform: translateX(4px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .user-message-tail::before,
+  .user-message-tail::after {
+    display: none;
+  }
+  
+  .message-appear {
+    animation-duration: 0.3s;
+  }
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .user-message-tail::before {
+    border-left-color: var(--chakra-colors-blue-700);
+  }
+  
+  .user-message-tail::after {
+    border-left-color: var(--chakra-colors-blue-900);
+  }
+  
+  .interactive-hover:hover {
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+  }
+} 

@@ -1,0 +1,26 @@
+[mysqld]
+# Security settings
+local-infile=0
+symbolic-links=0
+
+# Performance settings
+innodb_buffer_pool_size=256M
+max_connections=100
+innodb_io_capacity=200
+innodb_flush_method=O_DIRECT
+innodb_log_file_size=64M
+
+# Logging and auditing
+general_log=0
+log_error=/var/lib/mysql/mysql_error.log
+slow_query_log=1
+slow_query_log_file=/var/lib/mysql/mysql_slow.log
+long_query_time=2
+
+# Character set and collation
+character-set-server=utf8mb4
+collation-server=utf8mb4_unicode_ci
+
+# Safety settings
+skip-host-cache
+skip-name-resolve

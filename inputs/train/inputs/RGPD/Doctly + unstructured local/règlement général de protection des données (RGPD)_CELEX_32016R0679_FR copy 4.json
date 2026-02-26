@@ -1,0 +1,2861 @@
+
+[
+{
+  "type": "NarrativeText",
+  "element_id": "653547a5dc3eaa0eabd99c66056522fb",
+  "text": "L 119/18 FR Journal officiel de l'Union européenne 4.5.2016 il est plus difficile pour ces personnes d'exercer leurs droits. Une analyse d'impact relative à la protection des données devrait également être effectuée lorsque des données à caractère personnel sont traitées en vue de prendre des décisions relatives à des personnes physiques spécifiques à la suite d'une évaluation systématique et approfondie d'aspects personnels propres à des personnes physiques sur la base du profilage desdites données ou à la suite du traitement de catégories particulières de données à caractère personnel, de données biométriques ou de données relatives à des condamnations pénales et à des infractions, ou encore à des mesures de sûreté connexes. Une analyse d'impact relative à la protection des données est de même requise aux fins de la surveillance à grande échelle de zones accessibles au public, en particulier lorsque des dispositifs opto-électro- niques sont utilisés, ou pour toute autre opération pour laquelle l'autorité de contrôle compétente considère que le traitement est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes concernées, en particulier parce qu'elles empêchent ces personnes d'exercer un droit ou de bénéficier d'un service ou d'un contrat, ou parce qu'elles sont effectuées systématiquement à grande échelle. Le traitement de données à caractère personnel ne devrait pas être considéré comme étant à grande échelle si le traitement concerne les données à caractère personnel de patients ou de clients par un médecin, un autre professionnel de la santé ou un avocat exerçant à titre individuel. Dans de tels cas, une analyse d'impact relative à la protection des données ne devrait pas être obligatoire.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d23ea9f11f4e82d9e669e78b6a0288a0",
+  "text": "(92) Il existe des cas dans lesquels il peut être raisonnable et économique d'élargir la portée de l'analyse d'impact relative à la protection des données au-delà d'un projet unique, par exemple lorsque des autorités publiques ou organismes publics entendent mettre en place une application ou une plateforme de traitement commune, ou lorsque plusieurs responsables du traitement envisagent de créer une application ou un environnement de traitement communs à tout un secteur ou segment professionnel, ou pour une activité transversale largement utilisée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "c40d830fff8de96a87744428fff19021",
+  "text": "(93) Au moment de l'adoption du droit d'un État membre qui fonde l'exercice des missions de l'autorité publique ou de l'organisme public concernés et qui règlemente l'opération ou l'ensemble d'opérations de traitement spécifiques, les États membres peuvent estimer qu'une telle analyse est nécessaire préalablement aux activités de traitement.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "769ed9b6fc336ba2c4e406016b5d81a2",
+  "text": "(94) Lorsqu'il ressort d'une analyse d'impact relative à la protection des données que, en l'absence des garanties, de mesures de sécurité et de mécanismes pour atténuer le risque, le traitement engendrerait un risque élevé pour les droits et libertés des personnes physiques et que le responsable du traitement est d'avis que le risque ne peut être atténué par des moyens raisonnables compte tenu des techniques disponibles et des coûts de mise en œuvre, il y a lieu de consulter l'autorité de contrôle avant le début des opérations de traitement. Certains types de traitements et l'ampleur et la fréquence des traitements sont susceptibles d'engendrer un tel risque élevé et peuvent également causer un dommage ou porter atteinte aux droits et libertés d'une personne physique. L'autorité de contrôle devrait répondre à la demande de consultation dans un délai déterminé. Toutefois, l'absence de réaction de l'autorité de contrôle dans le délai imparti devrait être sans préjudice de toute intervention de sa part effectuée dans le cadre de ses missions et de ses pouvoirs prévus par le présent règlement, y compris le pouvoir d'interdire des opérations de traitement. Dans le cadre de ce processus de consultation, les résultats d'une analyse d'impact relative à la protection des données réalisée en ce qui concerne le traitement en question peuvent être soumis à l'autorité de contrôle, notamment les mesures envisagées pour atténuer le risque pour les droits et libertés des personnes physiques.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "cbea2790f0313cbe399d2d90a412d67e",
+  "text": "(95) Le sous-traitant devrait aider le responsable du traitement, si nécessaire et sur demande, à assurer le respect des obligations découlant de la réalisation des analyses d'impact relatives à la protection des données et de la consultation préalable de l'autorité de contrôle.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "f36bb2b4960062966c7c2de593170419",
+  "text": "(96) L'autorité de contrôle devrait également être consultée au stade de la préparation d'une mesure législative ou réglementaire qui prévoit le traitement de données à caractère personnel, afin d'assurer que le traitement prévu respecte le présent règlement et, en particulier, d'atténuer le risque qu'il comporte pour la personne concernée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "dcb6c7c5765850ee275062718c36659b",
+  "text": "(97) Lorsque le traitement est réalisé par une autorité publique, à l'exception des juridictions ou des autorités judiciaires indépendantes agissant dans l'exercice de leur fonction juridictionnelle, lorsque, dans le secteur privé, il est effectué par un responsable du traitement dont les activités de base consistent en opérations de traitement exigeant un suivi régulier et systématique à grande échelle des personnes concernées, ou lorsque les activités de base du responsable du traitement ou du sous-traitant consistent en un traitement à grande échelle de catégories particulières de données à caractère personnel et de données relatives à des condamnations pénales et à des infractions, une personne possédant des connaissances spécialisées de la législation et des pratiques en matière de protection des données devrait aider le responsable du traitement ou le sous-traitant à vérifier le respect, au niveau interne, du présent règlement. Dans le secteur privé, les activités de base d'un responsable du traitement ont trait à ses activités principales et ne concernent pas le traitement des données à caractère personnel en tant qu'activité auxiliaire. Le niveau de connaissances spécialisées requis devrait être déterminé notamment en fonction",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "5beb89bdb7d957bf33770935cd9e1471",
+  "text": "-------------------------------------------------------------------------------- Page 19",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "40dc4c6b3b26e435257b9f4675694d35",
+  "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/19 des opérations de traitement de données effectuées et de la protection exigée pour les données à caractère personnel traitées par le responsable du traitement ou le sous-traitant. De tels délégués à la protection des données, qu'ils soient ou non des employés du responsable du traitement, devraient être en mesure d'exercer leurs fonctions et missions en toute indépendance.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "461a730c4c55cfd1d1f48e769344fec1",
+  "text": "(98) Il y a lieu d'encourager les associations ou autres organismes représentant des catégories de responsables du traitement ou de sous-traitants à élaborer des codes de conduite, dans les limites du présent règlement, de manière à en faciliter la bonne application, compte tenu des spécificités des traitements effectués dans certains secteurs et des besoins spécifiques des micro, petites et moyennes entreprises. Ces codes de conduite pourraient, en particulier, définir les obligations qui incombent aux responsables du traitement et aux sous-traitants, compte tenu du risque que le traitement peut engendrer pour les droits et libertés des personnes physiques.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "437c2b533e7945436cabb8e23d14959e",
+  "text": "(99) Lors de l'élaboration d'un code de conduite, ou lors de sa modification ou prorogation, les associations et autres organismes représentant des catégories de responsables du traitement ou de sous-traitants devraient consulter les parties intéressées, y compris les personnes concernées lorsque cela est possible, et tenir compte des contributions transmises et des opinions exprimées à la suite de ces consultations.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "328f4c27f976bdb48f7aef8ce4b00025",
+  "text": "(100) Afin de favoriser la transparence et le respect du présent règlement, la mise en place de mécanismes de certifi- cation ainsi que de labels et de marques en matière de protection des données devrait être encouragée pour permettre aux personnes concernées d'évaluer rapidement le niveau de protection des données offert par les produits et services en question.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "809cf223cf2bb47c99a5522b8adce2df",
+  "text": "(101) Les flux de données à caractère personnel à destination et en provenance de pays en dehors de l'Union et d'orga- nisations internationales sont nécessaires au développement du commerce international et de la coopération internationale. L'augmentation de ces flux a créé de nouveaux enjeux et de nouvelles préoccupations en ce qui concerne la protection des données à caractère personnel. Cependant, il importe que, lorsque des données à caractère personnel sont transférées de l'Union à des responsables du traitement, sous-traitants ou autres destina- taires dans des pays tiers ou à des organisations internationales, le niveau de protection des personnes physiques garanti dans l'Union par le présent règlement ne soit pas compromis, y compris en cas de transferts ultérieurs de données à caractère personnel au départ du pays tiers ou de l'organisation internationale à des responsables du traitement ou sous-traitants dans le même pays tiers ou dans un pays tiers différent, ou à une autre organisation internationale. En tout état de cause, les transferts vers des pays tiers et à des organisations internationales ne peuvent avoir lieu que dans le plein respect du présent règlement. Un transfert ne pourrait avoir lieu que si, sous réserve des autres dispositions du présent règlement, les dispositions du présent règlement relatives au transfert de données à caractère personnel vers des pays tiers ou à des organisations internationales sont respectées par le responsable du traitement ou le sous-traitant.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "56dfb9ce8894f2dbd888a5114c71656f",
+  "text": "(102) Le présent règlement s'entend sans préjudice des accords internationaux conclus entre l'Union et les pays tiers en vue de réglementer le transfert des données à caractère personnel, y compris les garanties appropriées au bénéfice des personnes concernées. Les États membres peuvent conclure des accords internationaux impliquant le transfert de données à caractère personnel vers des pays tiers ou à des organisations internationales dans la mesure où ces accords n'affectent pas le présent règlement ou toute autre disposition du droit de l'Union et prévoient un niveau approprié de protection des droits fondamentaux des personnes concernées.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "76e5ed1df0b8b1c5ffaedb37e2ea135a",
+  "text": "(103) La Commission peut décider, avec effet dans l'ensemble de l'Union, qu'un pays tiers, un territoire ou un secteur déterminé dans un pays tiers, ou une organisation internationale offre un niveau adéquat de protection des données, assurant ainsi une sécurité juridique et une uniformité dans l'ensemble l'Union en ce qui concerne le pays tiers ou l'organisation internationale qui est réputé offrir un tel niveau de protection. Dans ce cas, les transferts de données à caractère personnel vers ce pays tiers ou cette organisation internationale peuvent avoir lieu sans qu'il soit nécessaire d'obtenir une autre autorisation. La Commission peut également décider, après en avoir informé le pays tiers ou l'organisation internationale et lui avoir fourni une justification complète, de révoquer une telle décision.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7d820decb299ba2e5aa438c542d8e945",
+  "text": "(104) Eu égard aux valeurs fondamentales sur lesquelles est fondée l'Union, en particulier la protection des droits de l'homme, la Commission devrait, dans son évaluation d'un pays tiers, d'un territoire ou d'un secteur déterminé dans un pays tiers, prendre en considération la manière dont un pays tiers déterminé respecte l'état de droit, garantit l'accès à la justice et observe les règles et normes internationales dans le domaine des droits de l'homme, ainsi que sa législation générale et sectorielle, y compris la législation sur la sécurité publique, la défense et la sécurité nationale ainsi que l'ordre public et le droit pénal. Lors de l'adoption, à l'égard d'un territoire ou d'un secteur déterminé dans un pays tiers, d'une décision d'adéquation, il y a lieu de tenir compte de critères clairs et objectifs, telles que les activités de traitement spécifiques et le champ d'application des normes juridiques applicables et de la législation en vigueur dans le pays tiers. Le pays tiers devrait offrir des garanties pour assurer un niveau adéquat de protection essentiellement équivalent à celui qui est garanti dans l'Union, en particulier",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "c9cdda80b9c124c19f521e99645552bb",
+  "text": "-------------------------------------------------------------------------------- Page 20",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "2cca97b55f7ec0b3048e66df5ab6956e",
+  "text": "L 119/20 FR Journal officiel de l'Union européenne 4.5.2016",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "f98213fcb9eb96979ce9bfc109742880",
+  "text": "quand les données à caractère personnel sont traitées dans un ou plusieurs secteurs spécifiques. Plus particuliè- rement, le pays tiers devrait assurer un contrôle indépendant effectif de la protection des données et prévoir des mécanismes de coopération avec les autorités de protection des données des États membres, et les personnes concernées devraient se voir octroyer des droits effectifs et opposables ainsi que des possibilités effectives de recours administratif et juridictionnel.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d66e7a88283dfe86a9497b144aa2e02b",
+  "text": "(105) Outre les engagements internationaux pris par le pays tiers ou l'organisation internationale, la Commission devrait tenir compte des obligations découlant de la participation du pays tiers ou de l'organisation internationale à des systèmes multilatéraux ou régionaux, notamment en ce qui concerne la protection des données à caractère personnel, ainsi que de la mise en œuvre de ces obligations. Il y a lieu, en particulier, de prendre en considération l'adhésion du pays tiers à la convention du Conseil de l'Europe du 28 janvier 1981 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel et à son protocole additionnel. Lorsqu'elle évalue le niveau de protection offert par des pays tiers ou des organisations internationales, la Commission devrait consulter le comité.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "26e24eae70f6d4d46ab7a7940aaa6f3d",
+  "text": "(106) La Commission devrait surveiller le fonctionnement des décisions relatives au niveau de protection offert par un pays tiers, un territoire ou un secteur déterminé dans un pays tiers, ou par une organisation internationale, et surveiller le fonctionnement des décisions adoptées sur la base de l'article 25, paragraphe 6, ou de l'article 26, paragraphe 4, de la directive 95/46/CE. Dans ses décisions d'adéquation, la Commission devrait prévoir un mécanisme d'examen périodique de leur fonctionnement. Cet examen périodique devrait être effectué en consultation avec le pays tiers ou l'organisation internationale en question et tenir compte de l'ensemble des évolutions présentant un intérêt dans le pays tiers ou au sein de l'organisation internationale. Aux fins de la surveillance et de la réalisation des examens périodiques, la Commission devrait prendre en considération les observations et les conclusions du Parlement européen et du Conseil, ainsi que d'autres organes et sources pertinents. La Commission devrait évaluer le fonctionnement desdites décisions dans un délai raisonnable et communiquer toute conclusion pertinente au comité au sens du règlement (UE) n° 182/2011 du Parlement européen et du Conseil (¹) établi en vertu du présent règlement, au Parlement européen et au Conseil.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "662db6dd1c87fddbf5f8e5ea0af1dfa9",
+  "text": "(107) La Commission peut constater qu'un pays tiers, un territoire ou un secteur déterminé dans un pays tiers, ou une organisation internationale n'assure plus un niveau adéquat de protection des données. En conséquence, le transfert de données à caractère personnel vers ce pays tiers ou à cette organisation internationale devrait être interdit, à moins que les exigences du présent règlement relatives aux transferts faisant l'objet de garanties appropriées, y compris des règles d'entreprise contraignantes et des dérogations pour des situations particulières, soient respectées. Dans ce cas, il y aurait lieu de prévoir des consultations entre la Commission et le pays tiers ou l'organisation internationale en question. La Commission devrait informer en temps utile le pays tiers ou l'organi- sation internationale des motifs de sa conclusion et engager des consultations avec ceux-ci en vue de remédier à la situation.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "928a35e4474939133e8d370b4fcdc43b",
+  "text": "(108) En l'absence de décision d'adéquation, le responsable du traitement ou le sous-traitant devrait prendre des mesures pour compenser l'insuffisance de la protection des données dans le pays tiers par des garanties appropriées en faveur de la personne concernée. Ces garanties peuvent consister à recourir à des règles d'entreprise contraignantes, des clauses types de protection des données adoptées par la Commission, des clauses types de protection des données adoptées par une autorité de contrôle ou des clauses contractuelles autorisées par une autorité de contrôle. Ces garanties devraient assurer le respect des exigences en matière de protection des données et des droits des personnes concernées d'une manière appropriée au traitement au sein de l'Union, y compris l'existence de droits opposables de la personne concernée et de voies de droit effectives, ce qui comprend le droit d'engager un recours administratif ou juridictionnel effectif et d'introduire une action en réparation, dans l'Union ou dans un pays tiers. Ces garanties devraient porter, en particulier, sur le respect des principes généraux concernant le traitement des données à caractère personnel et des principes de protection des données dès la conception et de protection des données par défaut. Des transferts peuvent également être effectués par des autorités publiques ou des organismes publics avec des autorités publiques ou des organismes publics dans des pays tiers ou avec des organisations internationales exerçant des missions ou fonctions correspondantes, y compris sur la base de dispositions à intégrer dans des arrangements administratifs, telles qu'un protocole d'accord, prévoyant des droits opposables et effectifs pour les personnes concernées. L'autorisation de l'autorité de contrôle compétente devrait être obtenue lorsque ces garanties sont prévues dans des arrangements administratifs qui ne sont pas juridiquement contraignants.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "f72ce6ffc8ca0260ef6d64878658ab03",
+  "text": "(109) La possibilité qu'ont les responsables du traitement et les sous-traitants de recourir à des clauses types de protection des données adoptées par la Commission ou par une autorité de contrôle ne devrait pas les empêcher",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "641b45ab6b15a8b87989483cdc43fe56",
+  "text": "(¹) Règlement (UE) n° 182/2011 du Parlement européen et du Conseil du 16 février 2011 établissant les règles et principes généraux relatifs aux modalités de contrôle par les États membres de l'exercice des compétences d'exécution par la Commission (JO L 55 du 28.2.2011, p. 13).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "d97bfc8efacac4aabdae982e2e0c4954",
+  "text": "-------------------------------------------------------------------------------- Page 21",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d470e2b6d64782c7dd53b1c7b53a7b56",
+  "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/21 d'inclure ces clauses dans un contrat plus large, tel qu'un contrat entre le sous-traitant et un autre sous-traitant, ni d'y ajouter d'autres clauses ou des garanties supplémentaires, à condition que celles-ci ne contredisent pas, directement ou indirectement, les clauses contractuelles types adoptées par la Commission ou par une autorité de contrôle et qu'elles ne portent pas atteinte aux libertés et droits fondamentaux des personnes concernées. Les responsables du traitement et les sous-traitants devraient être encouragés à fournir des garanties supplémentaires par l'intermédiaire d'engagements contractuels qui viendraient compléter les clauses types de protection.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "641d8ce7dcdf5b722b8461f240825070",
+  "text": "(110) Un groupe d'entreprises ou un groupe d'entreprises engagées dans une activité économique conjointe devrait pouvoir recourir à des règles d'entreprise contraignantes approuvées pour ses transferts internationaux de l'Union vers des entités du même groupe d'entreprises, ou du même groupe d'entreprises engagées dans une activité économique conjointe, à condition que ces règles d'entreprise incluent tous les principes essentiels et les droits opposables pour assurer des garanties appropriées pour les transferts ou catégories de transferts de données à caractère personnel.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "2cf62e70775c34502bba09c2b2c4e47c",
+  "text": "(111) Il y a lieu de prévoir la possibilité de transferts dans certains cas où la personne concernée a donné son consentement explicite, lorsque le transfert est occasionnel et nécessaire dans le cadre d'un contrat ou d'une action en justice, qu'il s'agisse d'une procédure judiciaire, administrative ou extrajudiciaire, y compris de procédures devant des organismes de régulation. Il convient également de prévoir la possibilité de transferts lorsque des motifs importants d'intérêt public établis par le droit de l'Union ou le droit d'un État membre l'exigent, ou lorsque le transfert intervient au départ d'un registre établi par la loi et destiné à être consulté par le public ou par des personnes ayant un intérêt légitime. Dans ce dernier cas, ce transfert ne devrait pas porter sur la totalité des données à caractère personnel ni sur des catégories entières de données contenues dans le registre et, lorsque celui-ci est destiné à être consulté par des personnes ayant un intérêt légitime, le transfert ne devrait être effectué qu'à la demande de ces personnes ou lorsqu'elles doivent en être les destinataires, compte dûment tenu des intérêts et des droits fondamentaux de la personne concernée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "054655fbcd5b7cbd104a49ebdad6a9c9",
+  "text": "(112) Ces dérogations devraient s'appliquer en particulier aux transferts de données requis et nécessaires pour des motifs importants d'intérêt public, par exemple en cas d'échange international de données entre autorités de la concurrence, administrations fiscales ou douanières, entre autorités de surveillance financière, entre services chargés des questions de sécurité sociale ou relatives à la santé publique, par exemple aux fins de la recherche des contacts des personnes atteintes de maladies contagieuses ou en vue de réduire et/ou d'éliminer le dopage dans le sport. Le transfert de données à caractère personnel devrait également être considéré comme licite lorsqu'il est nécessaire pour protéger un intérêt essentiel pour la sauvegarde des intérêts vitaux, y compris l'intégrité physique ou la vie, de la personne concernée ou d'une autre personne, si la personne concernée se trouve dans l'incapacité de donner son consentement. En l'absence d'une décision d'adéquation, le droit de l'Union ou le droit d'un État membre peut, pour des motifs importants d'intérêt public, fixer expressément des limites au transfert de catégories particulières de données vers un pays tiers ou à une organisation internationale. Les États membres devraient notifier ces dispositions à la Commission. Tout transfert vers une organisation humanitaire interna- tionale de données à caractère personnel d'une personne concernée qui se trouve dans l'incapacité physique ou juridique de donner son consentement, en vue d'accomplir une mission relevant des conventions de Genève ou de respecter le droit humanitaire international applicable dans les conflits armés, pourrait être considéré comme nécessaire pour des motifs importants d'intérêt public ou parce que ce transfert est dans l'intérêt vital de la personne concernée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "657e17b7afee71c9fd7e7efa3eb33513",
+  "text": "(113) Les transferts qui peuvent être qualifiés de non répétitifs et qui ne touchent qu'un nombre limité de personnes concernées pourraient également être autorisés aux fins des intérêts légitimes impérieux poursuivis par le responsable du traitement, lorsque ces intérêts prévalent sur les intérêts ou les libertés et droits fondamentaux de la personne concernée et lorsque le responsable du traitement a évalué toutes les circonstances entourant le transfert de données. Le responsable du traitement devrait accorder une attention particulière à la nature des données à caractère personnel, à la finalité et à la durée de la ou des opérations de traitement envisagées ainsi qu'à la situation dans le pays d'origine, le pays tiers et le pays de destination finale, et devrait prévoir des garanties appropriées pour protéger les libertés et droits fondamentaux des personnes physiques à l'égard du traitement de leurs données à caractère personnel. De tels transferts ne devraient être possibles que dans les cas résiduels dans lesquels aucun des autres motifs de transfert ne sont applicables. A des fins de recherche scientifique ou historique ou à des fins statistiques, il y a lieu de prendre en considération les attentes légitimes de la société en matière de progrès des connaissances. Le responsable du traitement devrait informer l'autorité de contrôle et la personne concernée du transfert.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "50bc8023b63dba9fdb3b864790b36cf0",
+  "text": "(114) En tout état de cause, lorsque la Commission ne s'est pas prononcée sur le caractère adéquat du niveau de protection des données dans un pays tiers, le responsable du traitement ou le sous-traitant devrait adopter des solutions qui garantissent aux personnes concernées des droits opposables et effectifs en ce qui concerne le traitement de leurs données dans l'Union une fois que ces données ont été transférées, de façon à ce que lesdites personnes continuent de bénéficier des droits fondamentaux et des garanties.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "df7dbb6a7b2c84fea4715fc6bbb3fa88",
+  "text": "-------------------------------------------------------------------------------- Page 22",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "828bade9217197c795649a0e7874246b",
+  "text": "(115) Certains pays tiers adoptent des lois, des règlements et d'autres actes juridiques qui visent à réglementer directement les activités de traitement effectuées par des personnes physiques et morales qui relèvent de la compétence des États membres. Il peut s'agir de décisions de juridictions ou d'autorités administratives de pays tiers qui exigent d'un responsable du traitement ou d'un sous-traitant qu'il transfère ou divulgue des données à caractère personnel, et qui ne sont pas fondées sur un accord international, tel qu'un traité d'entraide judiciaire, en vigueur entre le pays tiers demandeur et l'Union ou un État membre. L'application extraterritoriale de ces lois, règlements et autres actes juridiques peut être contraire au droit international et faire obstacle à la protection des personnes physiques garantie dans l'Union par le présent règlement. Les transferts ne devraient être autorisés que lorsque les conditions fixées par le présent règlement pour les transferts vers les pays tiers sont remplies. Ce peut être le cas, entre autres, lorsque la divulgation est nécessaire pour un motif important d'intérêt public reconnu par le droit de l'Union ou le d'un État membre auquel le responsable du traitement est soumis.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "650e3a2483938653d7da3216a605b825",
+  "text": "(116) Lorsque des données à caractère personnel franchissent les frontières extérieures de l'Union, cela peut accroître le risque que les personnes physiques ne puissent exercer leurs droits liés à la protection des données, notamment pour se protéger de l'utilisation ou de la divulgation illicite de ces informations. De même, les autorités de contrôle peuvent être confrontées à l'impossibilité d'examiner des réclamations ou de mener des enquêtes sur les activités exercées en dehors de leurs frontières. Leurs efforts pour collaborer dans le contexte transfrontalier peuvent également être freinés par les pouvoirs insuffisants dont elles disposent en matière de prévention ou de recours, par l'hétérogénéité des régimes juridiques et par des obstacles pratiques tels que le manque de ressources. En conséquence, il est nécessaire de favoriser une coopération plus étroite entre les autorités de contrôle de la protection des données, pour les aider à échanger des informations et mener des enquêtes avec leurs homologues internationaux. Aux fins d'élaborer des mécanismes de coopération internationale destinés à faciliter et à mettre en place une assistance mutuelle internationale pour faire appliquer la législation relative à la protection des données à caractère personnel, la Commission et les autorités de contrôle devraient échanger des informations et coopérer dans le cadre d'activités liées à l'exercice de leurs compétences avec les autorités compétentes dans les pays tiers, sur une base réciproque et conformément au présent règlement.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "3ceabf5fb0a6f850c160f9d070144ec1",
+  "text": "(117) La mise en place d'autorités de contrôle dans les États membres, habilitées à exercer leurs missions et leurs pouvoirs en toute indépendance, est un élément essentiel de la protection des personnes physiques à l'égard du traitement des données à caractère personnel. Les États membres devraient pouvoir mettre en place plusieurs autorités de contrôle en fonction de leur structure constitutionnelle, organisationnelle et administrative.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "9ec81d1770d5c4a24e8ee4424aa7d214",
+  "text": "(118) L'indépendance des autorités de contrôle ne devrait pas signifier que celles-ci ne peuvent être soumises à des mécanismes de contrôle ou de suivi de leur gestion financière ni à un contrôle juridictionnel.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d8978aea7592df483e148efd1655a848",
+  "text": "(119) Lorsqu'un État membre met en place plusieurs autorités de contrôle, il devrait établir par la loi des dispositifs garantissant la participation effective de ces autorités au mécanisme de contrôle de la cohérence. Il devrait en particulier désigner l'autorité de contrôle qui sert de point de contact unique, permettant une participation efficace de ces autorités au mécanisme, afin d'assurer une coopération rapide et aisée avec les autres autorités de contrôle, le comité et la Commission.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "5f60d41716836fe924377a736b487653",
+  "text": "(120) Il convient que chaque autorité de contrôle soit dotée des moyens financiers et humains, ainsi que des locaux et des infrastructures nécessaires à la bonne exécution de ses missions, y compris celles qui sont liées à l'assistance mutuelle et à la coopération avec d'autres autorités de contrôle dans l'ensemble de l'Union. Chaque autorité de contrôle devrait disposer d'un budget annuel public propre, qui peut faire partie du budget global national ou d'une entité fédérée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7f3d62b3b1544b3e20e5c99e8bafe3b4",
+  "text": "(121) Les conditions générales applicables au(x) membre(s) de l'autorité de contrôle devraient être fixées par la loi dans chaque État membre et devraient prévoir notamment que ces membres sont nommés, selon une procédure transparente, par le parlement, le gouvernement ou le chef d'État de cet État membre, sur proposition du gouvernement ou d'un membre du gouvernement, ou du parlement ou d'une chambre du parlement, ou par un organisme indépendant qui en a été chargé en vertu du droit d'un État membre,. Afin de garantir l'indépendance de l'autorité de contrôle, il convient que le membre ou les membres de celle-ci agissent avec intégrité, s'abstiennent de tout acte incompatible avec leurs fonctions et n'exercent, pendant la durée de leur mandat, aucune activité professionnelle incompatible, rémunérée ou non. Chaque autorité de contrôle devrait disposer de ses propres agents, choisis par elle-même ou un organisme indépendant établi par le droit d'un État membre, qui devraient être placés sous les ordres exclusifs du membre ou des membres de l'autorité de contrôle.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "869b9aff6357aae629ec02775e791b9a",
+  "text": "(122) Chaque autorité de contrôle devrait être compétente sur le territoire de l'État membre dont elle relève pour exercer les missions et les pouvoirs dont elle est investie conformément au présent règlement. Cela devrait",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "8420b2beff2605a3ab6fc89566dbd67a",
+  "text": "-------------------------------------------------------------------------------- Page 23",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "2336a4d061dda0763bf889c94e7d40f8",
+  "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/23",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "89380eeab00435ec36a9afcf9710429c",
+  "text": "couvrir, notamment, le traitement dans le cadre d'activités menées par un établissement du responsable du traitement ou du sous-traitant sur le territoire de l'État membre dont elle relève, le traitement de données à caractère personnel effectué par des autorités publiques ou des organismes privés agissant dans l'intérêt public, le traitement affectant des personnes concernées sur le territoire de l'État membre dont elle relève, ou encore le traitement effectué par un responsable du traitement ou un sous-traitant qui n'est pas établi dans l'Union lorsque ce traitement vise des personnes concernées résidant sur le territoire de l'État membre dont elle relève. Cela devrait comprendre notamment le traitement des réclamations introduites par les personnes concernées, la conduite d'enquêtes sur l'application du présent règlement et la sensibilisation du public aux risques, règles, garanties et droits liés au traitement des données à caractère personnel.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "b99091634a3a274e3f944612cc20894f",
+  "text": "(123) Il y a lieu que les autorités de contrôle surveillent l'application des dispositions en vertu du présent règlement et contribuent à ce que cette application soit cohérente dans l'ensemble de l'Union, afin de protéger les personnes physiques à l'égard du traitement de leurs données à caractère personnel et de faciliter le libre flux de ces données dans le marché intérieur. À cet effet, les autorités de contrôle devraient coopérer entre elles et avec la Commission sans qu'un accord doive être conclu entre les États membres sur la fourniture d'une assistance mutuelle ou sur une telle coopération.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "3f0d7708a8c9a468288cbba0be60dcea",
+  "text": "(124) Lorsque le traitement des données à caractère personnel a lieu dans le cadre des activités d'un établissement d'un responsable du traitement ou d'un sous-traitant dans l'Union et que ce responsable du traitement ou ce sous- traitant est établi dans plusieurs États membres, ou que le traitement qui a lieu dans le cadre des activités d'un établissement unique d'un responsable du traitement ou d'un sous-traitant dans l'Union affecte sensiblement ou est susceptible d'affecter sensiblement des personnes concernées dans plusieurs États membres, l'autorité de contrôle dont relève l'établissement principal ou l'établissement unique du responsable du traitement ou du sous- traitant devrait faire office d'autorité chef de file. Elle devrait coopérer avec les autres autorités concernées dans le cas où le responsable du traitement ou le sous-traitant a un établissement sur le territoire de l'État membre dont elles relèvent, dans le cas où les personnes concernées résidant sur le territoire dont elles relèvent sont affectées sensiblement ou encore dans le cas où une réclamation leur a été adressée. En outre, lorsqu'une personne concernée ne résidant pas dans cet État membre a introduit une réclamation, l'autorité de contrôle auprès de laquelle celle-ci a été introduite devrait également être une autorité de contrôle concernée. Dans le cadre de ses missions liées à la publication de lignes directrices sur toute question portant sur l'application du présent règlement, le comité devrait pouvoir publier des lignes directrices portant, en particulier, sur les critères à prendre en compte afin de déterminer si le traitement en question affecte sensiblement des personnes concernées dans plusieurs États membres et sur ce qui constitue une objection pertinente et motivée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "18be6a5ed844f80d13c4590d28cecc42",
+  "text": "(125) L'autorité chef de file devrait être compétente pour adopter des décisions contraignantes concernant les mesures visant à mettre en œuvre les pouvoirs qui lui sont conférés conformément au présent règlement. En sa qualité d'autorité chef de file, l'autorité de contrôle devrait associer de près les autorités de contrôle concernées au processus décisionnel et assurer une coordination étroite dans ce cadre. Lorsque qu'il est décidé de rejeter, en tout ou en partie, la réclamation introduite par la personne concernée, cette décision devrait être adoptée par l'autorité de contrôle auprès de laquelle la réclamation a été introduite.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "705a5385bd4ae2d5d72040d9ccf69803",
+  "text": "(126) La décision devrait être adoptée conjointement par l'autorité de contrôle chef de file et les autorités de contrôle concernées, être adressée à l'établissement principal ou unique du responsable du traitement ou du sous-traitant et être contraignante pour le responsable du traitement et le sous-traitant. Le responsable du traitement ou le sous-traitant devraient prendre les mesures nécessaires pour garantir le respect du présent règlement et l'appli- cation de la décision notifiée par l'autorité de contrôle chef de file à l'établissement principal du responsable du traitement ou du sous-traitant en ce qui concerne les activités de traitement dans l'Union.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "9c5e061f19365cb7fc5e11053b690524",
+  "text": "(127) Chaque autorité de contrôle qui ne fait pas office d'autorité de contrôle chef de file devrait être compétente pour traiter les cas de portée locale lorsque le responsable du traitement ou le sous-traitant est établi dans plusieurs États membres mais que l'objet du traitement spécifique ne se rapporte qu'à un traitement effectué dans un seul État membre et ne porte que sur des personnes concernées de ce seul État membre, par exemple lorsqu'il s'agit de traiter des données à caractère personnel relatives à des employés dans le contexte des relations de travail propre à un État membre. Dans ces cas, l'autorité de contrôle devrait informer sans tarder l'autorité de contrôle chef de file de la question. Après avoir été informée, l'autorité de contrôle chef de file devrait décider si elle traitera le cas en vertu de la disposition relative à la coopération entre l'autorité de contrôle chef de file et les autres autorités de contrôle concernées (ci-après dénommé «mécanisme de guichet unique»), ou si l'autorité de contrôle qui l'a informée devrait traiter le cas au niveau local. Lorsqu'elle décide si elle traitera le cas, l'autorité de contrôle chef de file devrait considérer s'il existe un établissement du responsable du traitement ou du sous-traitant dans l'État membre dont relève l'autorité de contrôle qui l'a informée, afin d'assurer l'exécution effective d'une décision à l'égard du responsable du traitement ou du sous-traitant. Lorsque l'autorité de contrôle chef de file décide de",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "2dce950c529bfa6122f7367815b364a1",
+  "text": "-------------------------------------------------------------------------------- Page 24",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d6082fcca0c1cb06af859488c7285b6c",
+  "text": "L 119/24 FR Journal officiel de l'Union européenne 4.5.2016",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a9c6acc9e366836079373cd3bbb378b3",
+  "text": "traiter le cas, l'autorité de contrôle qui l'a informée devrait avoir la possibilité de soumettre un projet de décision, dont l'autorité de contrôle chef de file devrait tenir le plus grand compte lorsqu'elle élabore son projet de décision dans le cadre de ce mécanisme de guichet unique.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "388d2525db923daaf9da1514f9698e0c",
+  "text": "(128) Les règles relatives à l'autorité de contrôle chef de file et au mécanisme de guichet unique ne devraient pas s'appliquer lorsque le traitement est effectué par des autorités publiques ou des organismes privés dans l'intérêt public. Dans ce cas, la seule autorité de contrôle compétente pour exercer les pouvoirs qui lui sont conférés conformément au présent règlement devrait être l'autorité de contrôle de l'État membre dans lequel l'autorité publique ou l'organisme privé est établi.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "58544bcb948795b6c0f0d097568c6669",
+  "text": "(129) Afin de veiller à faire appliquer le présent règlement et à contrôler son application de manière cohérente dans l'ensemble de l'Union, les autorités de contrôle devraient avoir, dans chaque État membre, les mêmes missions et les mêmes pouvoirs effectifs, y compris les pouvoirs d'enquête, le pouvoir d'adopter des mesures correctrices et d'infliger des sanctions, ainsi que le pouvoir d'autoriser et d'émettre des avis consultatifs, notamment en cas de réclamation introduite par des personnes physiques, et, sans préjudice des pouvoirs des autorités chargées des poursuites en vertu du droit d'un État membre, le pouvoir de porter les violations du présent règlement à l'attention des autorités judiciaires et d'ester en justice. Ces pouvoirs devraient également inclure celui d'imposer une limitation temporaire ou définitive au traitement, y compris une interdiction. Les États membres peuvent préciser d'autres missions liées à la protection des données à caractère personnel en application du présent règlement. Les pouvoirs des autorités de contrôle devraient être exercés conformément aux garanties procédurales appropriées prévues par le droit de l'Union et le droit des État membres, d'une manière impartiale et équitable et dans un délai raisonnable. Toute mesure devrait notamment être appropriée, nécessaire et proportionnée en vue de garantir le respect du présent règlement, compte tenu des circonstances de l'espèce, respecter le droit de chacun à être entendu avant que soit prise toute mesure individuelle susceptible de lui porter atteinte et éviter les coûts superflus ainsi que les désagréments excessifs pour les personnes concernées. Les pouvoirs d'enquête en ce qui concerne l'accès aux installations devraient être exercés conformément aux exigences spécifiques du droit procédural des États membres, telle que l'obligation d'obtenir une autorisation judiciaire préalable. Toute mesure juridiquement contraignante prise par l'autorité de contrôle devrait être présentée par écrit, être claire et dénuée d'ambiguïté, indiquer quelle autorité de contrôle a pris la mesure et à quelle date, porter la signature du chef ou d'un membre de l'autorité de contrôle qu'il a autorisé, exposer les motifs qui sous-tendent la mesure et mentionner le droit à un recours effectif. Cela ne devrait pas exclure des exigences supplémentaires prévues par le droit procédural des États membres. Si une décision juridiquement contraignante est adoptée, elle peut donner lieu à un contrôle juridictionnel dans l'État membre dont relève l'autorité de contrôle qui l'a adoptée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "530a91cbd91296a85549c3418e93b472",
+  "text": "(130) Lorsque l'autorité de contrôle auprès de laquelle la réclamation a été introduite n'est pas l'autorité de contrôle chef de file, l'autorité de contrôle chef de file devrait coopérer étroitement avec l'autorité de contrôle auprès de laquelle la réclamation a été introduite conformément aux dispositions relatives à la coopération et à la cohérence prévues par le présent règlement. Dans de tels cas, l'autorité de contrôle chef de file devrait, lorsqu'elle adopte des mesures visant à produire des effets juridiques, y compris des mesures visant à infliger des amendes adminis- tratives, tenir le plus grand compte de l'avis de l'autorité de contrôle auprès de laquelle la réclamation a été introduite, laquelle devrait rester compétente pour effectuer toute enquête sur le territoire de l'État membre dont elle relève, en liaison avec l'autorité de contrôle chef de file.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "93f97846f0dcf6e3e356089d050f2b1d",
+  "text": "(131) Lorsqu'une autre autorité de contrôle devrait faire office d'autorité de contrôle chef de file pour les activités de traitement du responsable du traitement ou du sous-traitant mais que l'objet concret d'une réclamation ou la violation éventuelle ne concerne que les activités de traitement du responsable du traitement ou du sous-traitant dans l'État membre dans lequel la réclamation a été introduite ou dans lequel la violation éventuelle a été constatée et que la question n'affecte pas sensiblement ou n'est pas susceptible d'affecter sensiblement des personnes concernées dans d'autres États membres, l'autorité de contrôle qui est saisie d'une réclamation, ou qui constate des situations susceptibles de constituer des violations du présent règlement ou qui est informée d'une autre manière de telles situations devrait rechercher un règlement amiable avec le responsable du traitement et, en cas d'échec, exercer l'ensemble de ses pouvoirs. Ceci devrait comprendre: les traitements spécifiques qui sont effectués sur le territoire de l'État membre dont relève l'autorité de contrôle ou qui portent sur des personnes concernées se trouvant sur le territoire de cet État membre; les traitements effectués dans le cadre d'une offre de biens ou de services visant spécifiquement des personnes concernées se trouvant sur le territoire de l'État membre dont relève l'autorité de contrôle; ou encore les traitements qui doivent être évalués à l'aune des obligations légales pertinentes prévues par le droit d'un État membre.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "cff4f08d6f5f1b3792619e7a94115ed0",
+  "text": "(132) Les activités de sensibilisation organisées par les autorités de contrôle à l'intention du public devraient comprendre des mesures spécifiques destinées aux responsables du traitement et aux sous-traitants, y compris les micro, petites et moyennes entreprises, ainsi qu'aux personnes physiques, notamment dans le cadre éducatif.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "c3876cfda8fd1abafd391773abd40884",
+  "text": "-------------------------------------------------------------------------------- Page 25",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "10906bde3ddf7038f01e3d638ec09477",
+  "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/25",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "e3b4bd42b2d09554cbfc3882f314c5e1",
+  "text": "(133) Les autorités de contrôle devraient s'entraider dans l'accomplissement de leurs missions et se prêter mutuellement assistance afin de faire appliquer le présent règlement et de contrôler son application de manière cohérente dans le marché intérieur. Une autorité de contrôle qui fait appel à l'assistance mutuelle peut adopter une mesure provisoire si elle ne reçoit pas de réponse à sa demande d'assistance mutuelle dans un délai d'un mois à compter de la réception de la demande d'assistance mutuelle par l'autre autorité de contrôle.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7f2589ef12b9cf14111995df2e34b4f6",
+  "text": "(134) Chaque autorité de contrôle devrait, s'il y a lieu, participer à des opérations conjointes avec d'autorités de contrôle. L'autorité de contrôle requise devrait être tenue de répondre à la demande dans un délai déterminé.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "4dedfa6063dfdf62936f74a9ce0227d9",
+  "text": "(135) Afin de garantir l'application cohérente du présent règlement dans l'ensemble de l'Union, il y a lieu d'instaurer un mécanisme de contrôle de la cohérence pour la coopération entre les autorités de contrôle. Ce mécanisme devrait notamment s'appliquer lorsqu'une autorité de contrôle entend adopter une mesure destinée à produire des effets juridiques en ce qui concerne des opérations de traitement qui affectent sensiblement un nombre important de personnes concernées dans plusieurs États membres. Il devrait également s'appliquer lorsqu'une autorité de contrôle concernée ou la Commission demande que cette question soit traitée dans le cadre du mécanisme de contrôle de la cohérence. Ce mécanisme devrait s'appliquer sans préjudice des éventuelles mesures que la Commission peut prendre dans l'exercice des compétences que lui confèrent les traités.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "3abfedfa98d1e31366b67ba95ecb94f7",
+  "text": "(136) Dans le cadre de l'application du mécanisme de contrôle de la cohérence, le comité devrait émettre un avis, dans un délai déterminé, si une majorité de ses membres le décide ou s'il est saisi d'une demande en ce sens par une autorité de contrôle concernée ou par la Commission. Le comité devrait également être habilité à adopter des décisions juridiquement contraignantes en cas de litiges entre autorités de contrôle. À cet effet, il devrait prendre, en principe à la majorité des deux tiers de ses membres, des décisions juridiquement contraignantes dans des cas clairement définis, en cas de points de vue divergents parmi les autorités de contrôle, notamment dans le cadre du mécanisme de coopération entre l'autorité de contrôle chef de file et les autorités de contrôle concernées, sur le fond de l'affaire et en particulier sur la question de savoir s'il y a ou non violation du présent règlement.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "37fe300f7e18cc071082d3a94a32cba1",
+  "text": "(137) Il peut être nécessaire d'intervenir en urgence pour protéger les droits et libertés des personnes concernées, en particulier lorsque le danger existe que l'exercice du droit d'une personne concernée pourrait être considéra- blement entravé. En conséquence, une autorité de contrôle devrait pouvoir adopter, sur son territoire, des mesures provisoires dûment justifiées et d'une durée de validité déterminée qui ne devrait pas excéder trois mois.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "2e268c3153c5b8f440b5963e01d4e905",
+  "text": "(138) L'application d'un tel mécanisme devrait conditionner la légalité d'une mesure destinée à produire des effets juridiques prise par une autorité de contrôle dans les cas où cette application est obligatoire. Dans d'autres cas présentant une dimension transfrontalière, le mécanisme de coopération entre l'autorité de contrôle chef de file et les autorités de contrôle concernées devrait être appliqué, et l'assistance mutuelle ainsi que des opérations conjointes pourraient être mises en œuvre entre les autorités de contrôle concernées, sur une base bilatérale ou multilatérale, sans faire jouer le mécanisme de contrôle de la cohérence.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "e18d2dfc121f47e5937f5f0482b1899b",
+  "text": "(139) Afin de favoriser l'application cohérente du présent règlement, le comité devrait être institué en tant qu'organe indépendant de l'Union. Pour pouvoir atteindre ses objectifs, le comité devrait être doté de la personnalité juridique. Il devrait être représenté par son président. Il devrait remplacer le groupe de protection des personnes à l'égard du traitement des données à caractère personnel institué par la directive 95/46/CE. Il devrait se composer du chef d'une autorité de contrôle de chaque État membre et du Contrôleur européen de la protection des données ou de leurs représentants respectifs. La Commission devrait participer aux activités du comité sans droit de vote et le Contrôleur européen de la protection des données devrait disposer de droits de vote spécifiques. Le comité devrait contribuer à l'application cohérente du présent règlement dans l'ensemble de l'Union, notamment en conseillant la Commission, en particulier en ce qui concerne le niveau de protection dans les pays tiers ou les organisations internationales, et en favorisant la coopération des autorités de contrôle dans l'ensemble de l'Union. Le comité devrait accomplir ses missions en toute indépendance.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "110bb3dc9859aecde7a9ddd2f7f8dfee",
+  "text": "(140) Le comité devrait être assisté par un secrétariat assuré par le Contrôleur européen de la protection des données. Pour s'acquitter de ses tâches, le personnel du Contrôleur européen de la protection des données chargé des missions que le présent règlement confie au comité ne devrait recevoir d'instructions que du président du comité et devrait être placé sous l'autorité de celui-ci.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "f8933210d537b43d5e2fdb06c2e18b9c",
+  "text": "(141) Toute personne concernée devrait avoir le droit d'introduire une réclamation auprès d'une seule autorité de contrôle, en particulier dans l'État membre où elle a sa résidence habituelle, et disposer du droit à un recours",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "7d77b8181a0061d7e4a1fefb6c0d60af",
+  "text": "-------------------------------------------------------------------------------- Page 26",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "f27961d3dfc8ac05aa43062fa6ce9e00",
+  "text": "L 119/26 FR Journal officiel de l'Union européenne 4.5.2016",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "1a2dc62bd5d92f36d29344230e8ed8dc",
+  "text": "juridictionnel effectif conformément à l'article 47 de la Charte si elle estime que les droits que lui confère le présent règlement sont violés ou si l'autorité de contrôle ne donne pas suite à sa réclamation, la refuse ou la rejette, en tout ou en partie, ou si elle n'agit pas alors qu'une action est nécessaire pour protéger les droits de la personne concernée. L'enquête faisant suite à une réclamation devrait être menée, sous contrôle juridictionnel, dans la mesure appropriée requise par le cas d'espèce. L'autorité de contrôle devrait informer la personne concernée de l'état d'avancement et de l'issue de la réclamation dans un délai raisonnable. Si l'affaire requiert un complément d'enquête ou une coordination avec une autre autorité de contrôle, des informations intermédiaires devraient être fournies à la personne concernée. Afin de faciliter l'introduction des réclamations, chaque autorité de contrôle devrait prendre des mesures telles que la fourniture d'un formulaire de réclamation qui peut être également rempli par voie électronique, sans que d'autres moyens de communication soient exclus.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "f398a511ae536b859b5a1d0235126892",
+  "text": "(142) Lorsqu'une personne concernée estime que les droits que lui confère le présent règlement sont violés, elle devrait avoir le droit de mandater un organisme, une organisation ou une association à but non lucratif, constitué conformément au droit d'un État membre, dont les objectifs statutaires sont d'intérêt public et qui est actif dans le domaine de la protection des données à caractère personnel, pour qu'il introduise une réclamation en son nom auprès d'une autorité de contrôle, exerce le droit à un recours juridictionnel au nom de personnes concernées ou, si cela est prévu par le droit d'un État membre, exerce le droit d'obtenir réparation au nom de personnes concernées. Un État membre peut prévoir que cet organisme, cette organisation ou cette association a le droit d'introduire une réclamation dans cet État membre, indépendamment de tout mandat confié par une personne concernée, et dispose du droit à un recours juridictionnel effectif s'il a des raisons de considérer que les droits d'une personne concernée ont été violés parce que le traitement des données à caractère personnel a eu lieu en violation du présent règlement. Cet organisme, cette organisation ou cette association ne peut pas être autorisé à réclamer réparation pour le compte d'une personne concernée indépendamment du mandat confié par la personne concernée.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "298cdd258c9d92b2372a762c50f2da0a",
+  "text": "(143) Toute personne physique ou morale a le droit de former un recours en annulation des décisions du comité devant la Cour de justice dans les conditions prévues à l'article 263 du traité sur le fonctionnement de l'Union européenne. Dès lors qu'elles reçoivent de telles décisions, les autorités de contrôle concernées qui souhaitent les contester doivent le faire dans un délai de deux mois à compter de la notification qui leur en a été faite, conformément à l'article 263 du traité sur le fonctionnement de l'Union européenne. Lorsque des décisions du comité concernent directement et individuellement un responsable du traitement, un sous-traitant ou l'auteur de la réclamation, ces derniers peuvent former un recours en annulation de ces décisions dans un délai de deux mois à compter de leur publication sur le site internet du comité, conformément à l'article 263 du traité sur le fonctionnement de l'Union européenne. Sans préjudice de ce droit prévu à l'article 263 du traité sur le fonction- nement de l'Union européenne, toute personne physique ou morale devrait disposer d'un recours juridictionnel effectif, devant la juridiction nationale compétente, contre une décision d'une autorité de contrôle qui produit des effets juridiques à son égard. Une telle décision concerne en particulier l'exercice, par l'autorité de contrôle, de pouvoirs d'enquête, d'adoption de mesures correctrices et d'autorisation ou le refus ou le rejet de réclamations. Toutefois, ce droit à un recours juridictionnel effectif ne couvre pas des mesures prises par les autorités de contrôle qui ne sont pas juridiquement contraignantes, telles que les avis émis ou les conseils fournis par une autorité de contrôle. Les actions contre une autorité de contrôle devraient être portées devant les juridictions de l'État membre sur le territoire duquel l'autorité de contrôle est établie et être menées conformément au droit procédural de cet État membre. Ces juridictions devraient disposer d'une pleine compétence, et notamment de celle d'examiner toutes les questions de fait et de droit relatives au litige dont elles sont saisies.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "4590a097b5e63754a14b74d8a88908b6",
+  "text": "Lorsqu'une réclamation a été rejetée ou refusée par une autorité de contrôle, l'auteur de la réclamation peut intenter une action devant les juridictions de ce même État membre. Dans le cadre des recours juridictionnels relatifs à l'application du présent règlement, les juridictions nationales qui estiment qu'une décision sur la question est nécessaire pour leur permettre de rendre leur jugement peuvent ou, dans le cas prévu à l'article 267 du traité sur le fonctionnement de l'Union européenne, doivent demander à la Cour de justice de statuer à titre préjudiciel sur l'interprétation du droit de l'Union, y compris le présent règlement. En outre, lorsqu'une décision d'une autorité de contrôle mettant en œuvre une décision du comité est contestée devant une juridiction nationale et que la validité de la décision du comité est en cause, ladite juridiction nationale n'est pas habilitée à invalider la décision du comité et doit, dans tous les cas où elle considère qu'une décision est invalide, soumettre la question de la validité à la Cour de justice, conformément à l'article 267 du traité sur le fonctionnement de l'Union européenne tel qu'il a été interprété par la Cour de justice. Toutefois, une juridiction nationale peut ne pas soumettre une question relative à la validité d'une décision du comité à la demande d'une personne physique ou morale qui a eu la possibilité de former un recours en annulation de cette décision, en particulier si elle était concernée directement et individuellement par ladite décision, et ne l'a pas fait dans le délai prévu à l'article 263 du traité sur le fonctionnement de l'Union européenne.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "2854de4050ec8dbc6c8b6511fda65c96",
+  "text": "(144) Lorsqu'une juridiction saisie d'une action contre une décision prise par une autorité de contrôle a des raisons de croire que des actions concernant le même traitement, portant par exemple sur le même objet, effectué par le même responsable du traitement ou le même sous-traitant, ou encore la même cause, sont introduites devant une juridiction compétente d'un autre État membre, il convient qu'elle contacte cette autre juridiction afin de confirmer l'existence de telles actions connexes. Si des actions connexes sont pendantes devant une juridiction",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "e089a6fba092332f5cef38b4a07179aa",
+  "text": "-------------------------------------------------------------------------------- Page 27",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "bb76b6e2b9fc965e359c97b4210ba809",
+  "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/27",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "6930a8813c8585538473a8abf6bfc0db",
+  "text": "d'un autre État membre, toute juridiction autre que celle qui a été saisie en premier peut surseoir à statuer ou peut, à la demande de l'une des parties, se dessaisir au profit de la juridiction saisie en premier si celle-ci est compétente pour connaître de l'action concernée et que le droit dont elle relève permet de regrouper de telles actions connexes. Sont réputées connexes, les actions qui sont à ce point étroitement liées qu'il y a intérêt à les instruire et à les juger en même temps afin d'éviter que ne soient rendues des décisions inconciliables, issues de procédures séparées.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "8620cade226370e8c81e00b6e488bc07",
+  "text": "(145) En ce qui concerne les actions contre un responsable du traitement ou un sous-traitant, le demandeur devrait pouvoir choisir d'intenter l'action devant les juridictions des États membres dans lesquels le responsable du traitement ou le sous-traitant dispose d'un établissement ou dans l'État membre dans lequel la personne concernée réside, à moins que le responsable du traitement ne soit une autorité publique d'un État membre agissant dans l'exercice de ses prérogatives de puissance publique.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d5d384a3320c09c0ce41a2f38133059e",
+  "text": "(146) Le responsable du traitement ou le sous-traitant devrait réparer tout dommage qu'une personne peut subir du fait d'un traitement effectué en violation du présent règlement. Le responsable du traitement ou le sous-traitant devrait être exonéré de sa responsabilité s'il prouve que le dommage ne lui est nullement imputable. La notion de dommage devrait être interprétée au sens large, à la lumière de la jurisprudence de la Cour de justice, d'une manière qui tienne pleinement compte des objectifs du présent règlement. Cela est sans préjudice de toute action en dommages-intérêts fondée sur une infraction à d'autres règles du droit de l'Union ou du droit d'un État membre. Un traitement effectué en violation du présent règlement comprend aussi un traitement effectué en violation des actes délégués et d'exécution adoptés conformément au présent règlement et au droit d'un État membre précisant les règles du présent règlement. Les personnes concernées devraient recevoir une réparation complète et effective pour le dommage subi. Lorsque des responsables du traitement ou des sous-traitants participent à un même traitement, chaque responsable du traitement ou chaque sous-traitant devrait être tenu responsable pour la totalité du dommage. Toutefois, lorsque des responsables du traitement et des sous-traitants sont concernés par la même procédure judiciaire, conformément au droit d'un État membre, la réparation peut être répartie en fonction de la part de responsabilité de chaque responsable du traitement ou de chaque sous- traitant dans le dommage causé par le traitement, à condition que le dommage subi par la personne concernée soit entièrement et effectivement réparé. Tout responsable du traitement ou tout sous-traitant qui a réparé totalement le dommage peut par la suite introduire un recours contre d'autres responsables du traitement ou sous-traitants ayant participé au même traitement.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "5a411dadd3868eb77ee015e4e6fbc4d2",
+  "text": "(147) Lorsque le présent règlement prévoit des règles de compétence spécifiques, notamment en ce qui concerne les procédures relatives aux recours juridictionnels, y compris ceux qui visent à obtenir réparation, contre un responsable du traitement ou un sous-traitant, les règles de compétence générales, telles que celles prévues dans le règlement (UE) nº 1215/2012 du Parlement européen et du Conseil (¹), ne devraient pas porter préjudice à l'appli- cation de telles règles juridictionnelles spécifiques.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "bfb67050846113280a1f2ebd44ab847b",
+  "text": "(148) Afin de renforcer l'application des règles du présent règlement, des sanctions y compris des amendes adminis- tratives devraient être infligées pour toute violation du présent règlement, en complément ou à la place des mesures appropriées imposées par l'autorité de contrôle en vertu du présent règlement. En cas de violation mineure ou si l'amende susceptible d'être imposée constitue une charge disproportionnée pour une personne physique, un rappel à l'ordre peut être adressé plutôt qu'une amende. Il convient toutefois de tenir dûment compte de la nature, de la gravité et de la durée de la violation, du caractère intentionnel de la violation et des mesures prises pour atténuer le dommage subi, du degré de responsabilité ou de toute violation pertinente commise précédemment, de la manière dont l'autorité de contrôle a eu connaissance de la violation, du respect des mesures ordonnées à l'encontre du responsable du traitement ou du sous-traitant, de l'application d'un code de conduite, et de toute autre circonstance aggravante ou atténuante. L'application de sanctions y compris d'amendes administratives devrait faire l'objet de garanties procédurales appropriées conformément aux principes généraux du droit de l'Union et de la Charte, y compris le droit à une protection juridictionnelle effective et à une procédure régulière.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "68acba6022d1725a5187e3caef770260",
+  "text": "(149) Les États membres devraient pouvoir déterminer le régime des sanctions pénales applicables en cas de violation du présent règlement, y compris de violation des dispositions nationales adoptées en application et dans les limites du présent règlement. Ces sanctions pénales peuvent aussi permettre la saisie des profits réalisés en violation du présent règlement. Toutefois, l'application de sanctions pénales en cas de violation de ces dispositions nationales et l'application de sanctions administratives ne devrait pas entraîner la violation du principe ne bis in idem tel qu'il a été interprété par la Cour de justice.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "9e25f963f9f87cf73b406dbca72cd932",
+  "text": "(150) Afin de renforcer et d'harmoniser les sanctions administratives applicables en cas de violation du présent règlement, chaque autorité de contrôle devrait avoir le pouvoir d'imposer des amendes administratives. Le présent",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "13bbc9da88ddf96b86231c3824a94fc2",
+  "text": "(1) Règlement (UE) nº 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale (JO L 351 du 20.12.2012, p. 1).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "ad61e1fac719dd72217b05ed909e17b4",
+  "text": "-------------------------------------------------------------------------------- Page 28",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "950d116ac6638ca3b3f1aeaf17416081",
+  "text": "règlement devrait définir les violations, le montant maximal et les critères de fixation des amendes administratives dont elles sont passibles, qui devraient être fixés par l'autorité de contrôle compétente dans chaque cas d'espèce, en prenant en considération toutes les caractéristiques propres à chaque cas et compte dûment tenu, notamment, de la nature, de la gravité et de la durée de la violation et de ses conséquences, ainsi que des mesures prises pour garantir le respect des obligations découlant du règlement et pour prévenir ou atténuer les conséquences de la violation. Lorsque des amendes administratives sont imposées à une entreprise, ce terme doit, à cette fin, être compris comme une entreprise conformément aux articles 101 et 102 du traité sur le fonctionnement de l'Union européenne. Lorsque des amendes administratives sont imposées à des personnes qui ne sont pas une entreprise, l'autorité de contrôle devrait tenir compte, lorsqu'elle examine quel serait le montant approprié de l'amende, du niveau général des revenus dans l'État membre ainsi que de la situation économique de la personne en cause. Il peut en outre être recouru au mécanisme de contrôle de la cohérence pour favoriser une application cohérente des amendes administratives. Il devrait appartenir aux États membres de déterminer si et dans quelle mesure les autorités publiques devraient faire l'objet d'amendes administratives. L'application d'une amende administrative ou le fait de donner un avertissement ne portent pas atteinte à l'exercice d'autres pouvoirs des autorités de contrôle ou à l'application d'autres sanctions en vertu du présent règlement.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "ce170bab0a35d0fb3959e5daee64dd59",
+  "text": "(151) Les systèmes juridiques du Danemark et de l'Estonie ne permettent pas d'imposer des amendes administratives comme le prévoit le présent règlement. Les règles relatives aux amendes administratives peuvent être appliquées de telle sorte que, au Danemark, l'amende est imposée par les juridictions nationales compétentes sous la forme d'une sanction pénale et en Estonie, l'amende est imposée par l'autorité de contrôle dans le cadre d'une procédure de délit, à condition qu'une telle application des règles dans ces États membres ait un effet équivalent aux amendes administratives imposées par les autorités de contrôle. C'est pourquoi les juridictions nationales compétentes devraient tenir compte de la recommandation formulée par l'autorité de contrôle qui est à l'origine de l'amende. En tout état de cause, les amendes imposées devraient être effectives, proportionnées et dissuasives.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "5821f5cea737e132df5a652f031ac887",
+  "text": "(152) Lorsque le présent règlement n'harmonise pas les sanctions administratives ou, si nécessaire dans d'autres circons- tances, par exemple en cas de violation grave du présent règlement, les États membres devraient mettre en œuvre un système qui prévoit des sanctions effectives, proportionnées et dissuasives. La nature de ces sanctions, pénales ou administratives, devrait être déterminée par le droit des États membres.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "04b2d2d2c68e4ef5732c06177d68763e",
+  "text": "(153) Le droit des États membres devrait concilier les règles régissant la liberté d'expression et d'information, y compris l'expression journalistique, universitaire, artistique ou littéraire, et le droit à la protection des données à caractère personnel en vertu du présent règlement. Dans le cadre du traitement de données à caractère personnel uniquement à des fins journalistiques ou à des fins d'expression universitaire, artistique ou littéraire, il y a lieu de prévoir des dérogations ou des exemptions à certaines dispositions du présent règlement si cela est nécessaire pour concilier le droit à la protection des données à caractère personnel et le droit à la liberté d'expression et d'information, consacré par l'article 11 de la Charte. Tel devrait notamment être le cas des traitements de données à caractère personnel dans le domaine de l'audiovisuel et dans les documents d'archives d'actualités et biblio- thèques de la presse. En conséquence, les États membres devraient adopter des dispositions législatives qui fixent les exemptions et dérogations nécessaires aux fins d'assurer un équilibre entre ces droits fondamentaux. Les États membres devraient adopter de telles exemptions et dérogations en ce qui concerne les principes généraux, les droits de la personne concernée, le responsable du traitement et le sous-traitant, le transfert de données à caractère personnel vers des pays tiers ou à des organisations internationales, les autorités de contrôle indépen- dantes, la coopération et la cohérence, ainsi que les situations particulières de traitement des données. Lorsque ces exemptions ou dérogations diffèrent d'un État membre à l'autre, le droit de l'État membre dont relève le responsable du traitement devrait s'appliquer. Pour tenir compte de l'importance du droit à la liberté d'expression dans toute société démocratique, il y a lieu de retenir une interprétation large des notions liées à cette liberté, telles que le journalisme.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "240df46c58d007d918131b096742f317",
+  "text": "(154) Le présent règlement permet de prendre en compte, dans son application, le principe de l'accès du public aux documents officiels. L'accès du public aux documents officiels peut être considéré comme étant dans l'intérêt public. Les données à caractère personnel figurant dans des documents détenus par une autorité publique ou un organisme public devraient pouvoir être rendues publiques par ladite autorité ou ledit organisme si cette communication est prévue par le droit de l'Union ou le droit de l'État membre dont relève l'autorité publique ou l'organisme public. Ces dispositions légales devraient concilier l'accès du public aux documents officiels et la réutilisation des informations du secteur public, d'une part, et le droit à la protection des données à caractère personnel, d'autre part, et peuvent dès lors prévoir la conciliation nécessaire avec le droit à la protection des données à caractère personnel en vertu du présent règlement. Dans ce contexte, il convient d'entendre par <autorités publiques et organismes publics», toutes les autorités ou autres organismes relevant du droit d'un État membre en matière d'accès du public aux documents. La directive 2003/98/CE du Parlement européen et du Conseil (¹) laisse intact et n'affecte en rien le niveau de protection des personnes physiques à l'égard du traitement",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "e15e60ae5d93755d48ff3ee2daa54b60",
+  "text": "[^1] Directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public (JO L 345 du 31.12.2003, p. 90).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "17c8ffe3f5a50cf4b80242cb5ded066f",
+  "text": "-------------------------------------------------------------------------------- Page 29",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "232eb7417d518883c53eb247b5067ae1",
+  "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/29",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a42317c8443aa8faf58582788b0a803b",
+  "text": "des données à caractère personnel garanti par les dispositions du droit de l'Union et du droit des États membres et, en particulier, ne modifie en rien les droits et obligations prévus dans le présent règlement. En particulier, ladite directive ne devrait pas s'appliquer aux documents dont l'accès est exclu ou limité en application de règles d'accès pour des motifs de protection des données à caractère personnel, et aux parties de documents accessibles en vertu desdites règles qui contiennent des données à caractère personnel dont la réutilisation a été prévue par la loi comme étant incompatible avec la législation concernant la protection des personnes physiques à l'égard du traitement des données à caractère personnel.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "fd3d3091f25b30600c7b376c1bb23e3f",
+  "text": "(155) Le droit des États membres ou des conventions collectives, y compris des «accords d'entreprise» peuvent prévoir des règles spécifiques relatives au traitement des données à caractère personnel des employés dans le cadre des relations de travail, notamment les conditions dans lesquelles les données à caractère personnel dans le cadre des relations de travail peuvent être traitées sur la base du consentement de l'employé, aux fins du recrutement, de l'exécution du contrat de travail, y compris le respect des obligations fixées par la loi ou par des conventions collectives, de la gestion, de la planification et de l'organisation du travail, de l'égalité et de la diversité sur le lieu de travail, de la santé et de la sécurité au travail, et aux fins de l'exercice et de la jouissance des droits et des avantages liés à l'emploi, individuellement ou collectivement, ainsi qu'aux fins de la résiliation de la relation de travail.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "5d8c7fd2ea931a4848fe1d915a60b206",
+  "text": "(156) Le traitement des données à caractère personnel à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques devrait être soumis à des garanties appropriées pour les droits et libertés de la personne concernée, en vertu du présent règlement. Ces garanties devraient permettre la mise en place de mesures techniques et organisationnelles pour assurer, en particulier, le respect du principe de minimisation des données. Le traitement ultérieur de données à caractère personnel à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques doit être effectué lorsque que le responsable du traitement a évalué s'il est possible d'atteindre ces finalités grâce à un traitement de données qui ne permettent pas ou plus d'identifier les personnes concernées, pour autant que des garanties appropriées existent (comme par exemple la pseudonymisation des données). Les États membres devraient prévoir des garanties appropriées pour le traitement de données à caractère personnel à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques. Les États membres devraient être autorisés à prévoir, dans des conditions spécifiques et moyennant des garanties appropriées pour les personnes concernées, des dispositions particulières et des dérogations concernant les exigences en matière d'information et les droits à la rectification, à l'effacement, à l'oubli, à la limitation du traitement, à la portabilité des données et le droit d'opposition lorsque les données à caractère personnel sont traitées à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques. Les conditions et garanties en question peuvent comporter des procédures spécifiques permettant aux personnes concernées d'exercer ces droits si cela est approprié eu égard aux finalités du traitement spécifique concerné, ainsi que des mesures techniques et organisationnelles visant à réduire à un minimum le traitement des données à caractère personnel conformément aux principes de proportionnalité et de nécessité. Le traitement de données à caractère personnel à des fins scientifiques devrait également respecter d'autres dispositions législatives pertinentes, telles que celles relatives aux essais cliniques.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "ed73e18e9fe8f32269b81b71e15415a4",
+  "text": "(157) En combinant les informations issues des registres, les chercheurs peuvent acquérir de nouvelles connaissances d'un grand intérêt en ce qui concerne des problèmes médicaux très répandus tels que les maladies cardiovascu- laires, le cancer et la dépression. Sur la base des registres, les résultats de la recherche peuvent être améliorés car ils s'appuient sur un échantillon plus large de population. Dans le cadre des sciences sociales, la recherche sur la base des registres permet aux chercheurs d'acquérir des connaissances essentielles sur les corrélations à long terme existant entre un certain nombre de conditions sociales telles que le chômage et l'éducation et d'autres conditions de vie. Les résultats de la recherche obtenus à l'aide des registres fournissent des connaissances fiables et de grande qualité qui peuvent servir de base à l'élaboration et à la mise en œuvre d'une politique fondée sur la connaissance, améliorer la qualité de vie d'un certain nombre de personnes et renforcer l'efficacité des services sociaux. Pour faciliter la recherche scientifique, les données à caractère personnel peuvent être traitées à des fins de recherche scientifique sous réserve de conditions et de garanties appropriées prévues dans le droit de l'Union ou le droit des États membres.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "c6da7c58a774a715925b6aae15964995",
+  "text": "(158) Lorsque les données à caractère personnel sont traitées à des fins archivistiques, le présent règlement devrait également s'appliquer à ce traitement, étant entendu qu'il ne devrait pas s'appliquer aux des personnes décédées. Les autorités publiques ou les organismes publics ou privés qui conservent des archives dans l'intérêt public devraient être des services qui, en vertu du droit de l'Union ou du droit d'un État membre, ont l'obligation légale de collecter, de conserver, d'évaluer, d'organiser, de décrire, de communiquer, de mettre en valeur, de diffuser des archives qui sont à conserver à titre définitif dans l'intérêt public général et d'y donner accès. Les États membres devraient également être autorisés à prévoir un traitement ultérieur des données à caractère personnel à des fins archivistiques, par exemple en vue de fournir des informations précises relatives au comportement politique sous les régimes des anciens États totalitaires, aux génocides, aux crimes contre l'humanité, notamment l'Holocauste, ou aux crimes de guerre.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "71e4668213959eea9759a158c9868d53",
+  "text": "-------------------------------------------------------------------------------- Page 30",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "6a06e3636815befd42a04050137c49b9",
+  "text": "L 119/30 FR Journal officiel de l'Union européenne 4.5.2016",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "3436dd62cb472d1ee23ee3ad7490894a",
+  "text": "(159) Lorsque des données à caractère personnel sont traitées à des fins de recherche scientifique, le présent règlement devrait également s'appliquer à ce traitement. Aux fins du présent règlement, le traitement de données à caractère personnel à des fins de recherche scientifique devrait être interprété au sens large et couvrir, par exemple, le développement et la démonstration de technologies, la recherche fondamentale, la recherche appliquée et la recherche financée par le secteur privé. Il devrait, en outre, tenir compte de l'objectif de l'Union mentionné à l'article 179, paragraphe 1, du traité sur le fonctionnement de l'Union européenne, consistant à réaliser un espace européen de la recherche. Par «fins de recherche scientifique», il convient également d'entendre les études menées dans l'intérêt public dans le domaine de la santé publique. Pour répondre aux spécificités du traitement de données à caractère personnel à des fins de recherche scientifique, des conditions particulières devraient s'appliquer, en particulier, en ce qui concerne la publication ou la divulgation d'une autre manière de données à caractère personnel dans le cadre de finalités de la recherche scientifique. Si le résultat de la recherche scientifique, en particulier dans le domaine de la santé, justifie de nouvelles mesures dans l'intérêt de la personne concernée, les règles générales du présent règlement s'appliquent à l'égard de ces mesures.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "fd72d2b75e6923e6d87c21a99eb236e6",
+  "text": "(160) Lorsque des données à caractère personnel sont traitées à des fins de recherche historique, le présent règlement devrait également s'appliquer à ce traitement. Cela devrait aussi comprendre les recherches historiques et les recherches à des fins généalogiques, étant entendu que le présent règlement ne devrait pas s'appliquer aux personnes décédées.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "985d2f57738499c4cb04d813d80403e9",
+  "text": "(161) Aux fins du consentement à la participation à des activités de recherche scientifique dans le cadre d'essais cliniques, les dispositions pertinentes du règlement (UE) n° 536/2014 du Parlement européen et du Conseil (¹) devraient s'appliquer.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "4c6d4cf17d392765d147c9737cf8db32",
+  "text": "(162) Lorsque des données à caractère personnel sont traitées à des fins statistiques, le présent règlement devrait s'appliquer à ce traitement. Le droit de l'Union ou le droit des États membres devrait, dans les limites du présent règlement, déterminer le contenu statistique, définir le contrôle de l'accès aux données et arrêter des dispositions particulières pour le traitement de données à caractère personnel à des fins statistiques ainsi que des mesures appropriées pour la sauvegarde des droits et libertés de la personne concernée et pour préserver le secret statistique. Par «fins statistiques», on entend toute opération de collecte et de traitement de données à caractère personnel nécessaires pour des enquêtes statistiques ou la production de résultats statistiques. Ces résultats statistiques peuvent en outre être utilisés à différentes fins, notamment des fins de recherche scientifique. Les fins statistiques impliquent que le résultat du traitement à des fins statistiques ne constitue pas des données à caractère personnel mais des données agrégées, et que ce résultat ou ces données à caractère personnel ne sont pas utilisés à l'appui de mesures ou de décisions concernant une personne physique en particulier.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "008f2ecf36f4c888d3be583caa9a2ed9",
+  "text": "(163) Les informations confidentielles que les autorités statistiques de l'Union et des États membres recueillent pour élaborer des statistiques officielles européennes et nationales devraient être protégées. Les statistiques européennes devraient être mises au point, élaborées et diffusées conformément aux principes statistiques énoncés à l'article 338, paragraphe 2, du traité sur le fonctionnement de l'Union européenne, et les statistiques nationales devraient également respecter le droit des États membres. Le règlement (CE) n° 223/2009 du Parlement européen et du Conseil (2) contient d'autres dispositions particulières relatives aux statistiques européennes couvertes par le secret.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "737b6b2b6a143d01e3c47fe1c3ffbbce",
+  "text": "(164) En ce qui concerne les pouvoirs qu'ont les autorités de contrôle d'obtenir du responsable du traitement ou du sous-traitant l'accès aux données à caractère personnel et l'accès à leurs locaux, les États membres peuvent adopter par la loi, dans les limites du présent règlement, des règles spécifiques visant à garantir l'obligation de secret professionnel ou d'autres obligations de secret équivalentes, dans la mesure où cela est nécessaire pour concilier le droit à la protection des données à caractère personnel et l'obligation de secret professionnel. Cela s'entend sans préjudice des obligations existantes incombant aux États membres en matière d'adoption de règles relatives au secret professionnel lorsque le droit de l'Union l'impose.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7443221691525772ea1054e64ff99e7c",
+  "text": "(165) Le présent règlement respecte et ne porte pas préjudice au statut dont bénéficient, en vertu du droit constitu- tionnel en vigueur, les églises et les associations ou communautés religieuses dans les États membres, tel qu'il est reconnu par l'article 17 du traité sur le fonctionnement de l'Union européenne.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "958d690b7ea9ffd4f11dbae7d12aebee",
+  "text": "(166) Afin de remplir les objectifs du présent règlement, à savoir protéger les libertés et droits fondamentaux des personnes physiques, et en particulier leur droit à la protection des données à caractère personnel, et garantir la",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "5a7bcd435692821e08d0c65a58653e54",
+  "text": "(¹) Règlement (UE) n° 536/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux essais cliniques de médicaments à usage humain et abrogeant la directive 2001/20/CE (JO L 158 du 27.5.2014, p. 1).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "064d86672fda97cd217d5a8f292116a0",
+  "text": "(2) Règlement (CE) n° 223/2009 du Parlement européen et du Conseil du 11 mars 2009 relatif aux statistiques européennes et abrogeant le règlement (CE, Euratom) n° 1101/2008 du Parlement européen et du Conseil relatif à la transmission à l'Office statistique des Communautés européennes d'informations statistiques couvertes par le secret, le règlement (CE) n° 322/97 du Conseil relatif à la statistique communautaire et la décision 89/382/CEE, Euratom du Conseil instituant un comité du programme statistique des Communautés européennes (JO L 87 du 31.3.2009, p. 164).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "728d090751e12f2d9a1f79a34cccdb15",
+  "text": "-------------------------------------------------------------------------------- Page 31",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "73204de8ea16f45105f1ef5025ca2aac",
+  "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/31",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "cc96aab644ca492a3f71c2bb113e4b7c",
+  "text": "libre circulation de ces données au sein de l'Union, il convient de déléguer à la Commission le pouvoir d'adopter des actes conformément à l'article 290 du traité sur le fonctionnement de l'Union européenne. En particulier, des actes délégués devraient être adoptés en ce qui concerne les critères et exigences applicables aux mécanismes de certification, les informations à présenter sous la forme d'icônes normalisées ainsi que les procédures régissant la fourniture de ces icônes. Il importe particulièrement que la Commission procède aux consultations appropriées durant son travail préparatoire, y compris au niveau des experts. Il convient que, lorsqu'elle prépare et élabore des actes délégués, la Commission veille à ce que tous les documents pertinents soient transmis simultanément en temps utile et de façon appropriée au Parlement européen et au Conseil.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "61ee0dc7243817c93ad8264850af1369",
+  "text": "(167) Afin d'assurer des conditions uniformes d'exécution du présent règlement, il convient de conférer des compétences d'exécution à la Commission lorsque le présent règlement le prévoit. Ces compétences devraient être exercées en conformité avec le règlement (UE) nº 182/2011. Dans ce cadre, la Commission devrait envisager des mesures spécifiques pour les micro, petites et moyennes entreprises.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "ba4014d95b927c8432a3a6d7af666b9e",
+  "text": "(168) Compte tenu de la portée générale des actes concernés, il convient d'avoir recours à la procédure d'examen pour l'adoption d'actes d'exécution en ce qui concerne les clauses contractuelles types entre les responsables du traitement et les sous-traitants ainsi qu'entre les sous-traitants; des codes de conduite; des normes techniques et des mécanismes de certification; le niveau adéquat de protection offert par un pays tiers, un territoire ou un secteur déterminé dans ce pays tiers, ou une organisation internationale; les clauses types de protection; les formats et les procédures pour l'échange d'informations par voie électronique entre responsables du traitement, sous-traitants et autorités de contrôle en ce qui concerne les règles d'entreprise contraignantes; l'assistance mutuelle; et les modalités de l'échange d'informations par voie électronique entre les autorités de contrôle ainsi qu'entre les autorités de contrôle et le comité.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a0c930b51791decc443ab8359e9ffb1e",
+  "text": "(169) La Commission devrait adopter des actes d'exécution immédiatement applicables lorsque les éléments de preuve disponibles montrent qu'un pays tiers, un territoire ou un secteur déterminé dans ce pays tiers, ou une organisation internationale n'offre pas un niveau de protection adéquat et que des raisons d'urgence impérieuses l'imposent.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "6c6359381dc942b0d6c7ccc7180619aa",
+  "text": "(170) Étant donné que l'objectif du présent règlement, à savoir assurer un niveau équivalent de protection des personnes physiques et le libre flux des données à caractère personnel dans l'ensemble de l'Union, ne peut pas être atteint de manière suffisante par les États membres mais peut, en raison des dimensions ou des effets de l'action, l'être mieux au niveau de l'Union, celle-ci peut prendre des mesures, conformément au principe de subsidiarité consacré à l'article 5 du traité sur l'Union européenne. Conformément au principe de proportionnalité tel qu'énoncé audit article, le présent règlement n'excède pas ce qui est nécessaire pour atteindre ces objectifs.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "be4c85de7bd169b37bdd20da07edfa8e",
+  "text": "(171) La directive 95/46/CE devrait être abrogée par le présent règlement. Les traitements déjà en cours à la date d'appli- cation du présent règlement devraient être mis en conformité avec celui-ci dans un délai de deux ans après son entrée en vigueur. Lorsque le traitement est fondé sur un consentement en vertu de la directive 95/46/CE, il n'est pas nécessaire que la personne concernée donne à nouveau son consentement si la manière dont le consentement a été donné est conforme aux conditions énoncées dans le présent règlement, de manière à ce que le responsable du traitement puisse poursuivre le traitement après la date d'application du présent règlement. Les décisions de la Commission qui ont été adoptées et les autorisations qui ont été accordées par les autorités de contrôle sur le fondement de la directive 95/46/CE demeurent en vigueur jusqu'à ce qu'elles soient modifiées, remplacées ou abrogées.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7bb8f5e678d70e21e1beabf27937658c",
+  "text": "(172) Le Contrôleur européen de la protection des données a été consulté conformément à l'article 28, paragraphe 2, du règlement (CE) nº 45/2001 et a rendu un avis le 7 mars 2012 (¹).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "80c5b934b9c556725b02079b6d0bacab",
+  "text": "(173) Le présent règlement devrait s'appliquer à tous les aspects de la protection des libertés et droits fondamentaux à l'égard du traitement des données à caractère personnel qui ne sont pas soumis à des obligations spécifiques ayant le même objectif énoncées dans la directive 2002/58/CE du Parlement européen et du Conseil (²), y compris les obligations incombant au responsable du traitement et les droits des personnes physiques. Afin de clarifier la relation entre le présent règlement et la directive 2002/58/CE, cette directive devrait être modifiée en conséquence. Après l'adoption du présent règlement, il convient de réexaminer la directive 2002/58/CE, notamment afin d'assurer la cohérence avec le présent règlement,",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "9d5cf365bf5eb686f89e782f36262df2",
+  "text": "[^1]: JO C 192 du 30.6.2012, p. 7.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "288d9fdc2485a2d176777e313fba310f",
+  "text": "[^2]: Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques) (JO L 201 du 31.7.2002, p. 37).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "d560e681de952dab92ad4798feb1bf3b",
+  "text": "-------------------------------------------------------------------------------- Page 32",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d136c6430ea1025e52081e3265c385e7",
+  "text": "L 119/32 FR Journal officiel de l'Union européenne 4.5.2016",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "aa20a2d0c58a72369fed6bbdf9daa19b",
+  "text": "ONT ADOPTÉ LE PRÉSENT RÈGLEMENT:",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "d844015cf6a434f00e3f377dd5b76449"
+  }
+},
+{
+  "type": "Title",
+  "element_id": "708369f0d3a0b1b409e0f0661a8f05a9",
+  "text": "CHAPITRE I",
+  "metadata": {
+    "category_depth": 0,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf"
+  }
+},
+{
+  "type": "Title",
+  "element_id": "b828ec3ddd55567ad3a02f67687fcef8",
+  "text": "Dispositions générales",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "708369f0d3a0b1b409e0f0661a8f05a9"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "bf8a8df80d3bb31c47f92325e6c80d41",
+  "text": "Article premier",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "b828ec3ddd55567ad3a02f67687fcef8"
+  }
+},
+{
+  "type": "Title",
+  "element_id": "0728dca42a42c5880d8f1eb1dbb8ca1f",
+  "text": "Objet et objectifs",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "708369f0d3a0b1b409e0f0661a8f05a9"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "3a901149058b6640f14d55eaa980e058",
+  "text": "Le présent règlement établit des règles relatives à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et des règles relatives à la libre circulation de ces données.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "0728dca42a42c5880d8f1eb1dbb8ca1f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "587b42806ea6445fd3273c6ba94c0ce4",
+  "text": "Le présent règlement protège les libertés et droits fondamentaux des personnes physiques, et en particulier leur droit à la protection des données à caractère personnel.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "0728dca42a42c5880d8f1eb1dbb8ca1f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "fa0ce119bde2d9aaebceca2e3c1d556d",
+  "text": "La libre circulation des données à caractère personnel au sein de l'Union n'est ni limitée ni interdite pour des motifs liés à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "0728dca42a42c5880d8f1eb1dbb8ca1f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "1bae6c7561cb0253de0cf6769a5db5cc",
+  "text": "Article 2",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "0728dca42a42c5880d8f1eb1dbb8ca1f"
+  }
+},
+{
+  "type": "Title",
+  "element_id": "336312464e42b08b04ea4fc94a5f9366",
+  "text": "Champ d'application matériel",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "708369f0d3a0b1b409e0f0661a8f05a9"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a0b10423a980812973112633d0bc8c66",
+  "text": "Le présent règlement s'applique au traitement de données à caractère personnel, automatisé en tout ou en partie, ainsi qu'au traitement non automatisé de données à caractère personnel contenues ou appelées à figurer dans un fichier.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "271c53566ba537684d2b5a3be1134eb3",
+  "text": "Le présent règlement ne s'applique pas au traitement de données à caractère personnel effectué:",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "ad4e490d548fd34d29f074127cc5d94c",
+  "text": "a) dans le cadre d'une activité qui ne relève pas du champ d'application du droit de l'Union;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "43f5e8347ef8a3e87184d6d3d5f47f83",
+  "text": "b) par les États membres dans le cadre d'activités qui relèvent du champ d'application du chapitre 2 du titre V du traité sur l'Union européenne;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "749ab5b9bb85f5d789a5aa4448a79202",
+  "text": "c) par une personne physique dans le cadre d'une activité strictement personnelle ou domestique;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d82b69885b2e992ac6292bf019f2fa84",
+  "text": "d) par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, y compris la protection contre des menaces pour la sécurité publique et la prévention de telles menaces.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7a1b6f40a80053b56331f6812921e81f",
+  "text": "Le règlement (CE) n° 45/2001 s'applique au traitement des données à caractère personnel par les institutions, organes et organismes de l'Union. Le règlement (CE) nº 45/2001 et les autres actes juridiques de l'Union applicables audit traitement des données à caractère personnel sont adaptés aux principes et aux règles du présent règlement conformément à l'article 98.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7c060801bad3f96faf8c36bedb299e4b",
+  "text": "Le présent règlement s'applique sans préjudice de la directive 2000/31/CE, et notamment de ses articles 12 à 15 relatifs à la responsabilité des prestataires de services intermédiaires.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "9ff928cad1687718d19d961943e9d753",
+  "text": "Article 3",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "336312464e42b08b04ea4fc94a5f9366"
+  }
+},
+{
+  "type": "Title",
+  "element_id": "fc0f6a6155649be64be1c583d487f53f",
+  "text": "Champ d'application territorial",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "708369f0d3a0b1b409e0f0661a8f05a9"
+  }
+},
+{
+  "type": "ListItem",
+  "element_id": "4cbea6107f25779d81693ab8da21da4c",
+  "text": "Le présent règlement s'applique au traitement des données à caractère personnel effectué dans le cadre des activités d'un établissement d'un responsable du traitement ou d'un sous-traitant sur le territoire de l'Union, que le traitement ait lieu ou non dans l'Union.",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "10b8025af0f856ba5a1c398c51fb706c",
+  "text": "-------------------------------------------------------------------------------- Page 33",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "ListItem",
+  "element_id": "bf6c6326241fe93e89b839bf47c6ba5e",
+  "text": "Le présent règlement s'applique au traitement des données à caractère personnel relatives à des personnes concernées qui se trouvent sur le territoire de l'Union par un responsable du traitement ou un sous-traitant qui n'est pas établi dans l'Union, lorsque les activités de traitement sont liées:",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "fcfab682e3a97d0ae833c04586157df4",
+  "text": "a) à l'offre de biens ou de services à ces personnes concernées dans l'Union, qu'un paiement soit exigé ou non desdites personnes; ou",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "bb0b505d550d75b1d619c25f408a8976",
+  "text": "b) au suivi du comportement de ces personnes, dans la mesure où il s'agit d'un comportement qui a lieu au sein de l'Union.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "ListItem",
+  "element_id": "5c9f8db5e044f8ede5ffc6338f4cc453",
+  "text": "Le présent règlement s'applique au traitement de données à caractère personnel par un responsable du traitement qui n'est pas établi dans l'Union mais dans un lieu où le droit d'un État membre s'applique en vertu du droit interna- tional public.",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "954f0887ead88f98ad85c6f5889ea5dc",
+  "text": "Article 4",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "f9b1166e86f4a5b0cb3d72ff2a65c414",
+  "text": "Définitions",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "915a8ba22e52b54833cf978bce6d112c",
+  "text": "Aux fins du présent règlement, on entend par:",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "c6aec9e13ff6e8c5e223056f584288c4",
+  "text": "1) «données à caractère personnel», toute information se rapportant à une personne physique identifiée ou identifiable (ci-après dénommée «personne concernée»); est réputée être une «personne physique identifiable» une personne physique qui peut être identifiée, directement ou indirectement, notamment par référence à un identifiant, tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne, ou à un ou plusieurs éléments spécifiques propres à son identité physique, physiologique, génétique, psychique, économique, culturelle ou sociale;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "12e4ae94715ec4f8f3ebf4bc48a00d4e",
+  "text": "2) «traitement», toute opération ou tout ensemble d'opérations effectuées ou non à l'aide de procédés automatisés et appliquées à des données ou des ensembles de données à caractère personnel, telles que la collecte, l'enregistrement, l'organisation, la structuration, la conservation, l'adaptation ou la modification, l'extraction, la consultation, l'utili- sation, la communication par transmission, la diffusion ou toute autre forme de mise à disposition, le rappro- chement ou l'interconnexion, la limitation, l'effacement ou la destruction;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "f1f5b1261a413e26e81af1f25a3503d1",
+  "text": "3) «limitation du traitement», le marquage de données à caractère personnel conservées, en vue de limiter leur traitement futur;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "505b8e2dfdd0ad32429866712b43682f",
+  "text": "4) «profilage», toute forme de traitement automatisé de données à caractère personnel consistant à utiliser ces données à caractère personnel pour évaluer certains aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des éléments concernant le rendement au travail, la situation économique, la santé, les préférences personnelles, les intérêts, la fiabilité, le comportement, la localisation ou les déplacements de cette personne physique;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "844d7b0c2df66c3efae3e54c1ca589f4",
+  "text": "5) «pseudonymisation», le traitement de données à caractère personnel de telle façon que celles-ci ne puissent plus être attribuées à une personne concernée précise sans avoir recours à des informations supplémentaires, pour autant que ces informations supplémentaires soient conservées séparément et soumises à des mesures techniques et organisa- tionnelles afin de garantir que les données à caractère personnel ne sont pas attribuées à une personne physique identifiée ou identifiable;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7d28958255330caff99b48ba8c15b52a",
+  "text": "6) «fichier», tout ensemble structuré de données à caractère personnel accessibles selon des critères déterminés, que cet ensemble soit centralisé, décentralisé ou réparti de manière fonctionnelle ou géographique;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a503e28fb9580f371d12a17c89354115",
+  "text": "7) «responsable du traitement», la personne physique ou morale, l'autorité publique, le service ou un autre organisme qui, seul ou conjointement avec d'autres, détermine les finalités et les moyens du traitement; lorsque les finalités et les moyens de ce traitement sont déterminés par le droit de l'Union ou le droit d'un État membre, le responsable du traitement peut être désigné ou les critères spécifiques applicables à sa désignation peuvent être prévus par le droit de l'Union ou par le droit d'un État membre;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "4e380e8d86b4ded496ef10cb25c2a4f5",
+  "text": "8) «sous-traitant», la personne physique ou morale, l'autorité publique, le service ou un autre organisme qui traite des données à caractère personnel pour le compte du responsable du traitement;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "206c5fc63fcd9d5f8c98af6e57865e71",
+  "text": "9) «destinataire», la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui reçoit communication de données à caractère personnel, qu'il s'agisse ou non d'un tiers. Toutefois, les autorités publiques",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "bb0f9f3eafbd3a27f0e0484f29b75d2e",
+  "text": "-------------------------------------------------------------------------------- Page 34",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "86a7110135b6cc34bc3cfbece61ebe45",
+  "text": "Journal officiel de l'Union européenne 4.5.2016",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "6fcf461fceb3b816cfd9783476198e1c",
+  "text": "qui sont susceptibles de recevoir communication de données à caractère personnel dans le cadre d'une mission d'enquête particulière conformément au droit de l'Union ou au droit d'un État membre ne sont pas considérées comme des destinataires; le traitement de ces données par les autorités publiques en question est conforme aux règles applicables en matière de protection des données en fonction des finalités du traitement;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "1c91e5aa379b7f74444b5d77adb30bc7",
+  "text": "10) «tiers», une personne physique ou morale, une autorité publique, un service ou un organisme autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, placées sous l'autorité directe du responsable du traitement ou du sous-traitant, sont autorisées à traiter les données à caractère personnel;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "3ce5f7b95515621e0389067ed952405d",
+  "text": "11) «consentement» de la personne concernée, toute manifestation de volonté, libre, spécifique, éclairée et univoque par laquelle la personne concernée accepte, par une déclaration ou par un acte positif clair, que des données à caractère personnel la concernant fassent l'objet d'un traitement;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "8866e088dcec22b0486d9a6d7af3cffd",
+  "text": "12) «violation de données à caractère personnel», une violation de la sécurité entraînant, de manière accidentelle ou illicite, la destruction, la perte, l'altération, la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées d'une autre manière, ou l'accès non autorisé à de telles données;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d78218e7d4709914713e27e43352b89b",
+  "text": "13) «données génétiques», les données à caractère personnel relatives aux caractéristiques génétiques héréditaires ou acquises d'une personne physique qui donnent des informations uniques sur la physiologie ou l'état de santé de cette personne physique et qui résultent, notamment, d'une analyse d'un échantillon biologique de la personne physique en question;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "c7db24735abe08fcfc69f8602658fede",
+  "text": "14) «données biométriques», les données à caractère personnel résultant d'un traitement technique spécifique, relatives aux caractéristiques physiques, physiologiques ou comportementales d'une personne physique, qui permettent ou confirment son identification unique, telles que des images faciales ou des données dactyloscopiques;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a65a5b98c638172fcbc5072ca52cb61f",
+  "text": "15) «données concernant la santé», les données à caractère personnel relatives à la santé physique ou mentale d'une personne physique, y compris la prestation de services de soins de santé, qui révèlent des informations sur l'état de santé de cette personne;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "0cbf7d904fd69bd3d442c5bc447e6944",
+  "text": "16) «établissement principal»,",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "2290223704ed0fff25d15dd3084f474d",
+  "text": "a) en ce qui concerne un responsable du traitement établi dans plusieurs États membres, le lieu de son adminis- tration centrale dans l'Union, à moins que les décisions quant aux finalités et aux moyens du traitement de données à caractère personnel soient prises dans un autre établissement du responsable du traitement dans l'Union et que ce dernier établissement a le pouvoir de faire appliquer ces décisions, auquel cas l'établissement ayant pris de telles décisions est considéré comme l'établissement principal;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "553b6611417e12fd4bff29f358547312",
+  "text": "b) en ce qui concerne un sous-traitant établi dans plusieurs États membres, le lieu de son administration centrale dans l'Union ou, si ce sous-traitant ne dispose pas d'une administration centrale dans l'Union, l'établissement du sous-traitant dans l'Union où se déroule l'essentiel des activités de traitement effectuées dans le cadre des activités d'un établissement du sous-traitant, dans la mesure où le sous-traitant est soumis à des obligations spécifiques en vertu du présent règlement;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "1c979f59497017de003ef4e318ab74cd",
+  "text": "17) «représentant», une personne physique ou morale établie dans l'Union, désignée par le responsable du traitement ou le sous-traitant par écrit, en vertu de l'article 27, qui les représente en ce qui concerne leurs obligations respectives en vertu du présent règlement;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "43e3a15bb6c43073bac24b3454234930",
+  "text": "18) «entreprise», une personne physique ou morale exerçant une activité économique, quelle que soit sa forme juridique, y compris les sociétés de personnes ou les associations qui exercent régulièrement une activité économique;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "2a4156bf8dd87b9815e618f0671f82fd",
+  "text": "19) «groupe d'entreprises», une entreprise qui exerce le contrôle et les entreprises qu'elle contrôle;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "1278034551774f8097940e388d2e8ac6",
+  "text": "20) «règles d'entreprise contraignantes», les règles internes relatives à la protection des données à caractère personnel qu'applique un responsable du traitement ou un sous-traitant établi sur le territoire d'un État membre pour des transferts ou pour un ensemble de transferts de données à caractère personnel à un responsable du traitement ou à un sous-traitant établi dans un ou plusieurs pays tiers au sein d'un groupe d'entreprises, ou d'un groupe d'entreprises engagées dans une activité économique conjointe;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "070702adcb7675a26612e16b2d37b598",
+  "text": "21) «autorité de contrôle», une autorité publique indépendante qui est instituée par un État membre en vertu de l'article 51;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "1436c1f6e9b299e4017055bb1c21346b",
+  "text": "-------------------------------------------------------------------------------- Page 35",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "c2ff519cbfa3f59598c2504580605c20",
+  "text": "4.5.2016 Journal officiel de l'Union européenne L 119/35",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "60d7751329ce462861a5d7b8a0131eed",
+  "text": "22) «autorité de contrôle concernée», une autorité de contrôle qui est concernée par le traitement de données à caractère personnel parce que:",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7584cf491bcd0aa2cf308269ab221c24",
+  "text": "a) le responsable du traitement ou le sous-traitant est établi sur le territoire de l'État membre dont cette autorité de contrôle relève;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "4f34e16e729c07f4882d0cccd073d295",
+  "text": "b) des personnes concernées résidant dans l'État membre de cette autorité de contrôle sont sensiblement affectées par le traitement ou sont susceptibles de l'être; ou",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "2f124d732f96dfeb76138187c97d0388",
+  "text": "c) une réclamation a été introduite auprès de cette autorité de contrôle;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "2965d436d05eb268c72a04b47fdd7615",
+  "text": "23) «traitement transfrontalier»,",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "89578cc29f908bac0c43b25db4cafb39",
+  "text": "a) un traitement de données à caractère personnel qui a lieu dans l'Union dans le cadre des activités d'établissements dans plusieurs États membres d'un responsable du traitement ou d'un sous-traitant lorsque le responsable du traitement ou le sous-traitant est établi dans plusieurs États membres; ou",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "7bb0366a46f9dbf6a3c6691bdc4813d9",
+  "text": "b) un traitement de données à caractère personnel qui a lieu dans l'Union dans le cadre des activités d'un établis-sement unique d'un responsable du traitement ou d'un sous-traitant, mais qui affecte sensiblement ou est susceptible d'affecter sensiblement des personnes concernées dans plusieurs États membres;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a6574910eb783bf1e1b29d70893a6d54",
+  "text": "24) «objection pertinente et motivée», une objection à un projet de décision quant à savoir s'il y a ou non violation du présent règlement ou si l'action envisagée en ce qui concerne le responsable du traitement ou le sous-traitant respecte le présent règlement, qui démontre clairement l'importance des risques que présente le projet de décision pour les libertés et droits fondamentaux des personnes concernées et, le cas échéant, le libre flux des données à caractère personnel au sein de l'Union;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "48ce0d97cae2eae1f2865203c955c654",
+  "text": "25) «service de la société de l'information», un service au sens de l'article 1er, paragraphe 1, point b), de la directive (UE) 2015/1535 du Parlement européen et du Conseil (¹);",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "da72dc2d2a26a53d2cd514d084e1b35f",
+  "text": "26) «organisation internationale», une organisation internationale et les organismes de droit public international qui en relèvent, ou tout autre organisme qui est créé par un accord entre deux pays ou plus, ou en vertu d'un tel accord.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "aee3c43265466b6ea26a3af660b60ae4",
+  "text": "CHAPITRE II",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "ac48771bc1b4a92984181c574a5d25b2",
+  "text": "Principes",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "24e41d3bcdc2a77c03af2f2bae444489",
+  "text": "Article 5",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "4bfda73e1203d0ec29407eab9d3075b4",
+  "text": "Principes relatifs au traitement des données à caractère personnel",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "ListItem",
+  "element_id": "f64e8a1c8613e257f527def056de68b6",
+  "text": "Les données à caractère personnel doivent être:",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "05c1fae30bbab67e5034c034b47b62e8",
+  "text": "a) traitées de manière licite, loyale et transparente au regard de la personne concernée (licéité, loyauté, transparence);",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a3e676ffda1b5cfa18e1c2dc5bb7f330",
+  "text": "b) collectées pour des finalités déterminées, explicites et légitimes, et ne pas être traitées ultérieurement d'une manière incompatible avec ces finalités; le traitement ultérieur à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques n'est pas considéré, conformément à l'article 89, paragraphe 1, comme incompatible avec les finalités initiales (limitation des finalités);",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d19c4648cc5a02e0214df2f971e2b85e",
+  "text": "c) adéquates, pertinentes et limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées (minimisation des données);",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "e0f90b22c29ff5a8a63125bb35ad0dd7",
+  "text": "d) exactes et, si nécessaire, tenues à jour; toutes les mesures raisonnables doivent être prises pour que les données à caractère personnel qui sont inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans tarder (exactitude);",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "feebd050196b879fcaa434178f1b9dcc",
+  "text": "(¹) Directive (UE) 2015/1535 du Parlement européen et du Conseil du 9 septembre 2015 prévoyant une procédure d'information dans le domaine des réglementations techniques et des règles relatives aux services de la société de l'information (JO L 241 du 17.9.2015, р. 1).",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "b174a66a97ad630c66e784bf215fa0cf",
+  "text": "-------------------------------------------------------------------------------- Page 36",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "5900f5fc6c8a2e205bbf6a03792b0367",
+  "text": "L 119/36 FR Journal officiel de l'Union européenne 4.5.2016",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "2dbd374820f047698faaa07acebf1098",
+  "text": "e) conservées sous une forme permettant l'identification des personnes concernées pendant une durée n'excédant pas celle nécessaire au regard des finalités pour lesquelles elles sont traitées; les données à caractère personnel peuvent être conservées pour des durées plus longues dans la mesure où elles seront traitées exclusivement à des fins archivis-tiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques conformément à l'article 89, paragraphe 1, pour autant que soient mises en œuvre les mesures techniques et organisationnelles appropriées requises par le présent règlement afin de garantir les droits et libertés de la personne concernée (limitation de la conservation);",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "1baa041e0a87bcb19d52869a597170c9",
+  "text": "f) traitées de façon à garantir une sécurité appropriée des données à caractère personnel, y compris la protection contre le traitement non autorisé ou illicite et contre la perte, la destruction ou les dégâts d'origine accidentelle, à l'aide de mesures techniques ou organisationnelles appropriées (intégrité et confidentialité);",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "ListItem",
+  "element_id": "239c357519b821fc27729ff50cbb9241",
+  "text": "Le responsable du traitement est responsable du respect du paragraphe 1 et est en mesure de démontrer que celui-ci est respecté (responsabilité).",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "UncategorizedText",
+  "element_id": "1c03610ea035b88c68abd336ffec18f4",
+  "text": "Article 6",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "fc0f6a6155649be64be1c583d487f53f"
+  }
+},
+{
+  "type": "Title",
+  "element_id": "e80a348c9c386f0f93bc67c732f89c49",
+  "text": "Licéité du traitement",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "708369f0d3a0b1b409e0f0661a8f05a9"
+  }
+},
+{
+  "type": "ListItem",
+  "element_id": "39139a53990c97106cabbf6385a39a24",
+  "text": "Le traitement n'est licite que si, et dans la mesure où, au moins une des conditions suivantes est remplie:",
+  "metadata": {
+    "category_depth": 1,
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "aa3ffff2521bef97cfcefbb704f2650d",
+  "text": "a) la personne concernée a consenti au traitement de ses données à caractère personnel pour une ou plusieurs finalités spécifiques;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "28d62cc501afbc31f8f6ed79918814bc",
+  "text": "b) le traitement est nécessaire à l'exécution d'un contrat auquel la personne concernée est partie ou à l'exécution de mesures précontractuelles prises à la demande de celle-ci;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "02fc45012e77e12350b0f91aab05a117",
+  "text": "c) le traitement est nécessaire au respect d'une obligation légale à laquelle le responsable du traitement est soumis;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "f338f855aa285c1f3244e846f45fc299",
+  "text": "d) le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne physique;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "e5d4a9689cb20471da2ae8ebdb313606",
+  "text": "e) le traitement est nécessaire à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement;",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "64566f8effabd8f8b0994215a0d763de",
+  "text": "f) le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée qui exigent une protection des données à caractère personnel, notamment lorsque la personne concernée est un enfant.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "a661ddcd76d6d8c494b578c2dc8fe743",
+  "text": "Le point f) du premier alinéa ne s'applique pas au traitement effectué par les autorités publiques dans l'exécution de leurs missions.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "efbfe3b7a21220ad01fb3551db2bb138",
+  "text": "Les États membres peuvent maintenir ou introduire des dispositions plus spécifiques pour adapter l'application des règles du présent règlement pour ce qui est du traitement dans le but de respecter le paragraphe 1, points c) et e), en déterminant plus précisément les exigences spécifiques applicables au traitement ainsi que d'autres mesures visant à garantir un traitement licite et loyal, y compris dans d'autres situations particulières de traitement comme le prévoit le chapitre IX.",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+},
+{
+  "type": "NarrativeText",
+  "element_id": "d421e246dc8ca33df4f7788deea818b5",
+  "text": "Le fondement du traitement visé au paragraphe 1, points c) et e), est défini par:",
+  "metadata": {
+    "languages": [
+      "fra"
+    ],
+    "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+    "filetype": "application/pdf",
+    "parent_id": "e80a348c9c386f0f93bc67c732f89c49"
+  }
+}
+]

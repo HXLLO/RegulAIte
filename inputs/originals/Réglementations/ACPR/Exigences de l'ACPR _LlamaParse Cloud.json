@@ -1,0 +1,1177 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "text": "ACPR\nSECRÉTARIAT GÉNÉRAL\n  Exigences en matière de qualité des données\n   pour les organismes et groupes d’assurance\n      soumis à la Directive Solvabilité 2\n            (Version du 08/11/2023)\n                                                1",
+      "md": "# ACPR\n\n# SECRÉTARIAT GÉNÉRAL\n\n# Exigences en matière de qualité des données\n\n# pour les organismes et groupes d’assurance\n\n# soumis à la Directive Solvabilité 2\n\n(Version du 08/11/2023)",
+      "images": [
+        {
+          "name": "img_p0_1.png",
+          "height": 85,
+          "width": 86,
+          "x": 70.8500748,
+          "y": 85.05012690000001,
+          "original_width": 86,
+          "original_height": 85,
+          "ocr": [
+            {
+              "x": 1,
+              "y": 11,
+              "w": 80,
+              "h": 40,
+              "confidence": "0.9917575716972351",
+              "text": "ACPR"
+            }
+          ]
+        }
+      ],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "ACPR",
+          "md": "# ACPR",
+          "bBox": {
+            "x": 72,
+            "y": 98,
+            "w": 93,
+            "h": 47
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "SECRÉTARIAT GÉNÉRAL",
+          "md": "# SECRÉTARIAT GÉNÉRAL",
+          "bBox": {
+            "x": 70,
+            "y": 210.96,
+            "w": 123,
+            "h": 10
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Exigences en matière de qualité des données",
+          "md": "# Exigences en matière de qualité des données",
+          "bBox": {
+            "x": 81,
+            "y": 261.88,
+            "w": 431,
+            "h": 20
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "pour les organismes et groupes d’assurance",
+          "md": "# pour les organismes et groupes d’assurance",
+          "bBox": {
+            "x": 84,
+            "y": 284.88,
+            "w": 426,
+            "h": 20
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "soumis à la Directive Solvabilité 2",
+          "md": "# soumis à la Directive Solvabilité 2",
+          "bBox": {
+            "x": 136,
+            "y": 307.88,
+            "w": 321,
+            "h": 20
+          }
+        },
+        {
+          "type": "text",
+          "value": "(Version du 08/11/2023)",
+          "md": "(Version du 08/11/2023)",
+          "bBox": {
+            "x": 238,
+            "y": 343.88,
+            "w": 286,
+            "h": 447
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 2,
+      "text": "Table des matières\n1.    Introduction.................................................................................................................................... 2\n2.      Gouvernance................................................................................................................................... 3\n   2.1.               Périmètre des données SII....................................................................................................... 3\n   2.2.                                              Document cadre organisant le dispositif de maitrise de la qualité des données ................... 4\n   2.3.            Rôles et responsabilités........................................................................................................... 4\n   2.4.      Comitologie ............................................................................................................................. 5\n   2.5.            Les instruments de suivi .......................................................................................................... 6\n   2.6.                   Les critères de qualité des données ........................................................................................ 7\n3.                             Enjeux en matière de qualité des données externes ..................................................................... 8\n   3.1.                                               Identification des prestataires et partenaires en matière de qualité des données................ 8\n   3.2.                                       Contractualisation et gestion des risques liés aux données externes..................................... 9\n4.   Le répertoire ................................................................................................................................... 9\n5.  Traçabilité ..................................................................................................................................... 11\n   5.1.        Cartographies ........................................................................................................................ 11\n   5.2.             Collecte & traitements .......................................................................................................... 11\n6.        Le contrôle interne ....................................................................................................................... 12\n   6.1.                     Gestion et cartographie des risques...................................................................................... 12\n   6.2.                    Dispositif de contrôle permanent ......................................................................................... 12\n   6.3.           Fonction actuarielle............................................................................................................... 13\n   6.4.       Audit interne ......................................................................................................................... 13\n7.                        Précisions dans le cas de groupes prudentiels ............................................................................. 13\n1. Introduction\n       1                                                    Le présent document (la « Notice » dans la suite) est destiné, dans un souci de transparence\n                                                                 et de prévisibilité, à indiquer la manière dont l’Autorité de contrôle prudentiel et de\n                                                           résolution (« l’ACPR ») entend contrôler le respect de la réglementation Solvabilité 2. Cette\n                                                           réglementation s’appuie sur la directive 2009/138/CE (« la directive »), le règlement délégué\n                                                                     (UE) 2015/35 (« le règlement délégué »), amendés notamment par le règlement délégué\n            (UE) 2019/981 et la directive (UE) et 2014/51/UE.\n       2                                                   La Notice vise à clarifier certaines modalités d’application de la règlementation Solvabilité\n                                                              2, en particulier les articles R351-2, R351-13, R352-5, R352-19, R352-22, R352-24, R354-6,\n                                                           R354-7, R356-50 du code des assurances, les articles 19, 20, 21, 27, 219, 230, 231, 244, 260,\n                                                                      264, 265 et 272 du règlement délégué (UE) n°2015/35 qui regroupent les principales\n                                                              exigences réglementaires relatives à la qualité des données utilisées aux fins des calculs\n                                                              prudentiels Solvabilité II, et, lorsque cela est nécessaire, à apporter des précisions aux\n                                                                   orientations publiées par l'Autorité européenne de surveillance des assurances et des\n                                                               pensions professionnelles (« l’AEAPP ») notamment les orientations 48, 52 et 53 relatives\n                                                                   au système de gouvernance (EIOPA-BoS-14/253) et les orientations 27, 50, 55, 56 et 57\n                                                                relatives à l’utilisation de modèles internes (EIOPA-BoS-14/180) auxquelles l’ACPR s’est\n                                                                                                                                                       2",
+      "md": "# Table des matières\n\n1. Introduction.................................................................................................................................... 2\n2. Gouvernance................................................................................................................................... 3\n1. Périmètre des données SII....................................................................................................... 3\n2. Document cadre organisant le dispositif de maitrise de la qualité des données ................... 4\n3. Rôles et responsabilités........................................................................................................... 4\n4. Comitologie ............................................................................................................................. 5\n5. Les instruments de suivi .......................................................................................................... 6\n6. Les critères de qualité des données ........................................................................................ 7\n3. Enjeux en matière de qualité des données externes ..................................................................... 8\n1. Identification des prestataires et partenaires en matière de qualité des données................ 8\n2. Contractualisation et gestion des risques liés aux données externes..................................... 9\n4. Le répertoire ................................................................................................................................... 9\n5. Traçabilité ..................................................................................................................................... 11\n1. Cartographies ........................................................................................................................ 11\n2. Collecte & traitements .......................................................................................................... 11\n6. Le contrôle interne ....................................................................................................................... 12\n1. Gestion et cartographie des risques...................................................................................... 12\n2. Dispositif de contrôle permanent ......................................................................................... 12\n3. Fonction actuarielle............................................................................................................... 13\n4. Audit interne ......................................................................................................................... 13\n7. Précisions dans le cas de groupes prudentiels ............................................................................. 13\n\n# 1. Introduction\n\nLe présent document (la « Notice » dans la suite) est destiné, dans un souci de transparence et de prévisibilité, à indiquer la manière dont l’Autorité de contrôle prudentiel et de résolution (« l’ACPR ») entend contrôler le respect de la réglementation Solvabilité 2. Cette réglementation s’appuie sur la directive 2009/138/CE (« la directive »), le règlement délégué (UE) 2015/35 (« le règlement délégué »), amendés notamment par le règlement délégué (UE) 2019/981 et la directive (UE) et 2014/51/UE.\n\nLa Notice vise à clarifier certaines modalités d’application de la règlementation Solvabilité 2, en particulier les articles R351-2, R351-13, R352-5, R352-19, R352-22, R352-24, R354-6, R354-7, R356-50 du code des assurances, les articles 19, 20, 21, 27, 219, 230, 231, 244, 260, 264, 265 et 272 du règlement délégué (UE) n°2015/35 qui regroupent les principales exigences réglementaires relatives à la qualité des données utilisées aux fins des calculs prudentiels Solvabilité II, et, lorsque cela est nécessaire, à apporter des précisions aux orientations publiées par l'Autorité européenne de surveillance des assurances et des pensions professionnelles (« l’AEAPP ») notamment les orientations 48, 52 et 53 relatives au système de gouvernance (EIOPA-BoS-14/253) et les orientations 27, 50, 55, 56 et 57 relatives à l’utilisation de modèles internes (EIOPA-BoS-14/180) auxquelles l’ACPR s’est.",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Table des matières",
+          "md": "# Table des matières",
+          "bBox": {
+            "x": 70,
+            "y": 70.96,
+            "w": 121,
+            "h": 16
+          }
+        },
+        {
+          "type": "text",
+          "value": "1. Introduction.................................................................................................................................... 2\n2. Gouvernance................................................................................................................................... 3\n1. Périmètre des données SII....................................................................................................... 3\n2. Document cadre organisant le dispositif de maitrise de la qualité des données ................... 4\n3. Rôles et responsabilités........................................................................................................... 4\n4. Comitologie ............................................................................................................................. 5\n5. Les instruments de suivi .......................................................................................................... 6\n6. Les critères de qualité des données ........................................................................................ 7\n3. Enjeux en matière de qualité des données externes ..................................................................... 8\n1. Identification des prestataires et partenaires en matière de qualité des données................ 8\n2. Contractualisation et gestion des risques liés aux données externes..................................... 9\n4. Le répertoire ................................................................................................................................... 9\n5. Traçabilité ..................................................................................................................................... 11\n1. Cartographies ........................................................................................................................ 11\n2. Collecte & traitements .......................................................................................................... 11\n6. Le contrôle interne ....................................................................................................................... 12\n1. Gestion et cartographie des risques...................................................................................... 12\n2. Dispositif de contrôle permanent ......................................................................................... 12\n3. Fonction actuarielle............................................................................................................... 13\n4. Audit interne ......................................................................................................................... 13\n7. Précisions dans le cas de groupes prudentiels ............................................................................. 13",
+          "md": "1. Introduction.................................................................................................................................... 2\n2. Gouvernance................................................................................................................................... 3\n1. Périmètre des données SII....................................................................................................... 3\n2. Document cadre organisant le dispositif de maitrise de la qualité des données ................... 4\n3. Rôles et responsabilités........................................................................................................... 4\n4. Comitologie ............................................................................................................................. 5\n5. Les instruments de suivi .......................................................................................................... 6\n6. Les critères de qualité des données ........................................................................................ 7\n3. Enjeux en matière de qualité des données externes ..................................................................... 8\n1. Identification des prestataires et partenaires en matière de qualité des données................ 8\n2. Contractualisation et gestion des risques liés aux données externes..................................... 9\n4. Le répertoire ................................................................................................................................... 9\n5. Traçabilité ..................................................................................................................................... 11\n1. Cartographies ........................................................................................................................ 11\n2. Collecte & traitements .......................................................................................................... 11\n6. Le contrôle interne ....................................................................................................................... 12\n1. Gestion et cartographie des risques...................................................................................... 12\n2. Dispositif de contrôle permanent ......................................................................................... 12\n3. Fonction actuarielle............................................................................................................... 13\n4. Audit interne ......................................................................................................................... 13\n7. Précisions dans le cas de groupes prudentiels ............................................................................. 13",
+          "bBox": {
+            "x": 70,
+            "y": 91.88,
+            "w": 454,
+            "h": 699
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "1. Introduction",
+          "md": "# 1. Introduction",
+          "bBox": {
+            "x": 70,
+            "y": 91.88,
+            "w": 98,
+            "h": 449
+          }
+        },
+        {
+          "type": "text",
+          "value": "Le présent document (la « Notice » dans la suite) est destiné, dans un souci de transparence et de prévisibilité, à indiquer la manière dont l’Autorité de contrôle prudentiel et de résolution (« l’ACPR ») entend contrôler le respect de la réglementation Solvabilité 2. Cette réglementation s’appuie sur la directive 2009/138/CE (« la directive »), le règlement délégué (UE) 2015/35 (« le règlement délégué »), amendés notamment par le règlement délégué (UE) 2019/981 et la directive (UE) et 2014/51/UE.\n\nLa Notice vise à clarifier certaines modalités d’application de la règlementation Solvabilité 2, en particulier les articles R351-2, R351-13, R352-5, R352-19, R352-22, R352-24, R354-6, R354-7, R356-50 du code des assurances, les articles 19, 20, 21, 27, 219, 230, 231, 244, 260, 264, 265 et 272 du règlement délégué (UE) n°2015/35 qui regroupent les principales exigences réglementaires relatives à la qualité des données utilisées aux fins des calculs prudentiels Solvabilité II, et, lorsque cela est nécessaire, à apporter des précisions aux orientations publiées par l'Autorité européenne de surveillance des assurances et des pensions professionnelles (« l’AEAPP ») notamment les orientations 48, 52 et 53 relatives au système de gouvernance (EIOPA-BoS-14/253) et les orientations 27, 50, 55, 56 et 57 relatives à l’utilisation de modèles internes (EIOPA-BoS-14/180) auxquelles l’ACPR s’est.",
+          "md": "Le présent document (la « Notice » dans la suite) est destiné, dans un souci de transparence et de prévisibilité, à indiquer la manière dont l’Autorité de contrôle prudentiel et de résolution (« l’ACPR ») entend contrôler le respect de la réglementation Solvabilité 2. Cette réglementation s’appuie sur la directive 2009/138/CE (« la directive »), le règlement délégué (UE) 2015/35 (« le règlement délégué »), amendés notamment par le règlement délégué (UE) 2019/981 et la directive (UE) et 2014/51/UE.\n\nLa Notice vise à clarifier certaines modalités d’application de la règlementation Solvabilité 2, en particulier les articles R351-2, R351-13, R352-5, R352-19, R352-22, R352-24, R354-6, R354-7, R356-50 du code des assurances, les articles 19, 20, 21, 27, 219, 230, 231, 244, 260, 264, 265 et 272 du règlement délégué (UE) n°2015/35 qui regroupent les principales exigences réglementaires relatives à la qualité des données utilisées aux fins des calculs prudentiels Solvabilité II, et, lorsque cela est nécessaire, à apporter des précisions aux orientations publiées par l'Autorité européenne de surveillance des assurances et des pensions professionnelles (« l’AEAPP ») notamment les orientations 48, 52 et 53 relatives au système de gouvernance (EIOPA-BoS-14/253) et les orientations 27, 50, 55, 56 et 57 relatives à l’utilisation de modèles internes (EIOPA-BoS-14/180) auxquelles l’ACPR s’est.",
+          "bBox": {
+            "x": 70,
+            "y": 109.88,
+            "w": 454,
+            "h": 681
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 3,
+      "text": "          déclarée conforme par avis de conformité publiés au registre de l’ACPR l’ACPR le 1ᵉʳ\n          décembre 2023.\n      3   Cette Notice ne couvre pas de façon exhaustive les exigences de la réglementation\n          Solvabilité 2 et ne saurait prévaloir sur les dispositions de la réglementation applicable.\n      4   La présente Notice est applicable à compter du jour de sa publication au registre officiel de\n          l’ACPR.\n      5   Aux fins de la présente Notice, les acronymes « SCR » et            « MCR » désigneront\n          respectivement le capital de solvabilité requis et le minimum de capital requis.\n      6   Sauf mention contraire, dans cette Notice, « l’entreprise » correspond aux organismes\n          d’assurance ou de réassurance relevant du régime « Solvabilité II » mentionnés aux articles\n          L. 310-3-1 du code des assurances, L. 211-10 du code de la mutualité ou L. 931-6 du code de\n          la sécurité sociale.\n      7   Les éléments applicables aux entreprises s’appliquent      mutatis mutandis aux groupes\n          mentionnés à l’article L. 356-1 du code des assurances et faisant l’objet du contrôle de\n          groupe mentionné aux deuxième et troisième alinéas de l’article L. 356-2 du code des\n          assurances. Cette Notice introduit également des dispositions spécifiques aux groupes.\n      8   L’application du principe de proportionnalité n’exonère pas l’entreprise de se conformer aux\n          exigences en termes de maitrise de la qualité des données précisées par la réglementation\n          Solvabilité 2, en particulier pour la réalisation des calculs prudentiels. Ainsi, les dispositifs\n          opérationnels ou les bonnes pratiques identifiés dans la Notice, s’ils sont correctement mis\n          en œuvre, constituent un socle général devant, par défaut, permettre à l’entreprise de\n          s’assurer une qualité des données suffisante.\n      9   L’entreprise conserve toutefois la responsabilité de définir un dispositif de qualité des\n          données adapté à sa situation en tenant compte de l’ampleur, de la nature ou de la\n          complexité des risques auquel elle est exposée (par exemple du moindre niveau de risque\n          opérationnel ou assurantiel porté par ses opérations d’assurance, ou au regard de la\n          simplicité de cheminement et de transformation des données ou encore du profil des\n          risques assurés). Dès lors, l’entreprise peut utiliser les dispositifs mentionnés dans cette\n          Notice comme socle, tout en les adaptant sur différents registres, comme notamment, et\n          sans viser l’exhaustivité, la granularité ou les fréquences de mise à jour et de contrôle.\n      10  Quelle que soit l’organisation retenue en matière de maitrise de la qualité des données,\n          l’entreprise doit être en capacité de démontrer que cette organisation répond aux objectifs\n          précisés par la réglementation et régulièrement rappelés dans cette Notice.\n2. Gouvernance\n    2.1. Périmètre des données SII\n      11  Les données visées par les chapitres suivants doivent s’entendre comme l’ensemble des\n          données concourant aux calculs réalisés dans le cadre de la réglementation Solvabilité II afin\n          d’établir principalement :\n        -   les provisions techniques prudentielles ;\n        -   les paramètres propres à l’entreprise ou au groupe (respectivement « USP » et « GSP ») ;\n        -   l’ensemble des informations calculées à l’aide d’un modèle interne partiel ou total ;\n                                                                                                3",
+      "md": "déclarée conforme par avis de conformité publiés au registre de l’ACPR l’ACPR le 1ᵉʳ décembre 2023.\n\nCette Notice ne couvre pas de façon exhaustive les exigences de la réglementation Solvabilité 2 et ne saurait prévaloir sur les dispositions de la réglementation applicable.\n\nLa présente Notice est applicable à compter du jour de sa publication au registre officiel de l’ACPR.\n\nAux fins de la présente Notice, les acronymes « SCR » et « MCR » désigneront respectivement le capital de solvabilité requis et le minimum de capital requis.\n\nSauf mention contraire, dans cette Notice, « l’entreprise » correspond aux organismes d’assurance ou de réassurance relevant du régime « Solvabilité II » mentionnés aux articles L. 310-3-1 du code des assurances, L. 211-10 du code de la mutualité ou L. 931-6 du code de la sécurité sociale.\n\nLes éléments applicables aux entreprises s’appliquent mutatis mutandis aux groupes mentionnés à l’article L. 356-1 du code des assurances et faisant l’objet du contrôle de groupe mentionné aux deuxième et troisième alinéas de l’article L. 356-2 du code des assurances. Cette Notice introduit également des dispositions spécifiques aux groupes.\n\nL’application du principe de proportionnalité n’exonère pas l’entreprise de se conformer aux exigences en termes de maitrise de la qualité des données précisées par la réglementation Solvabilité 2, en particulier pour la réalisation des calculs prudentiels. Ainsi, les dispositifs opérationnels ou les bonnes pratiques identifiés dans la Notice, s’ils sont correctement mis en œuvre, constituent un socle général devant, par défaut, permettre à l’entreprise de s’assurer une qualité des données suffisante.\n\nL’entreprise conserve toutefois la responsabilité de définir un dispositif de qualité des données adapté à sa situation en tenant compte de l’ampleur, de la nature ou de la complexité des risques auquel elle est exposée (par exemple du moindre niveau de risque opérationnel ou assurantiel porté par ses opérations d’assurance, ou au regard de la simplicité de cheminement et de transformation des données ou encore du profil des risques assurés). Dès lors, l’entreprise peut utiliser les dispositifs mentionnés dans cette Notice comme socle, tout en les adaptant sur différents registres, comme notamment, et sans viser l’exhaustivité, la granularité ou les fréquences de mise à jour et de contrôle.\n\nQuelle que soit l’organisation retenue en matière de maitrise de la qualité des données, l’entreprise doit être en capacité de démontrer que cette organisation répond aux objectifs précisés par la réglementation et régulièrement rappelés dans cette Notice.\n\n# 2. Gouvernance\n\n# 2.1. Périmètre des données SII\n\nLes données visées par les chapitres suivants doivent s’entendre comme l’ensemble des données concourant aux calculs réalisés dans le cadre de la réglementation Solvabilité II afin d’établir principalement :\n\n- les provisions techniques prudentielles ;\n- les paramètres propres à l’entreprise ou au groupe (respectivement « USP » et « GSP ») ;\n- l’ensemble des informations calculées à l’aide d’un modèle interne partiel ou total ;",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "déclarée conforme par avis de conformité publiés au registre de l’ACPR l’ACPR le 1ᵉʳ décembre 2023.\n\nCette Notice ne couvre pas de façon exhaustive les exigences de la réglementation Solvabilité 2 et ne saurait prévaloir sur les dispositions de la réglementation applicable.\n\nLa présente Notice est applicable à compter du jour de sa publication au registre officiel de l’ACPR.\n\nAux fins de la présente Notice, les acronymes « SCR » et « MCR » désigneront respectivement le capital de solvabilité requis et le minimum de capital requis.\n\nSauf mention contraire, dans cette Notice, « l’entreprise » correspond aux organismes d’assurance ou de réassurance relevant du régime « Solvabilité II » mentionnés aux articles L. 310-3-1 du code des assurances, L. 211-10 du code de la mutualité ou L. 931-6 du code de la sécurité sociale.\n\nLes éléments applicables aux entreprises s’appliquent mutatis mutandis aux groupes mentionnés à l’article L. 356-1 du code des assurances et faisant l’objet du contrôle de groupe mentionné aux deuxième et troisième alinéas de l’article L. 356-2 du code des assurances. Cette Notice introduit également des dispositions spécifiques aux groupes.\n\nL’application du principe de proportionnalité n’exonère pas l’entreprise de se conformer aux exigences en termes de maitrise de la qualité des données précisées par la réglementation Solvabilité 2, en particulier pour la réalisation des calculs prudentiels. Ainsi, les dispositifs opérationnels ou les bonnes pratiques identifiés dans la Notice, s’ils sont correctement mis en œuvre, constituent un socle général devant, par défaut, permettre à l’entreprise de s’assurer une qualité des données suffisante.\n\nL’entreprise conserve toutefois la responsabilité de définir un dispositif de qualité des données adapté à sa situation en tenant compte de l’ampleur, de la nature ou de la complexité des risques auquel elle est exposée (par exemple du moindre niveau de risque opérationnel ou assurantiel porté par ses opérations d’assurance, ou au regard de la simplicité de cheminement et de transformation des données ou encore du profil des risques assurés). Dès lors, l’entreprise peut utiliser les dispositifs mentionnés dans cette Notice comme socle, tout en les adaptant sur différents registres, comme notamment, et sans viser l’exhaustivité, la granularité ou les fréquences de mise à jour et de contrôle.\n\nQuelle que soit l’organisation retenue en matière de maitrise de la qualité des données, l’entreprise doit être en capacité de démontrer que cette organisation répond aux objectifs précisés par la réglementation et régulièrement rappelés dans cette Notice.",
+          "md": "déclarée conforme par avis de conformité publiés au registre de l’ACPR l’ACPR le 1ᵉʳ décembre 2023.\n\nCette Notice ne couvre pas de façon exhaustive les exigences de la réglementation Solvabilité 2 et ne saurait prévaloir sur les dispositions de la réglementation applicable.\n\nLa présente Notice est applicable à compter du jour de sa publication au registre officiel de l’ACPR.\n\nAux fins de la présente Notice, les acronymes « SCR » et « MCR » désigneront respectivement le capital de solvabilité requis et le minimum de capital requis.\n\nSauf mention contraire, dans cette Notice, « l’entreprise » correspond aux organismes d’assurance ou de réassurance relevant du régime « Solvabilité II » mentionnés aux articles L. 310-3-1 du code des assurances, L. 211-10 du code de la mutualité ou L. 931-6 du code de la sécurité sociale.\n\nLes éléments applicables aux entreprises s’appliquent mutatis mutandis aux groupes mentionnés à l’article L. 356-1 du code des assurances et faisant l’objet du contrôle de groupe mentionné aux deuxième et troisième alinéas de l’article L. 356-2 du code des assurances. Cette Notice introduit également des dispositions spécifiques aux groupes.\n\nL’application du principe de proportionnalité n’exonère pas l’entreprise de se conformer aux exigences en termes de maitrise de la qualité des données précisées par la réglementation Solvabilité 2, en particulier pour la réalisation des calculs prudentiels. Ainsi, les dispositifs opérationnels ou les bonnes pratiques identifiés dans la Notice, s’ils sont correctement mis en œuvre, constituent un socle général devant, par défaut, permettre à l’entreprise de s’assurer une qualité des données suffisante.\n\nL’entreprise conserve toutefois la responsabilité de définir un dispositif de qualité des données adapté à sa situation en tenant compte de l’ampleur, de la nature ou de la complexité des risques auquel elle est exposée (par exemple du moindre niveau de risque opérationnel ou assurantiel porté par ses opérations d’assurance, ou au regard de la simplicité de cheminement et de transformation des données ou encore du profil des risques assurés). Dès lors, l’entreprise peut utiliser les dispositifs mentionnés dans cette Notice comme socle, tout en les adaptant sur différents registres, comme notamment, et sans viser l’exhaustivité, la granularité ou les fréquences de mise à jour et de contrôle.\n\nQuelle que soit l’organisation retenue en matière de maitrise de la qualité des données, l’entreprise doit être en capacité de démontrer que cette organisation répond aux objectifs précisés par la réglementation et régulièrement rappelés dans cette Notice.",
+          "bBox": {
+            "x": 99,
+            "y": 70.88,
+            "w": 425,
+            "h": 720
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "2. Gouvernance",
+          "md": "# 2. Gouvernance",
+          "bBox": {
+            "x": 70,
+            "y": 621.96,
+            "w": 104,
+            "h": 16
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "2.1. Périmètre des données SII",
+          "md": "# 2.1. Périmètre des données SII",
+          "bBox": {
+            "x": 88,
+            "y": 652.92,
+            "w": 148,
+            "h": 12
+          }
+        },
+        {
+          "type": "text",
+          "value": "Les données visées par les chapitres suivants doivent s’entendre comme l’ensemble des données concourant aux calculs réalisés dans le cadre de la réglementation Solvabilité II afin d’établir principalement :\n\n- les provisions techniques prudentielles ;\n- les paramètres propres à l’entreprise ou au groupe (respectivement « USP » et « GSP ») ;\n- l’ensemble des informations calculées à l’aide d’un modèle interne partiel ou total ;",
+          "md": "Les données visées par les chapitres suivants doivent s’entendre comme l’ensemble des données concourant aux calculs réalisés dans le cadre de la réglementation Solvabilité II afin d’établir principalement :\n\n- les provisions techniques prudentielles ;\n- les paramètres propres à l’entreprise ou au groupe (respectivement « USP » et « GSP ») ;\n- l’ensemble des informations calculées à l’aide d’un modèle interne partiel ou total ;",
+          "bBox": {
+            "x": 106,
+            "y": 673.88,
+            "w": 418,
+            "h": 84
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [
+        {
+          "url": "https://acpr.banque-france.fr/sites/default/files/media/2023/12/01/20231130_avis_de_conformite_orientations_eiopa.pdf",
+          "text": "1 er"
+        },
+        {
+          "url": "https://acpr.banque-france.fr/sites/default/files/media/2023/12/01/20231130_avis_de_conformite_orientations_eiopa.pdf",
+          "text": "décembre 2023 ."
+        }
+      ],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 4,
+      "text": "          Au titre du respect des exigences précisées dans les articles 266 et 258 §1 alinéas h et j du\n        règlement  délégué,   l’entreprise peut  utilement  étendre  les  dispositions aux      données\n        suivantes :\n        -  le capital de solvabilité requis (qu’il soit calculé en formule standard ou en utilisant des\n            paramètres spécifiques) et le minimum de capital de solvabilité requis ;\n        -   les éléments composant le bilan prudentiel ;\n        -   plus largement, l’ensemble des éléments des états prudentiels Solvabilité II.\n          Les conclusions de l'EIRS¹ sur la capacité de l'entreprise à faire face à certains évènements\n       adverses doivent être robustes, ce qui induit de les fonder sur des données de qualité qui sont,\n                    pour une bonne part, les mêmes que les données critiques utilisées pour établir les\n        informations transmises à l’autorité de contrôle ou à destination du public.\n      12        Par ailleurs, le périmètre des données inclut l’ensemble des branches, lignes, segments\n          d’activités d’assurance menées par l’entreprise et ce, quelle que soit l’organisation retenue\n          pour les réaliser (unités opérationnelles, marques commerciales, …).\n      13      De plus, le périmètre des données tient compte de leur dimension transversale i.e. depuis\n      les outils de gestion (contrats, sinistres) jusqu’aux états prudentiels en passant par les outils\n          de calcul.\n      14  Enfin,  les  données    en  provenance    de   sous-traitants  (délégataires  de      gestion\n         contrats/sinistres, gestionnaires d’actifs…) et de partenaires (courtiers, réassureurs, autres\n              fournisseurs de données…), dès lors qu’elles concourent directement ou indirectement à la\n          production des données visées au paragraphe 11 rentrent également dans le périmètre.\n      15  Dans la suite, l’ensemble de ces données sera nommé de façon générique « Données SII ».\n    2.2. Document cadre organisant le dispositif de maitrise de la qualité des données\n      16     L’entreprise conçoit et formalise un ou des documents (processus et procédures) organisant\n                 le dispositif de maitrise de la qualité des données. Afin d’engager toutes les parties\n             prenantes dans le dispositif de qualité des données, ce corpus documentaire est validé par\n        la direction générale ou le directoire (article 258 § 1 alinéas a, b et f du règlement délégué)\n                       qui le promeut au sein de l’entreprise. Ce corpus documentaire est revu au moins\n          annuellement et incorpore à cette occasion les évolutions internes et réglementaires.\n      17  Ce document ou corpus documentaire comporte les points suivants :\n        -   le détail du périmètre des données couvertes par le dispositif ;\n        -   les rôles et responsabilités des parties prenantes à la qualité des données ;\n        -   la comitologie mise en place ;\n        -   la définition des critères de qualité des données (dont la notion de criticité) ;\n        -   les instruments de suivi.\n    2.3. Rôles et responsabilités\n      18 Pour satisfaire aux exigences de l’article 258 §1 alinéa b du règlement délégué, la gestion de\n               la qualité des données doit être organisée afin que les fonctions et responsabilités des\n         différentes parties prenantes soient clairement assignées. À ce titre, l’entreprise désigne un\n           responsable (« responsable QDD » dans la suite), le cas échéant assisté d’une équipe dédiée,\n                qui dispose d’une vision transversale sur les données SII. En fonction de la nature, de\n1 Évaluation Interne des Risques et de la Solvabilité (ORSA en anglais)\n                                                                                                      4",
+      "md": "Au titre du respect des exigences précisées dans les articles 266 et 258 §1 alinéas h et j du règlement délégué, l’entreprise peut utilement étendre les dispositions aux données suivantes :\n\n- le capital de solvabilité requis (qu’il soit calculé en formule standard ou en utilisant des paramètres spécifiques) et le minimum de capital de solvabilité requis ;\n- les éléments composant le bilan prudentiel ;\n- plus largement, l’ensemble des éléments des états prudentiels Solvabilité II.\n\nLes conclusions de l'EIRS1 sur la capacité de l'entreprise à faire face à certains évènements adverses doivent être robustes, ce qui induit de les fonder sur des données de qualité qui sont, pour une bonne part, les mêmes que les données critiques utilisées pour établir les informations transmises à l’autorité de contrôle ou à destination du public.\n\nPar ailleurs, le périmètre des données inclut l’ensemble des branches, lignes, segments d’activités d’assurance menées par l’entreprise et ce, quelle que soit l’organisation retenue pour les réaliser (unités opérationnelles, marques commerciales, …).\n\nDe plus, le périmètre des données tient compte de leur dimension transversale i.e. depuis les outils de gestion (contrats, sinistres) jusqu’aux états prudentiels en passant par les outils de calcul.\n\nEnfin, les données en provenance de sous-traitants (délégataires de gestion contrats/sinistres, gestionnaires d’actifs…) et de partenaires (courtiers, réassureurs, autres fournisseurs de données…), dès lors qu’elles concourent directement ou indirectement à la production des données visées au paragraphe 11 rentrent également dans le périmètre.\n\nDans la suite, l’ensemble de ces données sera nommé de façon générique « Données SII ».\n\n# 2.2. Document cadre organisant le dispositif de maitrise de la qualité des données\n\nL’entreprise conçoit et formalise un ou des documents (processus et procédures) organisant le dispositif de maitrise de la qualité des données. Afin d’engager toutes les parties prenantes dans le dispositif de qualité des données, ce corpus documentaire est validé par la direction générale ou le directoire (article 258 § 1 alinéas a, b et f du règlement délégué) qui le promeut au sein de l’entreprise. Ce corpus documentaire est revu au moins annuellement et incorpore à cette occasion les évolutions internes et réglementaires.\n\nCe document ou corpus documentaire comporte les points suivants :\n\n- le détail du périmètre des données couvertes par le dispositif ;\n- les rôles et responsabilités des parties prenantes à la qualité des données ;\n- la comitologie mise en place ;\n- la définition des critères de qualité des données (dont la notion de criticité) ;\n- les instruments de suivi.\n\n# 2.3. Rôles et responsabilités\n\nPour satisfaire aux exigences de l’article 258 §1 alinéa b du règlement délégué, la gestion de la qualité des données doit être organisée afin que les fonctions et responsabilités des différentes parties prenantes soient clairement assignées. À ce titre, l’entreprise désigne un responsable (« responsable QDD » dans la suite), le cas échéant assisté d’une équipe dédiée, qui dispose d’une vision transversale sur les données SII. En fonction de la nature, de\n\n1 Évaluation Interne des Risques et de la Solvabilité (ORSA en anglais)",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "Au titre du respect des exigences précisées dans les articles 266 et 258 §1 alinéas h et j du règlement délégué, l’entreprise peut utilement étendre les dispositions aux données suivantes :\n\n- le capital de solvabilité requis (qu’il soit calculé en formule standard ou en utilisant des paramètres spécifiques) et le minimum de capital de solvabilité requis ;\n- les éléments composant le bilan prudentiel ;\n- plus largement, l’ensemble des éléments des états prudentiels Solvabilité II.\n\nLes conclusions de l'EIRS1 sur la capacité de l'entreprise à faire face à certains évènements adverses doivent être robustes, ce qui induit de les fonder sur des données de qualité qui sont, pour une bonne part, les mêmes que les données critiques utilisées pour établir les informations transmises à l’autorité de contrôle ou à destination du public.\n\nPar ailleurs, le périmètre des données inclut l’ensemble des branches, lignes, segments d’activités d’assurance menées par l’entreprise et ce, quelle que soit l’organisation retenue pour les réaliser (unités opérationnelles, marques commerciales, …).\n\nDe plus, le périmètre des données tient compte de leur dimension transversale i.e. depuis les outils de gestion (contrats, sinistres) jusqu’aux états prudentiels en passant par les outils de calcul.\n\nEnfin, les données en provenance de sous-traitants (délégataires de gestion contrats/sinistres, gestionnaires d’actifs…) et de partenaires (courtiers, réassureurs, autres fournisseurs de données…), dès lors qu’elles concourent directement ou indirectement à la production des données visées au paragraphe 11 rentrent également dans le périmètre.\n\nDans la suite, l’ensemble de ces données sera nommé de façon générique « Données SII ».",
+          "md": "Au titre du respect des exigences précisées dans les articles 266 et 258 §1 alinéas h et j du règlement délégué, l’entreprise peut utilement étendre les dispositions aux données suivantes :\n\n- le capital de solvabilité requis (qu’il soit calculé en formule standard ou en utilisant des paramètres spécifiques) et le minimum de capital de solvabilité requis ;\n- les éléments composant le bilan prudentiel ;\n- plus largement, l’ensemble des éléments des états prudentiels Solvabilité II.\n\nLes conclusions de l'EIRS1 sur la capacité de l'entreprise à faire face à certains évènements adverses doivent être robustes, ce qui induit de les fonder sur des données de qualité qui sont, pour une bonne part, les mêmes que les données critiques utilisées pour établir les informations transmises à l’autorité de contrôle ou à destination du public.\n\nPar ailleurs, le périmètre des données inclut l’ensemble des branches, lignes, segments d’activités d’assurance menées par l’entreprise et ce, quelle que soit l’organisation retenue pour les réaliser (unités opérationnelles, marques commerciales, …).\n\nDe plus, le périmètre des données tient compte de leur dimension transversale i.e. depuis les outils de gestion (contrats, sinistres) jusqu’aux états prudentiels en passant par les outils de calcul.\n\nEnfin, les données en provenance de sous-traitants (délégataires de gestion contrats/sinistres, gestionnaires d’actifs…) et de partenaires (courtiers, réassureurs, autres fournisseurs de données…), dès lors qu’elles concourent directement ou indirectement à la production des données visées au paragraphe 11 rentrent également dans le périmètre.\n\nDans la suite, l’ensemble de ces données sera nommé de façon générique « Données SII ».",
+          "bBox": {
+            "x": 106,
+            "y": 70.88,
+            "w": 418,
+            "h": 565
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "2.2. Document cadre organisant le dispositif de maitrise de la qualité des données",
+          "md": "# 2.2. Document cadre organisant le dispositif de maitrise de la qualité des données",
+          "bBox": {
+            "x": 88,
+            "y": 83.88,
+            "w": 436,
+            "h": 366.04
+          }
+        },
+        {
+          "type": "text",
+          "value": "L’entreprise conçoit et formalise un ou des documents (processus et procédures) organisant le dispositif de maitrise de la qualité des données. Afin d’engager toutes les parties prenantes dans le dispositif de qualité des données, ce corpus documentaire est validé par la direction générale ou le directoire (article 258 § 1 alinéas a, b et f du règlement délégué) qui le promeut au sein de l’entreprise. Ce corpus documentaire est revu au moins annuellement et incorpore à cette occasion les évolutions internes et réglementaires.\n\nCe document ou corpus documentaire comporte les points suivants :\n\n- le détail du périmètre des données couvertes par le dispositif ;\n- les rôles et responsabilités des parties prenantes à la qualité des données ;\n- la comitologie mise en place ;\n- la définition des critères de qualité des données (dont la notion de criticité) ;\n- les instruments de suivi.",
+          "md": "L’entreprise conçoit et formalise un ou des documents (processus et procédures) organisant le dispositif de maitrise de la qualité des données. Afin d’engager toutes les parties prenantes dans le dispositif de qualité des données, ce corpus documentaire est validé par la direction générale ou le directoire (article 258 § 1 alinéas a, b et f du règlement délégué) qui le promeut au sein de l’entreprise. Ce corpus documentaire est revu au moins annuellement et incorpore à cette occasion les évolutions internes et réglementaires.\n\nCe document ou corpus documentaire comporte les points suivants :\n\n- le détail du périmètre des données couvertes par le dispositif ;\n- les rôles et responsabilités des parties prenantes à la qualité des données ;\n- la comitologie mise en place ;\n- la définition des critères de qualité des données (dont la notion de criticité) ;\n- les instruments de suivi.",
+          "bBox": {
+            "x": 106,
+            "y": 83.88,
+            "w": 418,
+            "h": 552
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "2.3. Rôles et responsabilités",
+          "md": "# 2.3. Rôles et responsabilités",
+          "bBox": {
+            "x": 88,
+            "y": 83.88,
+            "w": 308,
+            "h": 578.04
+          }
+        },
+        {
+          "type": "text",
+          "value": "Pour satisfaire aux exigences de l’article 258 §1 alinéa b du règlement délégué, la gestion de la qualité des données doit être organisée afin que les fonctions et responsabilités des différentes parties prenantes soient clairement assignées. À ce titre, l’entreprise désigne un responsable (« responsable QDD » dans la suite), le cas échéant assisté d’une équipe dédiée, qui dispose d’une vision transversale sur les données SII. En fonction de la nature, de\n\n1 Évaluation Interne des Risques et de la Solvabilité (ORSA en anglais)",
+          "md": "Pour satisfaire aux exigences de l’article 258 §1 alinéa b du règlement délégué, la gestion de la qualité des données doit être organisée afin que les fonctions et responsabilités des différentes parties prenantes soient clairement assignées. À ce titre, l’entreprise désigne un responsable (« responsable QDD » dans la suite), le cas échéant assisté d’une équipe dédiée, qui dispose d’une vision transversale sur les données SII. En fonction de la nature, de\n\n1 Évaluation Interne des Risques et de la Solvabilité (ORSA en anglais)",
+          "bBox": {
+            "x": 70,
+            "y": 83.88,
+            "w": 454,
+            "h": 680.04
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 5,
+      "text": "           l’ampleur et de la complexité des risques, ce responsable peut exercer d’autres fonctions au\n              sein de l’entreprise, à condition de se prémunir de tout conflit d’intérêt potentiel². Le\n          responsable QDD exerce ses missions afin :\n        -   d’être le garant du corpus documentaire encadrant la qualité des données y compris le\n            répertoire (cf. infra),\n        -   de piloter le dispositif de maitrise de la qualité des données, animer les comités, organiser\n            le contrôle continu des données, consolider les résultats des contrôles et impulser le\n            processus d’amélioration continue des données,\n        -   d’évaluer le risque porté par les projets internes (dont les projets informatiques) en\n            matière de qualité de données,\n        -   de participer à la contractualisation des accords d’externalisation quand ceux-ci sont\n            susceptibles d’avoir des impacts sur la qualité des données : par exemple, la prise en\n            compte   des  exigences   en   matière  de   qualité  des  données    dans  les     accords\n            d'externalisation en fournissant des clauses standards et l'annexe type évoquée en section\n            3.2.\n      19  En fonction de la taille des entreprises et de la complexité des calculs règlementaires selon\n          le type d’activité, il est par ailleurs conseillé de :\n        -   nommer des personnes « relais » au sein des fonctions opérationnelles impliquées dans\n            les calculs prudentiels (par exemple : gestion des contrats, gestion des sinistres, gestion\n            des actifs, comptabilité, actuariat, informatique…). Ces relais peuvent ainsi contribuer à la\n            mise à jour du répertoire des données, à la formalisation du cheminement et des\n            transformations des données, coordonner la réalisation des contrôles opérationnels en\n            respectant les objectifs de qualité définis (cf. infra) et animer le processus d’amélioration\n            continue de la qualité des données dans leur fonction ;\n        -   de désigner des propriétaires des données au sein des fonctions opérationnelles\n            impliquées dans les calculs prudentiels, responsables de la qualité desdites données et de\n            leur amélioration continue.\n        -   En outre, la qualité des données doit être intégrée au contrôle interne de l’organisme :la\n            fonction de gestion des risques incorpore les risques inhérents à la non qualité des\n            données dans la cartographie des risques de l’entreprise ;\n        -   le système de contrôle interne garantit la conception, le recensement et la réalisation :\n                o   des contrôles opérationnels (dits de 1ᵉʳ       niveau) concourant à la maitrise des\n                    risques identifiés dans la cartographies des risques,\n                o   des contrôles de 2ⁿᵈ niveau relatifs au risque de non qualité des données ;\n        -   la fonction d’audit interne intègre le risque de non qualité des données dans son univers\n            d’audit et évalue le dispositif de contrôle de la qualité des données ;\n        -   la fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le\n            calcul des  provisions  techniques   prudentielles.  Le  cas  échéant,  elle  émet      des\n            recommandations visant à améliorer la qualité des données.\n    2.4. Comitologie\n      20 L’article 258 §1 alinéa k dispose que « l’entreprise instaure des lignes de reporting claires,\n                 garantissant la transmission rapide des informations à toutes les personnes qui en ont\n               besoin, d'une manière leur permettant de reconnaître l'importance de ces informations au\n2 A titre d’exemple, pour des petites entreprises ayant une activité unique, ce responsable peut être un dirigeant effectif ou un\n  des responsables de fonction clé.\n                                                                                                      5",
+      "md": "l’ampleur et de la complexité des risques, ce responsable peut exercer d’autres fonctions au sein de l’entreprise, à condition de se prémunir de tout conflit d’intérêt potentiel². Le responsable QDD exerce ses missions afin :\n\n- d’être le garant du corpus documentaire encadrant la qualité des données y compris le répertoire (cf. infra),\n- de piloter le dispositif de maitrise de la qualité des données, animer les comités, organiser le contrôle continu des données, consolider les résultats des contrôles et impulser le processus d’amélioration continue des données,\n- d’évaluer le risque porté par les projets internes (dont les projets informatiques) en matière de qualité de données,\n- de participer à la contractualisation des accords d’externalisation quand ceux-ci sont susceptibles d’avoir des impacts sur la qualité des données : par exemple, la prise en compte des exigences en matière de qualité des données dans les accords d’externalisation en fournissant des clauses standards et l'annexe type évoquée en section 3.2.\n\nEn fonction de la taille des entreprises et de la complexité des calculs règlementaires selon le type d’activité, il est par ailleurs conseillé de :\n\n- nommer des personnes « relais » au sein des fonctions opérationnelles impliquées dans les calculs prudentiels (par exemple : gestion des contrats, gestion des sinistres, gestion des actifs, comptabilité, actuariat, informatique…). Ces relais peuvent ainsi contribuer à la mise à jour du répertoire des données, à la formalisation du cheminement et des transformations des données, coordonner la réalisation des contrôles opérationnels en respectant les objectifs de qualité définis (cf. infra) et animer le processus d’amélioration continue de la qualité des données dans leur fonction ;\n- de désigner des propriétaires des données au sein des fonctions opérationnelles impliquées dans les calculs prudentiels, responsables de la qualité desdites données et de leur amélioration continue.\n- En outre, la qualité des données doit être intégrée au contrôle interne de l’organisme : la fonction de gestion des risques incorpore les risques inhérents à la non qualité des données dans la cartographie des risques de l’entreprise ;\n- le système de contrôle interne garantit la conception, le recensement et la réalisation :\n- - des contrôles opérationnels (dits de 1ᵉʳ niveau) concourant à la maitrise des risques identifiés dans la cartographies des risques,\n- des contrôles de 2ⁿᵈ niveau relatifs au risque de non qualité des données ;\n\nla fonction d’audit interne intègre le risque de non qualité des données dans son univers d’audit et évalue le dispositif de contrôle de la qualité des données ;\n- la fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles. Le cas échéant, elle émet des recommandations visant à améliorer la qualité des données.\n\n# 2.4. Comitologie\n\nL’article 258 §1 alinéa k dispose que « l’entreprise instaure des lignes de reporting claires, garantissant la transmission rapide des informations à toutes les personnes qui en ont besoin, d'une manière leur permettant de reconnaître l'importance de ces informations au\n\n² A titre d’exemple, pour des petites entreprises ayant une activité unique, ce responsable peut être un dirigeant effectif ou un des responsables de fonction clé.",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "l’ampleur et de la complexité des risques, ce responsable peut exercer d’autres fonctions au sein de l’entreprise, à condition de se prémunir de tout conflit d’intérêt potentiel². Le responsable QDD exerce ses missions afin :\n\n- d’être le garant du corpus documentaire encadrant la qualité des données y compris le répertoire (cf. infra),\n- de piloter le dispositif de maitrise de la qualité des données, animer les comités, organiser le contrôle continu des données, consolider les résultats des contrôles et impulser le processus d’amélioration continue des données,\n- d’évaluer le risque porté par les projets internes (dont les projets informatiques) en matière de qualité de données,\n- de participer à la contractualisation des accords d’externalisation quand ceux-ci sont susceptibles d’avoir des impacts sur la qualité des données : par exemple, la prise en compte des exigences en matière de qualité des données dans les accords d’externalisation en fournissant des clauses standards et l'annexe type évoquée en section 3.2.\n\nEn fonction de la taille des entreprises et de la complexité des calculs règlementaires selon le type d’activité, il est par ailleurs conseillé de :\n\n- nommer des personnes « relais » au sein des fonctions opérationnelles impliquées dans les calculs prudentiels (par exemple : gestion des contrats, gestion des sinistres, gestion des actifs, comptabilité, actuariat, informatique…). Ces relais peuvent ainsi contribuer à la mise à jour du répertoire des données, à la formalisation du cheminement et des transformations des données, coordonner la réalisation des contrôles opérationnels en respectant les objectifs de qualité définis (cf. infra) et animer le processus d’amélioration continue de la qualité des données dans leur fonction ;\n- de désigner des propriétaires des données au sein des fonctions opérationnelles impliquées dans les calculs prudentiels, responsables de la qualité desdites données et de leur amélioration continue.\n- En outre, la qualité des données doit être intégrée au contrôle interne de l’organisme : la fonction de gestion des risques incorpore les risques inhérents à la non qualité des données dans la cartographie des risques de l’entreprise ;\n- le système de contrôle interne garantit la conception, le recensement et la réalisation :\n- - des contrôles opérationnels (dits de 1ᵉʳ niveau) concourant à la maitrise des risques identifiés dans la cartographies des risques,\n- des contrôles de 2ⁿᵈ niveau relatifs au risque de non qualité des données ;\n\nla fonction d’audit interne intègre le risque de non qualité des données dans son univers d’audit et évalue le dispositif de contrôle de la qualité des données ;\n- la fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles. Le cas échéant, elle émet des recommandations visant à améliorer la qualité des données.",
+          "md": "l’ampleur et de la complexité des risques, ce responsable peut exercer d’autres fonctions au sein de l’entreprise, à condition de se prémunir de tout conflit d’intérêt potentiel². Le responsable QDD exerce ses missions afin :\n\n- d’être le garant du corpus documentaire encadrant la qualité des données y compris le répertoire (cf. infra),\n- de piloter le dispositif de maitrise de la qualité des données, animer les comités, organiser le contrôle continu des données, consolider les résultats des contrôles et impulser le processus d’amélioration continue des données,\n- d’évaluer le risque porté par les projets internes (dont les projets informatiques) en matière de qualité de données,\n- de participer à la contractualisation des accords d’externalisation quand ceux-ci sont susceptibles d’avoir des impacts sur la qualité des données : par exemple, la prise en compte des exigences en matière de qualité des données dans les accords d’externalisation en fournissant des clauses standards et l'annexe type évoquée en section 3.2.\n\nEn fonction de la taille des entreprises et de la complexité des calculs règlementaires selon le type d’activité, il est par ailleurs conseillé de :\n\n- nommer des personnes « relais » au sein des fonctions opérationnelles impliquées dans les calculs prudentiels (par exemple : gestion des contrats, gestion des sinistres, gestion des actifs, comptabilité, actuariat, informatique…). Ces relais peuvent ainsi contribuer à la mise à jour du répertoire des données, à la formalisation du cheminement et des transformations des données, coordonner la réalisation des contrôles opérationnels en respectant les objectifs de qualité définis (cf. infra) et animer le processus d’amélioration continue de la qualité des données dans leur fonction ;\n- de désigner des propriétaires des données au sein des fonctions opérationnelles impliquées dans les calculs prudentiels, responsables de la qualité desdites données et de leur amélioration continue.\n- En outre, la qualité des données doit être intégrée au contrôle interne de l’organisme : la fonction de gestion des risques incorpore les risques inhérents à la non qualité des données dans la cartographie des risques de l’entreprise ;\n- le système de contrôle interne garantit la conception, le recensement et la réalisation :\n- - des contrôles opérationnels (dits de 1ᵉʳ niveau) concourant à la maitrise des risques identifiés dans la cartographies des risques,\n- des contrôles de 2ⁿᵈ niveau relatifs au risque de non qualité des données ;\n\nla fonction d’audit interne intègre le risque de non qualité des données dans son univers d’audit et évalue le dispositif de contrôle de la qualité des données ;\n- la fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles. Le cas échéant, elle émet des recommandations visant à améliorer la qualité des données.",
+          "bBox": {
+            "x": 106,
+            "y": 70.88,
+            "w": 418,
+            "h": 578
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "2.4. Comitologie",
+          "md": "# 2.4. Comitologie",
+          "bBox": {
+            "x": 88,
+            "y": 543.88,
+            "w": 80,
+            "h": 131.04
+          }
+        },
+        {
+          "type": "text",
+          "value": "L’article 258 §1 alinéa k dispose que « l’entreprise instaure des lignes de reporting claires, garantissant la transmission rapide des informations à toutes les personnes qui en ont besoin, d'une manière leur permettant de reconnaître l'importance de ces informations au\n\n² A titre d’exemple, pour des petites entreprises ayant une activité unique, ce responsable peut être un dirigeant effectif ou un des responsables de fonction clé.",
+          "md": "L’article 258 §1 alinéa k dispose que « l’entreprise instaure des lignes de reporting claires, garantissant la transmission rapide des informations à toutes les personnes qui en ont besoin, d'une manière leur permettant de reconnaître l'importance de ces informations au\n\n² A titre d’exemple, pour des petites entreprises ayant une activité unique, ce responsable peut être un dirigeant effectif ou un des responsables de fonction clé.",
+          "bBox": {
+            "x": 79,
+            "y": 243.88,
+            "w": 445,
+            "h": 547
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 6,
+      "text": "             regard de leurs responsabilités respectives ». L’entreprise met ainsi en place un système\n            adapté à la nature, l’ampleur et la complexité des risques - de transmission d’information\n      permettant :\n    -         aux instances de gouvernance, notamment la direction effective, de disposer des éléments\n        essentiels relatifs à la qualité des données pour faciliter leur prise de décision ;\n    -              aux autres personnes impliquées dans le dispositif de qualité des données d’être en\n               mesure de remonter ou recevoir les informations pertinentes pour la réalisation de leur\n        mission.\n   Dispositions spécifiques aux entreprises de taille significative ou portant des risques complexes –\n i.e. celles pour lesquelles l’ampleur, la nature ou la complexité des risques limite l’application du\n             principe de proportionnalité - ou aux entreprises recourant à des modèles internes ou des\n  paramètres propres\n  21         Pour les entreprises de taille significative ou portant des risques complexes ou pour les\n      entreprises  recourant  à  des  modèles   internes ou  des  paramètres   propres,  il        est\n                  recommandé de créer un comité de gouvernance et de pilotage des données SII dont les\n      principales missions sont de :\n    -   surveiller, via des tableaux de bord, les indicateurs de qualité déduits des résultats agrégés\n        des contrôles participant à l’évaluation de la qualité des données ;\n    -  arbitrer les projets, définir les priorités et allouer les budgets nécessaires à la maitrise de\n        la qualité des données ;\n    -           décider du traitement des incidents majeurs et de leur plan de remédiation à plus long\n        terme ;\n    -   veiller à ce que les décisions soient déclinées en feuilles de route à destination des équipes\n        opérationnelles participant au dispositif de maitrise de la qualité des données.\n  22          La direction générale ou son représentant mandaté à cet effet préside cette instance qui\n            rassemble les principales personnes concernées par le suivi de la qualité des données. Par\n                  défaut, cette instance regroupe a minima le responsable QDD et les représentants des\n               fonctions opérationnelles (lignes métier impliquées dans les processus prudentiels dans\n       lesquelles sont nommés les « relais »), de la fonction informatique, de la fonction actuarielle\n            et de la fonction gestion des risques. Un compte-rendu incluant un relevé de décisions est\n      systématiquement formalisé.\n  23            La fréquence de réunion de ce comité est cohérente avec la fréquence de validation des\n         calculs prudentiels (provisions techniques, capital de solvabilité) afin de tenir compte dans\n      cette validation de l’évaluation de la qualité et des potentielles limites des données utilisées\n      aux fins des calculs.\n  24               Les conclusions adoptées et décisions prises au sein de ce comité sont portées à la\n      connaissance des dirigeants effectifs.\n  25         L’entreprise peut également mettre en place un comité plus opérationnel afin de mettre en\n           œuvre le dispositif de maitrise de qualité des données et préparer les séances du comité de\n      gouvernance et de pilotage.\n2.5. Les instruments de suivi\n  26    Sur la base de l’article 258 §1 alinéas a, h, j et k et de l’article 266 du règlement délégué,\n          l’entreprise met en place des outils permettant d’apprécier à fréquence régulière la qualité\n                                                                                                     6",
+      "md": "regard de leurs responsabilités respectives ». L’entreprise met ainsi en place un système adapté à la nature, l’ampleur et la complexité des risques - de transmission d’information permettant :\n\n- aux instances de gouvernance, notamment la direction effective, de disposer des éléments essentiels relatifs à la qualité des données pour faciliter leur prise de décision ;\n- aux autres personnes impliquées dans le dispositif de qualité des données d’être en mesure de remonter ou recevoir les informations pertinentes pour la réalisation de leur mission.\n\n# Dispositions spécifiques aux entreprises de taille significative ou portant des risques complexes\n\ni.e. celles pour lesquelles l’ampleur, la nature ou la complexité des risques limite l’application du principe de proportionnalité - ou aux entreprises recourant à des modèles internes ou des paramètres propres.\n\nPour les entreprises de taille significative ou portant des risques complexes ou pour les entreprises recourant à des modèles internes ou des paramètres propres, il est recommandé de créer un comité de gouvernance et de pilotage des données SII dont les principales missions sont de :\n\n- surveiller, via des tableaux de bord, les indicateurs de qualité déduits des résultats agrégés des contrôles participant à l’évaluation de la qualité des données ;\n- arbitrer les projets, définir les priorités et allouer les budgets nécessaires à la maitrise de la qualité des données ;\n- décider du traitement des incidents majeurs et de leur plan de remédiation à plus long terme ;\n- veiller à ce que les décisions soient déclinées en feuilles de route à destination des équipes opérationnelles participant au dispositif de maitrise de la qualité des données.\n\nLa direction générale ou son représentant mandaté à cet effet préside cette instance qui rassemble les principales personnes concernées par le suivi de la qualité des données. Par défaut, cette instance regroupe a minima le responsable QDD et les représentants des fonctions opérationnelles (lignes métier impliquées dans les processus prudentiels dans lesquelles sont nommés les « relais »), de la fonction informatique, de la fonction actuarielle et de la fonction gestion des risques. Un compte-rendu incluant un relevé de décisions est systématiquement formalisé.\n\nLa fréquence de réunion de ce comité est cohérente avec la fréquence de validation des calculs prudentiels (provisions techniques, capital de solvabilité) afin de tenir compte dans cette validation de l’évaluation de la qualité et des potentielles limites des données utilisées aux fins des calculs.\n\nLes conclusions adoptées et décisions prises au sein de ce comité sont portées à la connaissance des dirigeants effectifs.\n\nL’entreprise peut également mettre en place un comité plus opérationnel afin de mettre en œuvre le dispositif de maitrise de qualité des données et préparer les séances du comité de gouvernance et de pilotage.\n\n# Les instruments de suivi\n\nSur la base de l’article 258 §1 alinéas a, h, j et k et de l’article 266 du règlement délégué, l’entreprise met en place des outils permettant d’apprécier à fréquence régulière la qualité.",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "regard de leurs responsabilités respectives ». L’entreprise met ainsi en place un système adapté à la nature, l’ampleur et la complexité des risques - de transmission d’information permettant :\n\n- aux instances de gouvernance, notamment la direction effective, de disposer des éléments essentiels relatifs à la qualité des données pour faciliter leur prise de décision ;\n- aux autres personnes impliquées dans le dispositif de qualité des données d’être en mesure de remonter ou recevoir les informations pertinentes pour la réalisation de leur mission.",
+          "md": "regard de leurs responsabilités respectives ». L’entreprise met ainsi en place un système adapté à la nature, l’ampleur et la complexité des risques - de transmission d’information permettant :\n\n- aux instances de gouvernance, notamment la direction effective, de disposer des éléments essentiels relatifs à la qualité des données pour faciliter leur prise de décision ;\n- aux autres personnes impliquées dans le dispositif de qualité des données d’être en mesure de remonter ou recevoir les informations pertinentes pour la réalisation de leur mission.",
+          "bBox": {
+            "x": 106,
+            "y": 70.88,
+            "w": 418,
+            "h": 348
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Dispositions spécifiques aux entreprises de taille significative ou portant des risques complexes",
+          "md": "# Dispositions spécifiques aux entreprises de taille significative ou portant des risques complexes",
+          "bBox": {
+            "x": 117,
+            "y": 274.88,
+            "w": 386,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "i.e. celles pour lesquelles l’ampleur, la nature ou la complexité des risques limite l’application du principe de proportionnalité - ou aux entreprises recourant à des modèles internes ou des paramètres propres.\n\nPour les entreprises de taille significative ou portant des risques complexes ou pour les entreprises recourant à des modèles internes ou des paramètres propres, il est recommandé de créer un comité de gouvernance et de pilotage des données SII dont les principales missions sont de :\n\n- surveiller, via des tableaux de bord, les indicateurs de qualité déduits des résultats agrégés des contrôles participant à l’évaluation de la qualité des données ;\n- arbitrer les projets, définir les priorités et allouer les budgets nécessaires à la maitrise de la qualité des données ;\n- décider du traitement des incidents majeurs et de leur plan de remédiation à plus long terme ;\n- veiller à ce que les décisions soient déclinées en feuilles de route à destination des équipes opérationnelles participant au dispositif de maitrise de la qualité des données.\n\nLa direction générale ou son représentant mandaté à cet effet préside cette instance qui rassemble les principales personnes concernées par le suivi de la qualité des données. Par défaut, cette instance regroupe a minima le responsable QDD et les représentants des fonctions opérationnelles (lignes métier impliquées dans les processus prudentiels dans lesquelles sont nommés les « relais »), de la fonction informatique, de la fonction actuarielle et de la fonction gestion des risques. Un compte-rendu incluant un relevé de décisions est systématiquement formalisé.\n\nLa fréquence de réunion de ce comité est cohérente avec la fréquence de validation des calculs prudentiels (provisions techniques, capital de solvabilité) afin de tenir compte dans cette validation de l’évaluation de la qualité et des potentielles limites des données utilisées aux fins des calculs.\n\nLes conclusions adoptées et décisions prises au sein de ce comité sont portées à la connaissance des dirigeants effectifs.\n\nL’entreprise peut également mettre en place un comité plus opérationnel afin de mettre en œuvre le dispositif de maitrise de qualité des données et préparer les séances du comité de gouvernance et de pilotage.",
+          "md": "i.e. celles pour lesquelles l’ampleur, la nature ou la complexité des risques limite l’application du principe de proportionnalité - ou aux entreprises recourant à des modèles internes ou des paramètres propres.\n\nPour les entreprises de taille significative ou portant des risques complexes ou pour les entreprises recourant à des modèles internes ou des paramètres propres, il est recommandé de créer un comité de gouvernance et de pilotage des données SII dont les principales missions sont de :\n\n- surveiller, via des tableaux de bord, les indicateurs de qualité déduits des résultats agrégés des contrôles participant à l’évaluation de la qualité des données ;\n- arbitrer les projets, définir les priorités et allouer les budgets nécessaires à la maitrise de la qualité des données ;\n- décider du traitement des incidents majeurs et de leur plan de remédiation à plus long terme ;\n- veiller à ce que les décisions soient déclinées en feuilles de route à destination des équipes opérationnelles participant au dispositif de maitrise de la qualité des données.\n\nLa direction générale ou son représentant mandaté à cet effet préside cette instance qui rassemble les principales personnes concernées par le suivi de la qualité des données. Par défaut, cette instance regroupe a minima le responsable QDD et les représentants des fonctions opérationnelles (lignes métier impliquées dans les processus prudentiels dans lesquelles sont nommés les « relais »), de la fonction informatique, de la fonction actuarielle et de la fonction gestion des risques. Un compte-rendu incluant un relevé de décisions est systématiquement formalisé.\n\nLa fréquence de réunion de ce comité est cohérente avec la fréquence de validation des calculs prudentiels (provisions techniques, capital de solvabilité) afin de tenir compte dans cette validation de l’évaluation de la qualité et des potentielles limites des données utilisées aux fins des calculs.\n\nLes conclusions adoptées et décisions prises au sein de ce comité sont portées à la connaissance des dirigeants effectifs.\n\nL’entreprise peut également mettre en place un comité plus opérationnel afin de mettre en œuvre le dispositif de maitrise de qualité des données et préparer les séances du comité de gouvernance et de pilotage.",
+          "bBox": {
+            "x": 99,
+            "y": 122.88,
+            "w": 426,
+            "h": 580
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "Les instruments de suivi",
+          "md": "# Les instruments de suivi",
+          "bBox": {
+            "x": 239,
+            "y": 274.88,
+            "w": 148,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "Sur la base de l’article 258 §1 alinéas a, h, j et k et de l’article 266 du règlement délégué, l’entreprise met en place des outils permettant d’apprécier à fréquence régulière la qualité.",
+          "md": "Sur la base de l’article 258 §1 alinéas a, h, j et k et de l’article 266 du règlement délégué, l’entreprise met en place des outils permettant d’apprécier à fréquence régulière la qualité.",
+          "bBox": {
+            "x": 99,
+            "y": 274.88,
+            "w": 425,
+            "h": 516
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 7,
+      "text": "       des données. À cette fin, elle conçoit des tableaux de bord synthétisant l’ensemble des\n       résultats des contrôles de qualité des données jalonnant le processus de cheminement et\n       de transformation de la donnée du niveau le plus fin au niveau le plus agrégé.\n   27  La conception de ces contrôles (cf. infra) requiert de réaliser les étapes préalables suivantes :\n    -  définir la tolérance globale au risque de non qualité des données : ce niveau de tolérance\n               correspond, en cas de moindre qualité des données, au niveau maximum d’incertitude\n     accepté par l’entreprise sur les résultats prudentiels (provisions techniques prudentielles,\n        capital de solvabilité requis, …) ;\n    -   décliner  cette tolérance  globale, a  minima   pour  les  données   critiques, en  seuil\n               d’acceptation par contrôle correspondant à l’atteinte des objectifs de qualité des\n   utilisateurs. En lien avec le seuil d’acceptation d’un contrôle, l’entreprise peut définir une\n             grille de seuils en fonction desquels des actions (investigations, corrections) sont\n        enclenchées.\n   28  Afin d’exploiter et de synthétiser les résultats des contrôles dans un tableau de bord,\n       l’entreprise définit et formalise une méthodologie d’agrégation qui doit être validée et\n       partagée.\n   29  Le tableau de bord est présenté et commenté en comité de gouvernance et de pilotage de\n       la qualité des données quand celui-ci est mis en place.\n   30  Les dirigeants effectifs de l’entreprise sont destinataires du tableau de bord dans le cadre\n       du système de transmission d’information. Le tableau de bord peut également faire l’objet\n       d’une transmission aux organes de contrôle de l’entreprise (conseil d’administration ou de\n       surveillance, comité d’audit et des risques,…). De ce fait, la granularité des éléments\n       présents dans le tableau de bord doit être adaptée à la prise de décision par les différentes\n       instances de gouvernance de l’entreprise.\n   31  Par ailleurs, en cas d’utilisation d’un modèle interne, les tableaux de bord évaluant la qualité\n       des données sont pris en compte dans la validation des résultats issus de celui-ci (cf. notice\n       MI §16.6).\n   32  La périodicité des tableaux de bord est adaptée à la périodicité des calculs réglementaires\n       ou, le cas échéant, des comités de gouvernance et de pilotage.\n2.6. Les critères de qualité des données\n   33  Les critères d’exactitude, d’exhaustivité et de pertinence permettent d’apprécier la qualité\n       des données SII.\n   34  S’agissant spécifiquement du critère d’exhaustivité, l’entreprise prend en compte tous les\n       groupes de risques homogènes dans les calculs. Elle apprécie et justifie au cas par cas la\n       profondeur  d’historique  des  données   selon,  notamment,    les activités   d’assurance\n       concernées. À cette fin, elle réalise une étude de sensibilité en fonction de la profondeur de\n       l’historique.\n   35  L’entreprise veille à ce que les informations utilisées dans les calculs de provisions\n       techniques prudentielles et dans les calculs réalisés par un modèle interne soient crédibles.\n       L’entreprise est en mesure d’en apporter la preuve, notamment par les éléments suivants :\n    -   leur cohérence ;\n                                                                                                7",
+      "md": "des données. À cette fin, elle conçoit des tableaux de bord synthétisant l’ensemble des résultats des contrôles de qualité des données jalonnant le processus de cheminement et de transformation de la donnée du niveau le plus fin au niveau le plus agrégé.\n\n# 27\n\nLa conception de ces contrôles (cf. infra) requiert de réaliser les étapes préalables suivantes :\n\n- définir la tolérance globale au risque de non qualité des données : ce niveau de tolérance correspond, en cas de moindre qualité des données, au niveau maximum d’incertitude accepté par l’entreprise sur les résultats prudentiels (provisions techniques prudentielles, capital de solvabilité requis, …) ;\n- décliner cette tolérance globale, a minima pour les données critiques, en seuil d’acceptation par contrôle correspondant à l’atteinte des objectifs de qualité des utilisateurs. En lien avec le seuil d’acceptation d’un contrôle, l’entreprise peut définir une grille de seuils en fonction desquels des actions (investigations, corrections) sont enclenchées.\n\n# 28\n\nAfin d’exploiter et de synthétiser les résultats des contrôles dans un tableau de bord, l’entreprise définit et formalise une méthodologie d’agrégation qui doit être validée et partagée.\n\n# 29\n\nLe tableau de bord est présenté et commenté en comité de gouvernance et de pilotage de la qualité des données quand celui-ci est mis en place.\n\n# 30\n\nLes dirigeants effectifs de l’entreprise sont destinataires du tableau de bord dans le cadre du système de transmission d’information. Le tableau de bord peut également faire l’objet d’une transmission aux organes de contrôle de l’entreprise (conseil d’administration ou de surveillance, comité d’audit et des risques,…). De ce fait, la granularité des éléments présents dans le tableau de bord doit être adaptée à la prise de décision par les différentes instances de gouvernance de l’entreprise.\n\n# 31\n\nPar ailleurs, en cas d’utilisation d’un modèle interne, les tableaux de bord évaluant la qualité des données sont pris en compte dans la validation des résultats issus de celui-ci (cf. notice MI §16.6).\n\n# 32\n\nLa périodicité des tableaux de bord est adaptée à la périodicité des calculs réglementaires ou, le cas échéant, des comités de gouvernance et de pilotage.\n\n# 2.6. Les critères de qualité des données\n\n# 33\n\nLes critères d’exactitude, d’exhaustivité et de pertinence permettent d’apprécier la qualité des données SII.\n\n# 34\n\nS’agissant spécifiquement du critère d’exhaustivité, l’entreprise prend en compte tous les groupes de risques homogènes dans les calculs. Elle apprécie et justifie au cas par cas la profondeur d’historique des données selon, notamment, les activités d’assurance concernées. À cette fin, elle réalise une étude de sensibilité en fonction de la profondeur de l’historique.\n\n# 35\n\nL’entreprise veille à ce que les informations utilisées dans les calculs de provisions techniques prudentielles et dans les calculs réalisés par un modèle interne soient crédibles. L’entreprise est en mesure d’en apporter la preuve, notamment par les éléments suivants :\n\n- leur cohérence ;",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "des données. À cette fin, elle conçoit des tableaux de bord synthétisant l’ensemble des résultats des contrôles de qualité des données jalonnant le processus de cheminement et de transformation de la donnée du niveau le plus fin au niveau le plus agrégé.",
+          "md": "des données. À cette fin, elle conçoit des tableaux de bord synthétisant l’ensemble des résultats des contrôles de qualité des données jalonnant le processus de cheminement et de transformation de la donnée du niveau le plus fin au niveau le plus agrégé.",
+          "bBox": {
+            "x": 117,
+            "y": 70.88,
+            "w": 407,
+            "h": 590
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "27",
+          "md": "# 27",
+          "bBox": {
+            "x": 99,
+            "y": 122.88,
+            "w": 425,
+            "h": 668
+          }
+        },
+        {
+          "type": "text",
+          "value": "La conception de ces contrôles (cf. infra) requiert de réaliser les étapes préalables suivantes :\n\n- définir la tolérance globale au risque de non qualité des données : ce niveau de tolérance correspond, en cas de moindre qualité des données, au niveau maximum d’incertitude accepté par l’entreprise sur les résultats prudentiels (provisions techniques prudentielles, capital de solvabilité requis, …) ;\n- décliner cette tolérance globale, a minima pour les données critiques, en seuil d’acceptation par contrôle correspondant à l’atteinte des objectifs de qualité des utilisateurs. En lien avec le seuil d’acceptation d’un contrôle, l’entreprise peut définir une grille de seuils en fonction desquels des actions (investigations, corrections) sont enclenchées.",
+          "md": "La conception de ces contrôles (cf. infra) requiert de réaliser les étapes préalables suivantes :\n\n- définir la tolérance globale au risque de non qualité des données : ce niveau de tolérance correspond, en cas de moindre qualité des données, au niveau maximum d’incertitude accepté par l’entreprise sur les résultats prudentiels (provisions techniques prudentielles, capital de solvabilité requis, …) ;\n- décliner cette tolérance globale, a minima pour les données critiques, en seuil d’acceptation par contrôle correspondant à l’atteinte des objectifs de qualité des utilisateurs. En lien avec le seuil d’acceptation d’un contrôle, l’entreprise peut définir une grille de seuils en fonction desquels des actions (investigations, corrections) sont enclenchées.",
+          "bBox": {
+            "x": 106,
+            "y": 122.88,
+            "w": 418,
+            "h": 643
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "28",
+          "md": "# 28",
+          "bBox": {
+            "x": 99,
+            "y": 288.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "Afin d’exploiter et de synthétiser les résultats des contrôles dans un tableau de bord, l’entreprise définit et formalise une méthodologie d’agrégation qui doit être validée et partagée.",
+          "md": "Afin d’exploiter et de synthétiser les résultats des contrôles dans un tableau de bord, l’entreprise définit et formalise une méthodologie d’agrégation qui doit être validée et partagée.",
+          "bBox": {
+            "x": 117,
+            "y": 201.88,
+            "w": 407,
+            "h": 459
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "29",
+          "md": "# 29",
+          "bBox": {
+            "x": 99,
+            "y": 340.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "Le tableau de bord est présenté et commenté en comité de gouvernance et de pilotage de la qualité des données quand celui-ci est mis en place.",
+          "md": "Le tableau de bord est présenté et commenté en comité de gouvernance et de pilotage de la qualité des données quand celui-ci est mis en place.",
+          "bBox": {
+            "x": 106,
+            "y": 148.88,
+            "w": 418,
+            "h": 617
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "30",
+          "md": "# 30",
+          "bBox": {
+            "x": 99,
+            "y": 379.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "Les dirigeants effectifs de l’entreprise sont destinataires du tableau de bord dans le cadre du système de transmission d’information. Le tableau de bord peut également faire l’objet d’une transmission aux organes de contrôle de l’entreprise (conseil d’administration ou de surveillance, comité d’audit et des risques,…). De ce fait, la granularité des éléments présents dans le tableau de bord doit être adaptée à la prise de décision par les différentes instances de gouvernance de l’entreprise.",
+          "md": "Les dirigeants effectifs de l’entreprise sont destinataires du tableau de bord dans le cadre du système de transmission d’information. Le tableau de bord peut également faire l’objet d’une transmission aux organes de contrôle de l’entreprise (conseil d’administration ou de surveillance, comité d’audit et des risques,…). De ce fait, la granularité des éléments présents dans le tableau de bord doit être adaptée à la prise de décision par les différentes instances de gouvernance de l’entreprise.",
+          "bBox": {
+            "x": 117,
+            "y": 201.88,
+            "w": 407,
+            "h": 459
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "31",
+          "md": "# 31",
+          "bBox": {
+            "x": 99,
+            "y": 471.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "Par ailleurs, en cas d’utilisation d’un modèle interne, les tableaux de bord évaluant la qualité des données sont pris en compte dans la validation des résultats issus de celui-ci (cf. notice MI §16.6).",
+          "md": "Par ailleurs, en cas d’utilisation d’un modèle interne, les tableaux de bord évaluant la qualité des données sont pris en compte dans la validation des résultats issus de celui-ci (cf. notice MI §16.6).",
+          "bBox": {
+            "x": 106,
+            "y": 148.88,
+            "w": 418,
+            "h": 617
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "32",
+          "md": "# 32",
+          "bBox": {
+            "x": 99,
+            "y": 524.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "La périodicité des tableaux de bord est adaptée à la périodicité des calculs réglementaires ou, le cas échéant, des comités de gouvernance et de pilotage.",
+          "md": "La périodicité des tableaux de bord est adaptée à la périodicité des calculs réglementaires ou, le cas échéant, des comités de gouvernance et de pilotage.",
+          "bBox": {
+            "x": 117,
+            "y": 201.88,
+            "w": 407,
+            "h": 459
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "2.6. Les critères de qualité des données",
+          "md": "# 2.6. Les critères de qualité des données",
+          "bBox": {
+            "x": 88,
+            "y": 201.88,
+            "w": 341,
+            "h": 459
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "33",
+          "md": "# 33",
+          "bBox": {
+            "x": 99,
+            "y": 583.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "Les critères d’exactitude, d’exhaustivité et de pertinence permettent d’apprécier la qualité des données SII.",
+          "md": "Les critères d’exactitude, d’exhaustivité et de pertinence permettent d’apprécier la qualité des données SII.",
+          "bBox": {
+            "x": 117,
+            "y": 201.88,
+            "w": 407,
+            "h": 459
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "34",
+          "md": "# 34",
+          "bBox": {
+            "x": 99,
+            "y": 622.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "S’agissant spécifiquement du critère d’exhaustivité, l’entreprise prend en compte tous les groupes de risques homogènes dans les calculs. Elle apprécie et justifie au cas par cas la profondeur d’historique des données selon, notamment, les activités d’assurance concernées. À cette fin, elle réalise une étude de sensibilité en fonction de la profondeur de l’historique.",
+          "md": "S’agissant spécifiquement du critère d’exhaustivité, l’entreprise prend en compte tous les groupes de risques homogènes dans les calculs. Elle apprécie et justifie au cas par cas la profondeur d’historique des données selon, notamment, les activités d’assurance concernées. À cette fin, elle réalise une étude de sensibilité en fonction de la profondeur de l’historique.",
+          "bBox": {
+            "x": 117,
+            "y": 201.88,
+            "w": 407,
+            "h": 486
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "35",
+          "md": "# 35",
+          "bBox": {
+            "x": 99,
+            "y": 701.88,
+            "w": 11,
+            "h": 11
+          }
+        },
+        {
+          "type": "text",
+          "value": "L’entreprise veille à ce que les informations utilisées dans les calculs de provisions techniques prudentielles et dans les calculs réalisés par un modèle interne soient crédibles. L’entreprise est en mesure d’en apporter la preuve, notamment par les éléments suivants :\n\n- leur cohérence ;",
+          "md": "L’entreprise veille à ce que les informations utilisées dans les calculs de provisions techniques prudentielles et dans les calculs réalisés par un modèle interne soient crédibles. L’entreprise est en mesure d’en apporter la preuve, notamment par les éléments suivants :\n\n- leur cohérence ;",
+          "bBox": {
+            "x": 106,
+            "y": 148.88,
+            "w": 418,
+            "h": 617
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 8,
+      "text": " -   leur objectivité (capacité à refléter fidèlement et sans parti pris la réalité) ;\n -   la fiabilité de la source ;\n -      la transparence (en lien avec la piste d’audit) avec laquelle elles ont été générées et\n     éventuellement (re)traitées.\n36 Par ailleurs, en matière de provisions techniques, l’article 20 du règlement délégué précise\n         les mesures à mettre en œuvre lorsque les données utilisées ne satisfont pas l’une des\n    dispositions de l’article 19 du règlement délégué. L’entreprise documente et explicite dans\n    ce cas :\n -   les raisons pour lesquelles les données ne satisfont pas aux critères de qualité (limites) ;\n -              la méthode de remédiation ou de contournement (ajustements par exemple) mise en\n     œuvre ;\n -   les fonctions responsables de ce processus.\n Le responsable QDD est impliqué dans ce processus.\n37 Afin de garantir la piste d’audit, les données en défaut sont enregistrées et stockées avant\n           de faire l’objet d’ajustements. Lorsque des ajustements sont pratiqués (notamment en\n     exploitant d’autres données dont la qualité est éprouvée - par exemple : recours au numéro\n   de sécurité sociale pour identifier le genre), ils sont explicités dans une documentation ad\n    hoc.\n38 Aux termes de l’article 21 du règlement délégué, l’entreprise n’utilise pas d’approximations\n   pour calculer les provisions techniques prudentielles lorsque l’une des assertions suivantes\n    est réalisée :\n -   il est possible d’ajuster les données (cf. supra),\n -     les insuffisances constatées sur les données sont dues à l’inadéquation des processus et\n     procédures internes de collecte, de stockage ou de validation de ces données,\n -   il est possible d’utiliser des données externes pour remédier à ces insuffisances. Dans ce\n         cas, l’entreprise d’assurance ou de réassurance doit veiller à respecter les principes\n     énoncés à l’article 27 du règlement délégué.\n39  Lorsque les données utilisées ne sont pas exactes, exhaustives ou appropriées, l’entreprise\n    d’assurance ou de réassurance démontre              que ces insuffisances ou ajustements ne\n    conduisent pas à une sous-estimation de ses engagements ou de sa solvabilité.\n      3. Enjeux en matière de qualité des données externes\n40       L’entreprise peut utiliser des données provenant d'une source externe (délégataires de\n    gestion  de  contrats  et  de  sinistre, gestionnaires d’actifs, réassureurs,  prestataires\n   informatiques, fournisseurs de données …) à condition de satisfaire aux exigences de qualité\n      énoncées précédemment. L’entreprise reste responsable de la qualité des données utilisées\n         et s’assure que les données provenant de sources externes répondent aux mêmes critères\n de qualité que les données internes. Les dispositifs s’appliquant à ces dernières s’appliquent\n    mutatis mutandis aux données externes.\n     3.1. Identification des prestataires et partenaires en matière de qualité des données\n41  L’entreprise identifie les données provenant d’une source externe et évalue leur importance\n  relative dans son activité (proportion de contrats et/ou de sinistres gérés par rapport à son\n      portefeuille total, quote-part de réassurance, modélisation de garanties…). Cette analyse\n                                                                                              8",
+      "md": "- leur objectivité (capacité à refléter fidèlement et sans parti pris la réalité) ;\n\n- la fiabilité de la source ;\n\n- la transparence (en lien avec la piste d’audit) avec laquelle elles ont été générées et éventuellement (re)traitées.\n\n36 Par ailleurs, en matière de provisions techniques, l’article 20 du règlement délégué précise les mesures à mettre en œuvre lorsque les données utilisées ne satisfont pas l’une des dispositions de l’article 19 du règlement délégué. L’entreprise documente et explicite dans ce cas :\n\n- les raisons pour lesquelles les données ne satisfont pas aux critères de qualité (limites) ;\n- la méthode de remédiation ou de contournement (ajustements par exemple) mise en œuvre ;\n- les fonctions responsables de ce processus.\n\nLe responsable QDD est impliqué dans ce processus.\n\n37 Afin de garantir la piste d’audit, les données en défaut sont enregistrées et stockées avant de faire l’objet d’ajustements. Lorsque des ajustements sont pratiqués (notamment en exploitant d’autres données dont la qualité est éprouvée - par exemple : recours au numéro de sécurité sociale pour identifier le genre), ils sont explicités dans une documentation ad hoc.\n\n38 Aux termes de l’article 21 du règlement délégué, l’entreprise n’utilise pas d’approximations pour calculer les provisions techniques prudentielles lorsque l’une des assertions suivantes est réalisée :\n\n- il est possible d’ajuster les données (cf. supra),\n- les insuffisances constatées sur les données sont dues à l’inadéquation des processus et procédures internes de collecte, de stockage ou de validation de ces données,\n- il est possible d’utiliser des données externes pour remédier à ces insuffisances. Dans ce cas, l’entreprise d’assurance ou de réassurance doit veiller à respecter les principes énoncés à l’article 27 du règlement délégué.\n\n39 Lorsque les données utilisées ne sont pas exactes, exhaustives ou appropriées, l’entreprise d’assurance ou de réassurance démontre que ces insuffisances ou ajustements ne conduisent pas à une sous-estimation de ses engagements ou de sa solvabilité.\n\n# 3. Enjeux en matière de qualité des données externes\n\n40 L’entreprise peut utiliser des données provenant d'une source externe (délégataires de gestion de contrats et de sinistre, gestionnaires d’actifs, réassureurs, prestataires informatiques, fournisseurs de données …) à condition de satisfaire aux exigences de qualité énoncées précédemment. L’entreprise reste responsable de la qualité des données utilisées et s’assure que les données provenant de sources externes répondent aux mêmes critères de qualité que les données internes. Les dispositifs s’appliquant à ces dernières s’appliquent mutatis mutandis aux données externes.\n\n# 3.1. Identification des prestataires et partenaires en matière de qualité des données\n\n41 L’entreprise identifie les données provenant d’une source externe et évalue leur importance relative dans son activité (proportion de contrats et/ou de sinistres gérés par rapport à son portefeuille total, quote-part de réassurance, modélisation de garanties…). Cette analyse",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "- leur objectivité (capacité à refléter fidèlement et sans parti pris la réalité) ;\n\n- la fiabilité de la source ;\n\n- la transparence (en lien avec la piste d’audit) avec laquelle elles ont été générées et éventuellement (re)traitées.\n\n36 Par ailleurs, en matière de provisions techniques, l’article 20 du règlement délégué précise les mesures à mettre en œuvre lorsque les données utilisées ne satisfont pas l’une des dispositions de l’article 19 du règlement délégué. L’entreprise documente et explicite dans ce cas :\n\n- les raisons pour lesquelles les données ne satisfont pas aux critères de qualité (limites) ;\n- la méthode de remédiation ou de contournement (ajustements par exemple) mise en œuvre ;\n- les fonctions responsables de ce processus.\n\nLe responsable QDD est impliqué dans ce processus.\n\n37 Afin de garantir la piste d’audit, les données en défaut sont enregistrées et stockées avant de faire l’objet d’ajustements. Lorsque des ajustements sont pratiqués (notamment en exploitant d’autres données dont la qualité est éprouvée - par exemple : recours au numéro de sécurité sociale pour identifier le genre), ils sont explicités dans une documentation ad hoc.\n\n38 Aux termes de l’article 21 du règlement délégué, l’entreprise n’utilise pas d’approximations pour calculer les provisions techniques prudentielles lorsque l’une des assertions suivantes est réalisée :\n\n- il est possible d’ajuster les données (cf. supra),\n- les insuffisances constatées sur les données sont dues à l’inadéquation des processus et procédures internes de collecte, de stockage ou de validation de ces données,\n- il est possible d’utiliser des données externes pour remédier à ces insuffisances. Dans ce cas, l’entreprise d’assurance ou de réassurance doit veiller à respecter les principes énoncés à l’article 27 du règlement délégué.\n\n39 Lorsque les données utilisées ne sont pas exactes, exhaustives ou appropriées, l’entreprise d’assurance ou de réassurance démontre que ces insuffisances ou ajustements ne conduisent pas à une sous-estimation de ses engagements ou de sa solvabilité.",
+          "md": "- leur objectivité (capacité à refléter fidèlement et sans parti pris la réalité) ;\n\n- la fiabilité de la source ;\n\n- la transparence (en lien avec la piste d’audit) avec laquelle elles ont été générées et éventuellement (re)traitées.\n\n36 Par ailleurs, en matière de provisions techniques, l’article 20 du règlement délégué précise les mesures à mettre en œuvre lorsque les données utilisées ne satisfont pas l’une des dispositions de l’article 19 du règlement délégué. L’entreprise documente et explicite dans ce cas :\n\n- les raisons pour lesquelles les données ne satisfont pas aux critères de qualité (limites) ;\n- la méthode de remédiation ou de contournement (ajustements par exemple) mise en œuvre ;\n- les fonctions responsables de ce processus.\n\nLe responsable QDD est impliqué dans ce processus.\n\n37 Afin de garantir la piste d’audit, les données en défaut sont enregistrées et stockées avant de faire l’objet d’ajustements. Lorsque des ajustements sont pratiqués (notamment en exploitant d’autres données dont la qualité est éprouvée - par exemple : recours au numéro de sécurité sociale pour identifier le genre), ils sont explicités dans une documentation ad hoc.\n\n38 Aux termes de l’article 21 du règlement délégué, l’entreprise n’utilise pas d’approximations pour calculer les provisions techniques prudentielles lorsque l’une des assertions suivantes est réalisée :\n\n- il est possible d’ajuster les données (cf. supra),\n- les insuffisances constatées sur les données sont dues à l’inadéquation des processus et procédures internes de collecte, de stockage ou de validation de ces données,\n- il est possible d’utiliser des données externes pour remédier à ces insuffisances. Dans ce cas, l’entreprise d’assurance ou de réassurance doit veiller à respecter les principes énoncés à l’article 27 du règlement délégué.\n\n39 Lorsque les données utilisées ne sont pas exactes, exhaustives ou appropriées, l’entreprise d’assurance ou de réassurance démontre que ces insuffisances ou ajustements ne conduisent pas à une sous-estimation de ses engagements ou de sa solvabilité.",
+          "bBox": {
+            "x": 99,
+            "y": 70.88,
+            "w": 425,
+            "h": 720
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "3. Enjeux en matière de qualité des données externes",
+          "md": "# 3. Enjeux en matière de qualité des données externes",
+          "bBox": {
+            "x": 70,
+            "y": 577.96,
+            "w": 346,
+            "h": 50.92
+          }
+        },
+        {
+          "type": "text",
+          "value": "40 L’entreprise peut utiliser des données provenant d'une source externe (délégataires de gestion de contrats et de sinistre, gestionnaires d’actifs, réassureurs, prestataires informatiques, fournisseurs de données …) à condition de satisfaire aux exigences de qualité énoncées précédemment. L’entreprise reste responsable de la qualité des données utilisées et s’assure que les données provenant de sources externes répondent aux mêmes critères de qualité que les données internes. Les dispositifs s’appliquant à ces dernières s’appliquent mutatis mutandis aux données externes.",
+          "md": "40 L’entreprise peut utiliser des données provenant d'une source externe (délégataires de gestion de contrats et de sinistre, gestionnaires d’actifs, réassureurs, prestataires informatiques, fournisseurs de données …) à condition de satisfaire aux exigences de qualité énoncées précédemment. L’entreprise reste responsable de la qualité des données utilisées et s’assure que les données provenant de sources externes répondent aux mêmes critères de qualité que les données internes. Les dispositifs s’appliquant à ces dernières s’appliquent mutatis mutandis aux données externes.",
+          "bBox": {
+            "x": 99,
+            "y": 603.88,
+            "w": 425,
+            "h": 92
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "3.1. Identification des prestataires et partenaires en matière de qualité des données",
+          "md": "# 3.1. Identification des prestataires et partenaires en matière de qualité des données",
+          "bBox": {
+            "x": 88,
+            "y": 617.88,
+            "w": 436,
+            "h": 104.04
+          }
+        },
+        {
+          "type": "text",
+          "value": "41 L’entreprise identifie les données provenant d’une source externe et évalue leur importance relative dans son activité (proportion de contrats et/ou de sinistres gérés par rapport à son portefeuille total, quote-part de réassurance, modélisation de garanties…). Cette analyse",
+          "md": "41 L’entreprise identifie les données provenant d’une source externe et évalue leur importance relative dans son activité (proportion de contrats et/ou de sinistres gérés par rapport à son portefeuille total, quote-part de réassurance, modélisation de garanties…). Cette analyse",
+          "bBox": {
+            "x": 99,
+            "y": 70.88,
+            "w": 425,
+            "h": 698
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 9,
+      "text": "           participe aux travaux d’identification des prestataires critiques eu égard à la qualité des\n           données.\n    3.2. Contractualisation et gestion des risques liés aux données externes\n       42  Certaines informations telles que les données de marchés financiers, les données relatives\n           aux catastrophes naturelles, aux générateurs de scenarios économiques ou encore les tables\n           de mortalité … proviennent de fournisseurs spécialisés dont c’est l’activité principale. Il\n           appartient à l’entreprise qui y a recours d’étudier, lors de la sélection de ces fournisseurs,\n           les garanties de  qualité dont  ceux-ci  se prévalent.  Pour  autant, l’entreprise    reste\n           responsable de l’importation des données en question dans ses systèmes d’information et\n           doit être en capacité de justifier que cette opération n’a pas altéré leur intégrité. Elle est\n           également responsable de leur contrôle avant usage et garante de la traçabilité des\n           traitements qui leur sont appliqués ainsi que de l’utilisation adéquate qui en est faite dans\n           les chaines de calculs prudentiels.\n       43  En dehors du cas particulier traité au paragraphe précédent, lors de la contractualisation de\n           la relation avec le prestataire au titre des activités sous-traitées qui positionnent ce dernier\n           par effet secondaire en fournisseur de données à l’entreprise, l’accord écrit explicite les\n           exigences relatives à la qualité des données transmises, notamment :\n        -       la méthode, les métriques et la fréquence d’évaluation de la prestation sur la base du\n             niveau de service négocié entre les parties (performances et résultats) tenant compte des\n         critères de qualité des données y compris leur disponibilité (article 274 §4 (a) du règlement\n            délégué) ;\n        -  la sûreté et la confidentialité des données (articles 274 §3 (f) et 274 §4 (g) du règlement\n            délégué).\n       44  L’accord est  complété  d’une  annexe   encadrant  les  modalités  de  transmission  des\n           données précisant :\n        -   les données attendues (granularité, définition des données, format…),\n        -   les modalités d’envoi dont les aspects de sécurité,\n        -   les contrôles opérés par le fournisseur pour attester du niveau de qualité,\n        -   la disponibilité.\n4. Répertoire des données\n       45  Le répertoire des données indique leur source, leurs caractéristiques et l'usage qui en est\n           fait. Le responsable QDD est garant de son élaboration et de sa conformité. Son alimentation\n           découle d’un travail transversal animé par le responsable QDD (impliquant notamment les\n           directions de l’actuariat, de la gestion des contrats et des sinistres, des risques et\n           informatique).\n       46  Le processus d’alimentation du répertoire est formalisé. L’entreprise définit notamment les\n           modalités de mise à jour afin de prendre en compte les évolutions des systèmes\n           d’information et/ou des processus de réalisation des calculs prudentiels (notamment\n           modification du modèle interne partiel ou total). Le responsable QDD est garant du\n           processus de maintenance du répertoire.\n       47  Le répertoire de données permet de centraliser les données intervenant directement ou\n           indirectement dans les calculs de provisions techniques, de paramètres propres et\n                                                                                                     9",
+      "md": "# 3.2. Contractualisation et gestion des risques liés aux données externes\n\n42 Certaines informations telles que les données de marchés financiers, les données relatives aux catastrophes naturelles, aux générateurs de scenarios économiques ou encore les tables de mortalité … proviennent de fournisseurs spécialisés dont c’est l’activité principale. Il appartient à l’entreprise qui y a recours d’étudier, lors de la sélection de ces fournisseurs, les garanties de qualité dont ceux-ci se prévalent. Pour autant, l’entreprise reste responsable de l’importation des données en question dans ses systèmes d’information et doit être en capacité de justifier que cette opération n’a pas altéré leur intégrité. Elle est également responsable de leur contrôle avant usage et garante de la traçabilité des traitements qui leur sont appliqués ainsi que de l’utilisation adéquate qui en est faite dans les chaines de calculs prudentiels.\n\n43 En dehors du cas particulier traité au paragraphe précédent, lors de la contractualisation de la relation avec le prestataire au titre des activités sous-traitées qui positionnent ce dernier par effet secondaire en fournisseur de données à l’entreprise, l’accord écrit explicite les exigences relatives à la qualité des données transmises, notamment :\n\n- la méthode, les métriques et la fréquence d’évaluation de la prestation sur la base du niveau de service négocié entre les parties (performances et résultats) tenant compte des critères de qualité des données y compris leur disponibilité (article 274 §4 (a) du règlement délégué);\n- la sûreté et la confidentialité des données (articles 274 §3 (f) et 274 §4 (g) du règlement délégué).\n\n44 L’accord est complété d’une annexe encadrant les modalités de transmission des données précisant :\n\n- les données attendues (granularité, définition des données, format…),\n- les modalités d’envoi dont les aspects de sécurité,\n- les contrôles opérés par le fournisseur pour attester du niveau de qualité,\n- la disponibilité.\n\n# 4. Répertoire des données\n\n45 Le répertoire des données indique leur source, leurs caractéristiques et l'usage qui en est fait. Le responsable QDD est garant de son élaboration et de sa conformité. Son alimentation découle d’un travail transversal animé par le responsable QDD (impliquant notamment les directions de l’actuariat, de la gestion des contrats et des sinistres, des risques et informatique).\n\n46 Le processus d’alimentation du répertoire est formalisé. L’entreprise définit notamment les modalités de mise à jour afin de prendre en compte les évolutions des systèmes d’information et/ou des processus de réalisation des calculs prudentiels (notamment modification du modèle interne partiel ou total). Le responsable QDD est garant du processus de maintenance du répertoire.\n\n47 Le répertoire de données permet de centraliser les données intervenant directement ou indirectement dans les calculs de provisions techniques, de paramètres propres et",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "3.2. Contractualisation et gestion des risques liés aux données externes",
+          "md": "# 3.2. Contractualisation et gestion des risques liés aux données externes",
+          "bBox": {
+            "x": 88,
+            "y": 109.92,
+            "w": 437,
+            "h": 342.96
+          }
+        },
+        {
+          "type": "text",
+          "value": "42 Certaines informations telles que les données de marchés financiers, les données relatives aux catastrophes naturelles, aux générateurs de scenarios économiques ou encore les tables de mortalité … proviennent de fournisseurs spécialisés dont c’est l’activité principale. Il appartient à l’entreprise qui y a recours d’étudier, lors de la sélection de ces fournisseurs, les garanties de qualité dont ceux-ci se prévalent. Pour autant, l’entreprise reste responsable de l’importation des données en question dans ses systèmes d’information et doit être en capacité de justifier que cette opération n’a pas altéré leur intégrité. Elle est également responsable de leur contrôle avant usage et garante de la traçabilité des traitements qui leur sont appliqués ainsi que de l’utilisation adéquate qui en est faite dans les chaines de calculs prudentiels.\n\n43 En dehors du cas particulier traité au paragraphe précédent, lors de la contractualisation de la relation avec le prestataire au titre des activités sous-traitées qui positionnent ce dernier par effet secondaire en fournisseur de données à l’entreprise, l’accord écrit explicite les exigences relatives à la qualité des données transmises, notamment :\n\n- la méthode, les métriques et la fréquence d’évaluation de la prestation sur la base du niveau de service négocié entre les parties (performances et résultats) tenant compte des critères de qualité des données y compris leur disponibilité (article 274 §4 (a) du règlement délégué);\n- la sûreté et la confidentialité des données (articles 274 §3 (f) et 274 §4 (g) du règlement délégué).\n\n44 L’accord est complété d’une annexe encadrant les modalités de transmission des données précisant :\n\n- les données attendues (granularité, définition des données, format…),\n- les modalités d’envoi dont les aspects de sécurité,\n- les contrôles opérés par le fournisseur pour attester du niveau de qualité,\n- la disponibilité.",
+          "md": "42 Certaines informations telles que les données de marchés financiers, les données relatives aux catastrophes naturelles, aux générateurs de scenarios économiques ou encore les tables de mortalité … proviennent de fournisseurs spécialisés dont c’est l’activité principale. Il appartient à l’entreprise qui y a recours d’étudier, lors de la sélection de ces fournisseurs, les garanties de qualité dont ceux-ci se prévalent. Pour autant, l’entreprise reste responsable de l’importation des données en question dans ses systèmes d’information et doit être en capacité de justifier que cette opération n’a pas altéré leur intégrité. Elle est également responsable de leur contrôle avant usage et garante de la traçabilité des traitements qui leur sont appliqués ainsi que de l’utilisation adéquate qui en est faite dans les chaines de calculs prudentiels.\n\n43 En dehors du cas particulier traité au paragraphe précédent, lors de la contractualisation de la relation avec le prestataire au titre des activités sous-traitées qui positionnent ce dernier par effet secondaire en fournisseur de données à l’entreprise, l’accord écrit explicite les exigences relatives à la qualité des données transmises, notamment :\n\n- la méthode, les métriques et la fréquence d’évaluation de la prestation sur la base du niveau de service négocié entre les parties (performances et résultats) tenant compte des critères de qualité des données y compris leur disponibilité (article 274 §4 (a) du règlement délégué);\n- la sûreté et la confidentialité des données (articles 274 §3 (f) et 274 §4 (g) du règlement délégué).\n\n44 L’accord est complété d’une annexe encadrant les modalités de transmission des données précisant :\n\n- les données attendues (granularité, définition des données, format…),\n- les modalités d’envoi dont les aspects de sécurité,\n- les contrôles opérés par le fournisseur pour attester du niveau de qualité,\n- la disponibilité.",
+          "bBox": {
+            "x": 99,
+            "y": 129.88,
+            "w": 426,
+            "h": 402
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "4. Répertoire des données",
+          "md": "# 4. Répertoire des données",
+          "bBox": {
+            "x": 70,
+            "y": 183.88,
+            "w": 455,
+            "h": 379.08
+          }
+        },
+        {
+          "type": "text",
+          "value": "45 Le répertoire des données indique leur source, leurs caractéristiques et l'usage qui en est fait. Le responsable QDD est garant de son élaboration et de sa conformité. Son alimentation découle d’un travail transversal animé par le responsable QDD (impliquant notamment les directions de l’actuariat, de la gestion des contrats et des sinistres, des risques et informatique).\n\n46 Le processus d’alimentation du répertoire est formalisé. L’entreprise définit notamment les modalités de mise à jour afin de prendre en compte les évolutions des systèmes d’information et/ou des processus de réalisation des calculs prudentiels (notamment modification du modèle interne partiel ou total). Le responsable QDD est garant du processus de maintenance du répertoire.\n\n47 Le répertoire de données permet de centraliser les données intervenant directement ou indirectement dans les calculs de provisions techniques, de paramètres propres et",
+          "md": "45 Le répertoire des données indique leur source, leurs caractéristiques et l'usage qui en est fait. Le responsable QDD est garant de son élaboration et de sa conformité. Son alimentation découle d’un travail transversal animé par le responsable QDD (impliquant notamment les directions de l’actuariat, de la gestion des contrats et des sinistres, des risques et informatique).\n\n46 Le processus d’alimentation du répertoire est formalisé. L’entreprise définit notamment les modalités de mise à jour afin de prendre en compte les évolutions des systèmes d’information et/ou des processus de réalisation des calculs prudentiels (notamment modification du modèle interne partiel ou total). Le responsable QDD est garant du processus de maintenance du répertoire.\n\n47 Le répertoire de données permet de centraliser les données intervenant directement ou indirectement dans les calculs de provisions techniques, de paramètres propres et",
+          "bBox": {
+            "x": 99,
+            "y": 183.88,
+            "w": 426,
+            "h": 571
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 10,
+      "text": "           également aux fins de l'ensemble des calculs réalisés en modèle interne sans en limiter le\n           périmètre aux données qui seraient référencées comme critiques :\n        -        il couvre notamment les données des systèmes sources internes (depuis la comptabilité\n                 ou l’environnement de gestion (contrats, sinistres, actifs) par exemple), ainsi qu’en\n               provenance des fournisseurs externes (délégataires de gestion, réassureurs, partenaires\n            commerciaux, courtiers, fournisseurs de données spécifiques³…),\n        -     il couvre également les données intermédiaires produites dans la chaine de calcul et les\n            données inscrites dans les états prudentiels.\n          Par ailleurs, couvrir les autres éléments demandés dans les états prudentiels attendus de la\n        réglementation Solvabilité 2 relève d’une bonne pratique.\n      48   Le répertoire comprend au moins les attributs suivants caractérisant les données :\n        -   leur description,\n        -   leur localisation,\n        -   leur source,\n        -   l’usage qui en est fait (processus métier dans lesquels les données sont impliquées :\n            provisionnement, capital de solvabilité et autre élément du bilan prudentiel),\n        -   leur « criticité » (cf. infra),\n        -   leur propriétaire (rôles et responsabilités à définir vis-à-vis de la donnée),\n        -   leurs modalités (par exemple : numérique, alphanumérique, plage de valeur),\n        -   la fréquence de mise à jour.\n       49  Aux termes de l’article 19 §3 alinéa e point iii), l’information sur la fréquence de mise à jour\n           de la donnée est une caractéristique à incorporer dans le répertoire.\n       50  La notion de criticité permet à l’entreprise de porter une attention renforcée sur les données\n           ayant le plus d’impact sur les calculs prudentiels et, si nécessaire, de mettre en place des\n           contrôles supplémentaires pour s’assurer de la qualité de ces données jugées critiques. Elle\n           traduit le niveau de sensibilité des résultats des calculs prudentiels à une variation de la\n           donnée. Une donnée est définie comme critique lorsque l’impact sur les résultats est jugé\n           significatif par l’entreprise (niveau de significativité qui doit être cohérent avec la tolérance\n           globale au risque de non qualité des données – cf. supra).\n      51   Lorsque la criticité est déterminée par des tests de sensibilité, l’entreprise est en capacité\n           de fournir la méthodologie appliquée et validée (notamment l’explicitation du seuil au-delà\n           duquel l’évolution du résultat final est jugée significative) et les résultats des calculs. Si la\n           criticité est déterminée « à dires d’expert », l’organisme formalise cet avis. La criticité est\n           réévaluée au gré des changements liés à l’activité d’assurance, aux méthodologies de calculs\n           prudentiels…\n       52  Le répertoire permet de faire le lien avec la cartographie des flux de données et les contrôles\n           de qualité des données.\n       53  L’outil choisi pour héberger le répertoire des données en garantit la maintenance et\n           l’accessibilité.\n3 Modélisation du risque catastrophe, taux de change, données des scenarios économiques…\n                                                                                                    10",
+      "md": "également aux fins de l'ensemble des calculs réalisés en modèle interne sans en limiter le périmètre aux données qui seraient référencées comme critiques :\n\n- il couvre notamment les données des systèmes sources internes (depuis la comptabilité ou l’environnement de gestion (contrats, sinistres, actifs) par exemple), ainsi qu’en provenance des fournisseurs externes (délégataires de gestion, réassureurs, partenaires commerciaux, courtiers, fournisseurs de données spécifiques³…),\n- il couvre également les données intermédiaires produites dans la chaine de calcul et les données inscrites dans les états prudentiels.\n\nPar ailleurs, couvrir les autres éléments demandés dans les états prudentiels attendus de la réglementation Solvabilité 2 relève d’une bonne pratique.\n\n48 Le répertoire comprend au moins les attributs suivants caractérisant les données :\n\n- leur description,\n- leur localisation,\n- leur source,\n- l’usage qui en est fait (processus métier dans lesquels les données sont impliquées : provisionnement, capital de solvabilité et autre élément du bilan prudentiel),\n- leur « criticité » (cf. infra),\n- leur propriétaire (rôles et responsabilités à définir vis-à-vis de la donnée),\n- leurs modalités (par exemple : numérique, alphanumérique, plage de valeur),\n- la fréquence de mise à jour.\n\n49 Aux termes de l’article 19 §3 alinéa e point iii), l’information sur la fréquence de mise à jour de la donnée est une caractéristique à incorporer dans le répertoire.\n\n50 La notion de criticité permet à l’entreprise de porter une attention renforcée sur les données ayant le plus d’impact sur les calculs prudentiels et, si nécessaire, de mettre en place des contrôles supplémentaires pour s’assurer de la qualité de ces données jugées critiques. Elle traduit le niveau de sensibilité des résultats des calculs prudentiels à une variation de la donnée. Une donnée est définie comme critique lorsque l’impact sur les résultats est jugé significatif par l’entreprise (niveau de significativité qui doit être cohérent avec la tolérance globale au risque de non qualité des données – cf. supra).\n\n51 Lorsque la criticité est déterminée par des tests de sensibilité, l’entreprise est en capacité de fournir la méthodologie appliquée et validée (notamment l’explicitation du seuil au-delà duquel l’évolution du résultat final est jugée significative) et les résultats des calculs. Si la criticité est déterminée « à dires d’expert », l’organisme formalise cet avis. La criticité est réévaluée au gré des changements liés à l’activité d’assurance, aux méthodologies de calculs prudentiels…\n\n52 Le répertoire permet de faire le lien avec la cartographie des flux de données et les contrôles de qualité des données.\n\n53 L’outil choisi pour héberger le répertoire des données en garantit la maintenance et l’accessibilité.\n\n3 Modélisation du risque catastrophe, taux de change, données des scenarios économiques…",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "également aux fins de l'ensemble des calculs réalisés en modèle interne sans en limiter le périmètre aux données qui seraient référencées comme critiques :\n\n- il couvre notamment les données des systèmes sources internes (depuis la comptabilité ou l’environnement de gestion (contrats, sinistres, actifs) par exemple), ainsi qu’en provenance des fournisseurs externes (délégataires de gestion, réassureurs, partenaires commerciaux, courtiers, fournisseurs de données spécifiques³…),\n- il couvre également les données intermédiaires produites dans la chaine de calcul et les données inscrites dans les états prudentiels.\n\nPar ailleurs, couvrir les autres éléments demandés dans les états prudentiels attendus de la réglementation Solvabilité 2 relève d’une bonne pratique.\n\n48 Le répertoire comprend au moins les attributs suivants caractérisant les données :\n\n- leur description,\n- leur localisation,\n- leur source,\n- l’usage qui en est fait (processus métier dans lesquels les données sont impliquées : provisionnement, capital de solvabilité et autre élément du bilan prudentiel),\n- leur « criticité » (cf. infra),\n- leur propriétaire (rôles et responsabilités à définir vis-à-vis de la donnée),\n- leurs modalités (par exemple : numérique, alphanumérique, plage de valeur),\n- la fréquence de mise à jour.\n\n49 Aux termes de l’article 19 §3 alinéa e point iii), l’information sur la fréquence de mise à jour de la donnée est une caractéristique à incorporer dans le répertoire.\n\n50 La notion de criticité permet à l’entreprise de porter une attention renforcée sur les données ayant le plus d’impact sur les calculs prudentiels et, si nécessaire, de mettre en place des contrôles supplémentaires pour s’assurer de la qualité de ces données jugées critiques. Elle traduit le niveau de sensibilité des résultats des calculs prudentiels à une variation de la donnée. Une donnée est définie comme critique lorsque l’impact sur les résultats est jugé significatif par l’entreprise (niveau de significativité qui doit être cohérent avec la tolérance globale au risque de non qualité des données – cf. supra).\n\n51 Lorsque la criticité est déterminée par des tests de sensibilité, l’entreprise est en capacité de fournir la méthodologie appliquée et validée (notamment l’explicitation du seuil au-delà duquel l’évolution du résultat final est jugée significative) et les résultats des calculs. Si la criticité est déterminée « à dires d’expert », l’organisme formalise cet avis. La criticité est réévaluée au gré des changements liés à l’activité d’assurance, aux méthodologies de calculs prudentiels…\n\n52 Le répertoire permet de faire le lien avec la cartographie des flux de données et les contrôles de qualité des données.\n\n53 L’outil choisi pour héberger le répertoire des données en garantit la maintenance et l’accessibilité.\n\n3 Modélisation du risque catastrophe, taux de change, données des scenarios économiques…",
+          "md": "également aux fins de l'ensemble des calculs réalisés en modèle interne sans en limiter le périmètre aux données qui seraient référencées comme critiques :\n\n- il couvre notamment les données des systèmes sources internes (depuis la comptabilité ou l’environnement de gestion (contrats, sinistres, actifs) par exemple), ainsi qu’en provenance des fournisseurs externes (délégataires de gestion, réassureurs, partenaires commerciaux, courtiers, fournisseurs de données spécifiques³…),\n- il couvre également les données intermédiaires produites dans la chaine de calcul et les données inscrites dans les états prudentiels.\n\nPar ailleurs, couvrir les autres éléments demandés dans les états prudentiels attendus de la réglementation Solvabilité 2 relève d’une bonne pratique.\n\n48 Le répertoire comprend au moins les attributs suivants caractérisant les données :\n\n- leur description,\n- leur localisation,\n- leur source,\n- l’usage qui en est fait (processus métier dans lesquels les données sont impliquées : provisionnement, capital de solvabilité et autre élément du bilan prudentiel),\n- leur « criticité » (cf. infra),\n- leur propriétaire (rôles et responsabilités à définir vis-à-vis de la donnée),\n- leurs modalités (par exemple : numérique, alphanumérique, plage de valeur),\n- la fréquence de mise à jour.\n\n49 Aux termes de l’article 19 §3 alinéa e point iii), l’information sur la fréquence de mise à jour de la donnée est une caractéristique à incorporer dans le répertoire.\n\n50 La notion de criticité permet à l’entreprise de porter une attention renforcée sur les données ayant le plus d’impact sur les calculs prudentiels et, si nécessaire, de mettre en place des contrôles supplémentaires pour s’assurer de la qualité de ces données jugées critiques. Elle traduit le niveau de sensibilité des résultats des calculs prudentiels à une variation de la donnée. Une donnée est définie comme critique lorsque l’impact sur les résultats est jugé significatif par l’entreprise (niveau de significativité qui doit être cohérent avec la tolérance globale au risque de non qualité des données – cf. supra).\n\n51 Lorsque la criticité est déterminée par des tests de sensibilité, l’entreprise est en capacité de fournir la méthodologie appliquée et validée (notamment l’explicitation du seuil au-delà duquel l’évolution du résultat final est jugée significative) et les résultats des calculs. Si la criticité est déterminée « à dires d’expert », l’organisme formalise cet avis. La criticité est réévaluée au gré des changements liés à l’activité d’assurance, aux méthodologies de calculs prudentiels…\n\n52 Le répertoire permet de faire le lien avec la cartographie des flux de données et les contrôles de qualité des données.\n\n53 L’outil choisi pour héberger le répertoire des données en garantit la maintenance et l’accessibilité.\n\n3 Modélisation du risque catastrophe, taux de change, données des scenarios économiques…",
+          "bBox": {
+            "x": 70,
+            "y": 70.88,
+            "w": 454,
+            "h": 693.04
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 11,
+      "text": "5. Traçabilité\n       54  L’entreprise constitue une documentation comprenant notamment les spécifications\n           relatives à la collecte, au traitement et à l'application des données.\n    5.1. Cartographies\n       55  Afin de visualiser l’environnement informatique, de maîtriser la chaîne de transformation\n           des données et d’identifier les zones de risques de leur cheminement, l’entreprise établit\n           une documentation. Celle-ci peut prendre la forme de deux cartographies qui se complètent\n           :\n        -  la cartographie des systèmes d’information, documentée et à jour. Elle fournit une vision\n            globale des éléments, applications et outils, qui constituent son système d’information ;\n        -         la cartographie des flux de données qui représente les cheminements des données ou\n            agrégats de données qui parcourent son système d’information.\n       56  La cartographie des flux permet de visualiser le cheminement des données au sein de\n           l’entreprise, depuis les systèmes sources jusqu’aux états prudentiels. Cette cartographie\n           précise les applicatifs impliqués en positionnant les principales étapes de transformation et\n           les références des contrôles manuels et automatiques réalisés (cf. infra). Selon l’étendue\n           des activités et la complexité des systèmes d’information, plusieurs cartographies peuvent\n           être formalisées.\n       57  La cartographie des flux couvre tout autant les données internes que les données externes\n           et quelles que soient les modalités d’intégration (manuelles ou automatiques) dans le\n           système d’information de l’entreprise qui leur sont appliquées.\n       58  La cartographie des flux de données permet de faire le lien avec le répertoire des données\n           et les contrôles de qualité des données.\n       59  L’outil choisi pour héberger la cartographie des flux de données en garantit la maintenance\n           et l’accessibilité. L’entreprise veille à la mise à jour régulière de la cartographie des flux de\n           données selon les évolutions de ses activités et de son système d’information.\n       60  En complément, la mise en place du lignage par donnée (cartographie « micro ») est\n           notamment une bonne pratique qui répond aux exigences de traçabilité des données\n           critiques. Le lignage d’une donnée schématise les différentes étapes et transformations\n           effectuées entre les systèmes sources à l’origine de la donnée et son utilisation finale. Le\n           lignage peut être documenté dans le répertoire ou dans un outil ad hoc. Il répond aux\n           mêmes critères que la cartographie des flux (exhaustivité, lien avec les autres documents,\n           sûreté informatique, mise à jour).\n    5.2. Collecte & traitements\n       61  Les processus de collecte, de transport et de traitement des données sont documentés. Ces\n           documents et procédures recensent, pour un périmètre donné, tous les fichiers et entrepôts\n           successifs impliqués dans le transport et/ou les traitements manuels et automatiques des\n           données y compris les corrections. Cette documentation permet de comprendre la nature\n           des transformations et d’en appréhender la fréquence. Les transformations des données\n           permettent par exemple de corriger, d’homogénéiser, de regrouper les données utilisées à\n           la même fin, y compris celles provenant de différentes sources.\n                                                                                                  11",
+      "md": "# 5. Traçabilité\n\nL’entreprise constitue une documentation comprenant notamment les spécifications relatives à la collecte, au traitement et à l'application des données.\n\n# 5.1. Cartographies\n\nAfin de visualiser l’environnement informatique, de maîtriser la chaîne de transformation des données et d’identifier les zones de risques de leur cheminement, l’entreprise établit une documentation. Celle-ci peut prendre la forme de deux cartographies qui se complètent :\n\n- la cartographie des systèmes d’information, documentée et à jour. Elle fournit une vision globale des éléments, applications et outils, qui constituent son système d’information ;\n- la cartographie des flux de données qui représente les cheminements des données ou agrégats de données qui parcourent son système d’information.\n\nLa cartographie des flux permet de visualiser le cheminement des données au sein de l’entreprise, depuis les systèmes sources jusqu’aux états prudentiels. Cette cartographie précise les applicatifs impliqués en positionnant les principales étapes de transformation et les références des contrôles manuels et automatiques réalisés (cf. infra). Selon l’étendue des activités et la complexité des systèmes d’information, plusieurs cartographies peuvent être formalisées.\n\nLa cartographie des flux couvre tout autant les données internes que les données externes et quelles que soient les modalités d’intégration (manuelles ou automatiques) dans le système d’information de l’entreprise qui leur sont appliquées.\n\nLa cartographie des flux de données permet de faire le lien avec le répertoire des données et les contrôles de qualité des données.\n\nL’outil choisi pour héberger la cartographie des flux de données en garantit la maintenance et l’accessibilité. L’entreprise veille à la mise à jour régulière de la cartographie des flux de données selon les évolutions de ses activités et de son système d’information.\n\nEn complément, la mise en place du lignage par donnée (cartographie « micro ») est notamment une bonne pratique qui répond aux exigences de traçabilité des données critiques. Le lignage d’une donnée schématise les différentes étapes et transformations effectuées entre les systèmes sources à l’origine de la donnée et son utilisation finale. Le lignage peut être documenté dans le répertoire ou dans un outil ad hoc. Il répond aux mêmes critères que la cartographie des flux (exhaustivité, lien avec les autres documents, sûreté informatique, mise à jour).\n\n# 5.2. Collecte & traitements\n\nLes processus de collecte, de transport et de traitement des données sont documentés. Ces documents et procédures recensent, pour un périmètre donné, tous les fichiers et entrepôts successifs impliqués dans le transport et/ou les traitements manuels et automatiques des données y compris les corrections. Cette documentation permet de comprendre la nature des transformations et d’en appréhender la fréquence. Les transformations des données permettent par exemple de corriger, d’homogénéiser, de regrouper les données utilisées à la même fin, y compris celles provenant de différentes sources.",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "5. Traçabilité",
+          "md": "# 5. Traçabilité",
+          "bBox": {
+            "x": 70,
+            "y": 70.96,
+            "w": 85,
+            "h": 16
+          }
+        },
+        {
+          "type": "text",
+          "value": "L’entreprise constitue une documentation comprenant notamment les spécifications relatives à la collecte, au traitement et à l'application des données.",
+          "md": "L’entreprise constitue une documentation comprenant notamment les spécifications relatives à la collecte, au traitement et à l'application des données.",
+          "bBox": {
+            "x": 117,
+            "y": 95.88,
+            "w": 407,
+            "h": 25
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "5.1. Cartographies",
+          "md": "# 5.1. Cartographies",
+          "bBox": {
+            "x": 88,
+            "y": 134.92,
+            "w": 89,
+            "h": 12
+          }
+        },
+        {
+          "type": "text",
+          "value": "Afin de visualiser l’environnement informatique, de maîtriser la chaîne de transformation des données et d’identifier les zones de risques de leur cheminement, l’entreprise établit une documentation. Celle-ci peut prendre la forme de deux cartographies qui se complètent :\n\n- la cartographie des systèmes d’information, documentée et à jour. Elle fournit une vision globale des éléments, applications et outils, qui constituent son système d’information ;\n- la cartographie des flux de données qui représente les cheminements des données ou agrégats de données qui parcourent son système d’information.\n\nLa cartographie des flux permet de visualiser le cheminement des données au sein de l’entreprise, depuis les systèmes sources jusqu’aux états prudentiels. Cette cartographie précise les applicatifs impliqués en positionnant les principales étapes de transformation et les références des contrôles manuels et automatiques réalisés (cf. infra). Selon l’étendue des activités et la complexité des systèmes d’information, plusieurs cartographies peuvent être formalisées.\n\nLa cartographie des flux couvre tout autant les données internes que les données externes et quelles que soient les modalités d’intégration (manuelles ou automatiques) dans le système d’information de l’entreprise qui leur sont appliquées.\n\nLa cartographie des flux de données permet de faire le lien avec le répertoire des données et les contrôles de qualité des données.\n\nL’outil choisi pour héberger la cartographie des flux de données en garantit la maintenance et l’accessibilité. L’entreprise veille à la mise à jour régulière de la cartographie des flux de données selon les évolutions de ses activités et de son système d’information.\n\nEn complément, la mise en place du lignage par donnée (cartographie « micro ») est notamment une bonne pratique qui répond aux exigences de traçabilité des données critiques. Le lignage d’une donnée schématise les différentes étapes et transformations effectuées entre les systèmes sources à l’origine de la donnée et son utilisation finale. Le lignage peut être documenté dans le répertoire ou dans un outil ad hoc. Il répond aux mêmes critères que la cartographie des flux (exhaustivité, lien avec les autres documents, sûreté informatique, mise à jour).",
+          "md": "Afin de visualiser l’environnement informatique, de maîtriser la chaîne de transformation des données et d’identifier les zones de risques de leur cheminement, l’entreprise établit une documentation. Celle-ci peut prendre la forme de deux cartographies qui se complètent :\n\n- la cartographie des systèmes d’information, documentée et à jour. Elle fournit une vision globale des éléments, applications et outils, qui constituent son système d’information ;\n- la cartographie des flux de données qui représente les cheminements des données ou agrégats de données qui parcourent son système d’information.\n\nLa cartographie des flux permet de visualiser le cheminement des données au sein de l’entreprise, depuis les systèmes sources jusqu’aux états prudentiels. Cette cartographie précise les applicatifs impliqués en positionnant les principales étapes de transformation et les références des contrôles manuels et automatiques réalisés (cf. infra). Selon l’étendue des activités et la complexité des systèmes d’information, plusieurs cartographies peuvent être formalisées.\n\nLa cartographie des flux couvre tout autant les données internes que les données externes et quelles que soient les modalités d’intégration (manuelles ou automatiques) dans le système d’information de l’entreprise qui leur sont appliquées.\n\nLa cartographie des flux de données permet de faire le lien avec le répertoire des données et les contrôles de qualité des données.\n\nL’outil choisi pour héberger la cartographie des flux de données en garantit la maintenance et l’accessibilité. L’entreprise veille à la mise à jour régulière de la cartographie des flux de données selon les évolutions de ses activités et de son système d’information.\n\nEn complément, la mise en place du lignage par donnée (cartographie « micro ») est notamment une bonne pratique qui répond aux exigences de traçabilité des données critiques. Le lignage d’une donnée schématise les différentes étapes et transformations effectuées entre les systèmes sources à l’origine de la donnée et son utilisation finale. Le lignage peut être documenté dans le répertoire ou dans un outil ad hoc. Il répond aux mêmes critères que la cartographie des flux (exhaustivité, lien avec les autres documents, sûreté informatique, mise à jour).",
+          "bBox": {
+            "x": 106,
+            "y": 155.88,
+            "w": 418,
+            "h": 466
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "5.2. Collecte & traitements",
+          "md": "# 5.2. Collecte & traitements",
+          "bBox": {
+            "x": 88,
+            "y": 636.92,
+            "w": 131,
+            "h": 12
+          }
+        },
+        {
+          "type": "text",
+          "value": "Les processus de collecte, de transport et de traitement des données sont documentés. Ces documents et procédures recensent, pour un périmètre donné, tous les fichiers et entrepôts successifs impliqués dans le transport et/ou les traitements manuels et automatiques des données y compris les corrections. Cette documentation permet de comprendre la nature des transformations et d’en appréhender la fréquence. Les transformations des données permettent par exemple de corriger, d’homogénéiser, de regrouper les données utilisées à la même fin, y compris celles provenant de différentes sources.",
+          "md": "Les processus de collecte, de transport et de traitement des données sont documentés. Ces documents et procédures recensent, pour un périmètre donné, tous les fichiers et entrepôts successifs impliqués dans le transport et/ou les traitements manuels et automatiques des données y compris les corrections. Cette documentation permet de comprendre la nature des transformations et d’en appréhender la fréquence. Les transformations des données permettent par exemple de corriger, d’homogénéiser, de regrouper les données utilisées à la même fin, y compris celles provenant de différentes sources.",
+          "bBox": {
+            "x": 117,
+            "y": 656.88,
+            "w": 407,
+            "h": 92
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 12,
+      "text": "      62  L’entreprise :\n        -            référence l’ensemble des bases de données, entrepôts et fichiers utilisés (par exemple\n            bordereaux de primes, bordereaux trimestriels de réassurance,…) et leurs propriétaires ;\n        -        explicite l’ensemble des transformations opérées sur les données de ces fichiers (usage de\n                             taux de change, programmes, tables de correspondance (entre branche, catégorie\n                     ministérielle, segmentation propre à l’organisme et ligne d’activité Solvabilité 2…)),\n            indique  l’objectif de  ces  transformations  et  précise  les  responsables  de            ces\n            transformations.\n      63            L’entreprise veille à la mise à jour régulière de ces documents et procédures selon les\n          évolutions de ses activités et de son système d’information.\n6. Contrôle interne\n      64            La qualité des données et le système d’information entrent pleinement dans le périmètre\n                 du contrôle interne. Des contrôles sont notamment mis en place dès la collecte des données\n          (y compris lorsqu’elles proviennent   de             sources externes à l’entreprise) et lors des\n          transformations.\n    6.1. Gestion et cartographie des risques\n      65 Le système de contrôle interne de l’entreprise vise à garantir la disponibilité et la fiabilité de\n                l’information financière et non financière (article 266 du règlement délégué). Le risque de\n              non qualité des données est un risque transverse, à la croisée des processus de souscription,\n                     de provisionnement, de production des comptes sociaux et prudentiels alimentés par des\n          systèmes internes et externes, comportant des risques opérationnels.\n      66              Plus spécifiquement, l’article 260 du règlement délégué dispose que les politiques de\n                 souscription et de provisionnement incluent le sujet de la suffisance et de la qualité des\n                 données à prendre en considération dans ces deux domaines. Ainsi, le risque de non qualité\n                          des données est associé aux processus de souscription et de provisionnement et la\n          cartographie  des  risques  établie par  l’entreprise le reflète. Lorsque  le           processus\n              d’établissement du capital de solvabilité requis (resp. des paramètres propres) est référencé\n                      comme un processus à part entière, le risque de non qualité des données inhérent à ce\n          processus est également inclus dans la cartographie des risques.\n    6.2. Dispositif de contrôle permanent\n      67       Le référentiel de contrôles (contrôles opérationnels dits contrôles de 1ᵉʳ niveau) recense à\n          la fois :\n        -         les contrôles effectués dans le cadre des processus établissant les provisions techniques\n                prudentielles, paramètres spécifiques et capital de solvabilité qui participent directement\n            ou indirectement à mesurer le risque de non qualité des données utilisées ;\n        -             les contrôles spécifiquement conçus pour réduire les risques identifiés en matière de\n            qualité des données tout au long du cheminement des données.\n      68     Ces contrôles sont documentés et décrits (risque sous-jacent, périodicité, critères de qualité\n                vérifiés, donnée(s) vérifiée(s), seuil(s) retenu(s), réalisation manuelle/automatique, mode\n                      opératoire, responsable). Leur résultat est formalisé et enregistré d’une campagne de\n          contrôles à l’autre, s’inscrivant ainsi dans une démarche d’amélioration continue.\n                                                                                                         12",
+      "md": "# 6. Contrôle interne\n\nL’entreprise :\n\n- référence l’ensemble des bases de données, entrepôts et fichiers utilisés (par exemple bordereaux de primes, bordereaux trimestriels de réassurance,…) et leurs propriétaires ;\n- explicite l’ensemble des transformations opérées sur les données de ces fichiers (usage de taux de change, programmes, tables de correspondance (entre branche, catégorie ministérielle, segmentation propre à l’organisme et ligne d’activité Solvabilité 2…)), indique l’objectif de ces transformations et précise les responsables de ces transformations.\n\nL’entreprise veille à la mise à jour régulière de ces documents et procédures selon les évolutions de ses activités et de son système d’information.\n\n# 6.1. Gestion et cartographie des risques\n\nLe système de contrôle interne de l’entreprise vise à garantir la disponibilité et la fiabilité de l’information financière et non financière (article 266 du règlement délégué). Le risque de non qualité des données est un risque transverse, à la croisée des processus de souscription, de provisionnement, de production des comptes sociaux et prudentiels alimentés par des systèmes internes et externes, comportant des risques opérationnels.\n\nPlus spécifiquement, l’article 260 du règlement délégué dispose que les politiques de souscription et de provisionnement incluent le sujet de la suffisance et de la qualité des données à prendre en considération dans ces deux domaines. Ainsi, le risque de non qualité des données est associé aux processus de souscription et de provisionnement et la cartographie des risques établie par l’entreprise le reflète. Lorsque le processus d’établissement du capital de solvabilité requis (resp. des paramètres propres) est référencé comme un processus à part entière, le risque de non qualité des données inhérent à ce processus est également inclus dans la cartographie des risques.\n\n# 6.2. Dispositif de contrôle permanent\n\nLe référentiel de contrôles (contrôles opérationnels dits contrôles de 1ᵉʳ niveau) recense à la fois :\n\n- les contrôles effectués dans le cadre des processus établissant les provisions techniques prudentielles, paramètres spécifiques et capital de solvabilité qui participent directement ou indirectement à mesurer le risque de non qualité des données utilisées ;\n- les contrôles spécifiquement conçus pour réduire les risques identifiés en matière de qualité des données tout au long du cheminement des données.\n\nCes contrôles sont documentés et décrits (risque sous-jacent, périodicité, critères de qualité vérifiés, donnée(s) vérifiée(s), seuil(s) retenu(s), réalisation manuelle/automatique, mode opératoire, responsable). Leur résultat est formalisé et enregistré d’une campagne de contrôles à l’autre, s’inscrivant ainsi dans une démarche d’amélioration continue.",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "6. Contrôle interne",
+          "md": "# 6. Contrôle interne",
+          "bBox": {
+            "x": 70,
+            "y": 247.96,
+            "w": 402,
+            "h": 255.92
+          }
+        },
+        {
+          "type": "text",
+          "value": "L’entreprise :\n\n- référence l’ensemble des bases de données, entrepôts et fichiers utilisés (par exemple bordereaux de primes, bordereaux trimestriels de réassurance,…) et leurs propriétaires ;\n- explicite l’ensemble des transformations opérées sur les données de ces fichiers (usage de taux de change, programmes, tables de correspondance (entre branche, catégorie ministérielle, segmentation propre à l’organisme et ligne d’activité Solvabilité 2…)), indique l’objectif de ces transformations et précise les responsables de ces transformations.\n\nL’entreprise veille à la mise à jour régulière de ces documents et procédures selon les évolutions de ses activités et de son système d’information.",
+          "md": "L’entreprise :\n\n- référence l’ensemble des bases de données, entrepôts et fichiers utilisés (par exemple bordereaux de primes, bordereaux trimestriels de réassurance,…) et leurs propriétaires ;\n- explicite l’ensemble des transformations opérées sur les données de ces fichiers (usage de taux de change, programmes, tables de correspondance (entre branche, catégorie ministérielle, segmentation propre à l’organisme et ligne d’activité Solvabilité 2…)), indique l’objectif de ces transformations et précise les responsables de ces transformations.\n\nL’entreprise veille à la mise à jour régulière de ces documents et procédures selon les évolutions de ses activités et de son système d’information.",
+          "bBox": {
+            "x": 106,
+            "y": 70.88,
+            "w": 418,
+            "h": 599
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "6.1. Gestion et cartographie des risques",
+          "md": "# 6.1. Gestion et cartographie des risques",
+          "bBox": {
+            "x": 88,
+            "y": 162.88,
+            "w": 412,
+            "h": 341
+          }
+        },
+        {
+          "type": "text",
+          "value": "Le système de contrôle interne de l’entreprise vise à garantir la disponibilité et la fiabilité de l’information financière et non financière (article 266 du règlement délégué). Le risque de non qualité des données est un risque transverse, à la croisée des processus de souscription, de provisionnement, de production des comptes sociaux et prudentiels alimentés par des systèmes internes et externes, comportant des risques opérationnels.\n\nPlus spécifiquement, l’article 260 du règlement délégué dispose que les politiques de souscription et de provisionnement incluent le sujet de la suffisance et de la qualité des données à prendre en considération dans ces deux domaines. Ainsi, le risque de non qualité des données est associé aux processus de souscription et de provisionnement et la cartographie des risques établie par l’entreprise le reflète. Lorsque le processus d’établissement du capital de solvabilité requis (resp. des paramètres propres) est référencé comme un processus à part entière, le risque de non qualité des données inhérent à ce processus est également inclus dans la cartographie des risques.",
+          "md": "Le système de contrôle interne de l’entreprise vise à garantir la disponibilité et la fiabilité de l’information financière et non financière (article 266 du règlement délégué). Le risque de non qualité des données est un risque transverse, à la croisée des processus de souscription, de provisionnement, de production des comptes sociaux et prudentiels alimentés par des systèmes internes et externes, comportant des risques opérationnels.\n\nPlus spécifiquement, l’article 260 du règlement délégué dispose que les politiques de souscription et de provisionnement incluent le sujet de la suffisance et de la qualité des données à prendre en considération dans ces deux domaines. Ainsi, le risque de non qualité des données est associé aux processus de souscription et de provisionnement et la cartographie des risques établie par l’entreprise le reflète. Lorsque le processus d’établissement du capital de solvabilité requis (resp. des paramètres propres) est référencé comme un processus à part entière, le risque de non qualité des données inhérent à ce processus est également inclus dans la cartographie des risques.",
+          "bBox": {
+            "x": 99,
+            "y": 162.88,
+            "w": 425,
+            "h": 382
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "6.2. Dispositif de contrôle permanent",
+          "md": "# 6.2. Dispositif de contrôle permanent",
+          "bBox": {
+            "x": 88,
+            "y": 162.88,
+            "w": 412,
+            "h": 408.04
+          }
+        },
+        {
+          "type": "text",
+          "value": "Le référentiel de contrôles (contrôles opérationnels dits contrôles de 1ᵉʳ niveau) recense à la fois :\n\n- les contrôles effectués dans le cadre des processus établissant les provisions techniques prudentielles, paramètres spécifiques et capital de solvabilité qui participent directement ou indirectement à mesurer le risque de non qualité des données utilisées ;\n- les contrôles spécifiquement conçus pour réduire les risques identifiés en matière de qualité des données tout au long du cheminement des données.\n\nCes contrôles sont documentés et décrits (risque sous-jacent, périodicité, critères de qualité vérifiés, donnée(s) vérifiée(s), seuil(s) retenu(s), réalisation manuelle/automatique, mode opératoire, responsable). Leur résultat est formalisé et enregistré d’une campagne de contrôles à l’autre, s’inscrivant ainsi dans une démarche d’amélioration continue.",
+          "md": "Le référentiel de contrôles (contrôles opérationnels dits contrôles de 1ᵉʳ niveau) recense à la fois :\n\n- les contrôles effectués dans le cadre des processus établissant les provisions techniques prudentielles, paramètres spécifiques et capital de solvabilité qui participent directement ou indirectement à mesurer le risque de non qualité des données utilisées ;\n- les contrôles spécifiquement conçus pour réduire les risques identifiés en matière de qualité des données tout au long du cheminement des données.\n\nCes contrôles sont documentés et décrits (risque sous-jacent, périodicité, critères de qualité vérifiés, donnée(s) vérifiée(s), seuil(s) retenu(s), réalisation manuelle/automatique, mode opératoire, responsable). Leur résultat est formalisé et enregistré d’une campagne de contrôles à l’autre, s’inscrivant ainsi dans une démarche d’amélioration continue.",
+          "bBox": {
+            "x": 106,
+            "y": 95.88,
+            "w": 418,
+            "h": 660
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 13,
+      "text": "      69   L’entreprise garantit la cohérence entre le référentiel des contrôles, la cartographie des flux\n           et le répertoire des données. L’entreprise veille à la mise à jour régulière du référentiel des\n          contrôles.\n      70  L’entreprise met en place un processus de revue régulière (dite de 2ème          niveau) afin de\n          vérifier que les contrôles opérationnels sont adéquats et efficaces.\n    6.3. Fonction actuarielle\n      71 La fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le calcul\n               des provisions techniques prudentielles. Pour ce faire, elle utilise notamment les tableaux\n                de bord évaluant la qualité des données. Elle veille à ce que les limites identifiées dans\n                     certaines données soient prises en compte dans l’estimation des provisions techniques\n               prudentielles. Le cas échéant, le niveau des provisions techniques est ajusté pour en tenir\n          compte. Cet ajustement est justifié et documenté.\n    6.4. Audit interne\n      72   La fonction d’audit interne visée à l’article L354-1 du code des assurances inclut le risque de\n                       non qualité des données dans son univers d’audit et conçoit en conséquence son plan\n             d’audit pluriannuel afin d’évaluer l’adéquation et l’efficacité du dispositif mis en place au\n            sein de l’entreprise en matière de maitrise de la qualité des données entrant dans les calculs\n          prudentiels.\n7. Précisions dans le cas de groupes prudentiels\n      73    Les entités têtes de groupe visées aux L.356-2 al. 2 à 5 du code des assurances, L.212-1 al. 2\n           du code de la mutualité et L.913-9 al.2 du code de la sécurité sociale respectent les exigences\n               quantitatives, les exigences relatives au système de gouvernance, au système de gestion des\n                  risques et au système de contrôle interne des groupes dont la maitrise de la qualité des\n               données SII. À ce titre, les éléments de gouvernance (respectivement de gestion des risques\n         et de contrôle interne) relatifs à la qualité des données SII de la tête de groupe et des entités\n          « solos » du groupe sont cohérents entre eux, notamment :\n       -       le document cadre organisant le dispositif de maitrise de la qualité des données SII adopté\n                 par la tête de groupe est adopté, et le cas échéant adapté, par chaque entreprise soumise\n            à la réglementation Solvabilité 2 composant le groupe,\n       -         les rôles et responsabilités des parties prenantes à la gestion de la qualité des données\n                         (dont les fonctions clefs) sont endossés au niveau de chaque entreprise soumise à\n            la réglementation Solvabilité 2 composant le groupe,\n       -           la cartographie des risques du groupe comporte tous les risques émanant des entreprises\n                du groupe dont celui de non qualité des données SII. La tolérance au risque de non qualité\n                     des données de la tête de groupe est cohérente avec celles des entreprises soumises à\n            la réglementation Solvabilité 2,\n       -      les définitions des critères, les indicateurs et standards relatifs à la qualité des données\n                       sont partagés et adoptés par les entreprises du groupe soumises à la réglementation\n            Solvabilité 2,\n       -               en conséquence, les contrôles mis en place pour mesurer la qualité des données sont\n                  cohérents d’une entreprise du groupe à l’autre. Les instruments de suivi sont communs de\n                     façon à garantir la compatibilité et en permettre la synthèse au niveau de la tête de\n                        groupe, aidant notamment la fonction clé actuariat du groupe à se prononcer sur la\n                   suffisance et la qualité des données utilisées dans le calcul des provisions techniques\n            prudentielles agrégées au niveau du groupe.\n                                                                                                        13",
+      "md": "L’entreprise garantit la cohérence entre le référentiel des contrôles, la cartographie des flux et le répertoire des données. L’entreprise veille à la mise à jour régulière du référentiel des contrôles.\n\nL’entreprise met en place un processus de revue régulière (dite de 2ème niveau) afin de vérifier que les contrôles opérationnels sont adéquats et efficaces.\n\n# 6.3. Fonction actuarielle\n\nLa fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles. Pour ce faire, elle utilise notamment les tableaux de bord évaluant la qualité des données. Elle veille à ce que les limites identifiées dans certaines données soient prises en compte dans l’estimation des provisions techniques prudentielles. Le cas échéant, le niveau des provisions techniques est ajusté pour en tenir compte. Cet ajustement est justifié et documenté.\n\n# 6.4. Audit interne\n\nLa fonction d’audit interne visée à l’article L354-1 du code des assurances inclut le risque de non qualité des données dans son univers d’audit et conçoit en conséquence son plan d’audit pluriannuel afin d’évaluer l’adéquation et l’efficacité du dispositif mis en place au sein de l’entreprise en matière de maitrise de la qualité des données entrant dans les calculs prudentiels.\n\n# 7. Précisions dans le cas de groupes prudentiels\n\nLes entités têtes de groupe visées aux L.356-2 al. 2 à 5 du code des assurances, L.212-1 al. 2 du code de la mutualité et L.913-9 al.2 du code de la sécurité sociale respectent les exigences quantitatives, les exigences relatives au système de gouvernance, au système de gestion des risques et au système de contrôle interne des groupes dont la maitrise de la qualité des données SII. À ce titre, les éléments de gouvernance (respectivement de gestion des risques et de contrôle interne) relatifs à la qualité des données SII de la tête de groupe et des entités « solos » du groupe sont cohérents entre eux, notamment :\n\n- le document cadre organisant le dispositif de maitrise de la qualité des données SII adopté par la tête de groupe est adopté, et le cas échéant adapté, par chaque entreprise soumise à la réglementation Solvabilité 2 composant le groupe,\n- les rôles et responsabilités des parties prenantes à la gestion de la qualité des données (dont les fonctions clefs) sont endossés au niveau de chaque entreprise soumise à la réglementation Solvabilité 2 composant le groupe,\n- la cartographie des risques du groupe comporte tous les risques émanant des entreprises du groupe dont celui de non qualité des données SII. La tolérance au risque de non qualité des données de la tête de groupe est cohérente avec celles des entreprises soumises à la réglementation Solvabilité 2,\n- les définitions des critères, les indicateurs et standards relatifs à la qualité des données sont partagés et adoptés par les entreprises du groupe soumises à la réglementation Solvabilité 2,\n- en conséquence, les contrôles mis en place pour mesurer la qualité des données sont cohérents d’une entreprise du groupe à l’autre. Les instruments de suivi sont communs de façon à garantir la compatibilité et en permettre la synthèse au niveau de la tête de groupe, aidant notamment la fonction clé actuariat du groupe à se prononcer sur la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles agrégées au niveau du groupe.",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "L’entreprise garantit la cohérence entre le référentiel des contrôles, la cartographie des flux et le répertoire des données. L’entreprise veille à la mise à jour régulière du référentiel des contrôles.\n\nL’entreprise met en place un processus de revue régulière (dite de 2ème niveau) afin de vérifier que les contrôles opérationnels sont adéquats et efficaces.",
+          "md": "L’entreprise garantit la cohérence entre le référentiel des contrôles, la cartographie des flux et le répertoire des données. L’entreprise veille à la mise à jour régulière du référentiel des contrôles.\n\nL’entreprise met en place un processus de revue régulière (dite de 2ème niveau) afin de vérifier que les contrôles opérationnels sont adéquats et efficaces.",
+          "bBox": {
+            "x": 117,
+            "y": 70.88,
+            "w": 407,
+            "h": 77
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "6.3. Fonction actuarielle",
+          "md": "# 6.3. Fonction actuarielle",
+          "bBox": {
+            "x": 88,
+            "y": 161.92,
+            "w": 117,
+            "h": 12
+          }
+        },
+        {
+          "type": "text",
+          "value": "La fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles. Pour ce faire, elle utilise notamment les tableaux de bord évaluant la qualité des données. Elle veille à ce que les limites identifiées dans certaines données soient prises en compte dans l’estimation des provisions techniques prudentielles. Le cas échéant, le niveau des provisions techniques est ajusté pour en tenir compte. Cet ajustement est justifié et documenté.",
+          "md": "La fonction actuarielle apprécie la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles. Pour ce faire, elle utilise notamment les tableaux de bord évaluant la qualité des données. Elle veille à ce que les limites identifiées dans certaines données soient prises en compte dans l’estimation des provisions techniques prudentielles. Le cas échéant, le niveau des provisions techniques est ajusté pour en tenir compte. Cet ajustement est justifié et documenté.",
+          "bBox": {
+            "x": 117,
+            "y": 182.88,
+            "w": 407,
+            "h": 563
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "6.4. Audit interne",
+          "md": "# 6.4. Audit interne",
+          "bBox": {
+            "x": 88,
+            "y": 274.92,
+            "w": 86,
+            "h": 12
+          }
+        },
+        {
+          "type": "text",
+          "value": "La fonction d’audit interne visée à l’article L354-1 du code des assurances inclut le risque de non qualité des données dans son univers d’audit et conçoit en conséquence son plan d’audit pluriannuel afin d’évaluer l’adéquation et l’efficacité du dispositif mis en place au sein de l’entreprise en matière de maitrise de la qualité des données entrant dans les calculs prudentiels.",
+          "md": "La fonction d’audit interne visée à l’article L354-1 du code des assurances inclut le risque de non qualité des données dans son univers d’audit et conçoit en conséquence son plan d’audit pluriannuel afin d’évaluer l’adéquation et l’efficacité du dispositif mis en place au sein de l’entreprise en matière de maitrise de la qualité des données entrant dans les calculs prudentiels.",
+          "bBox": {
+            "x": 106,
+            "y": 295.88,
+            "w": 418,
+            "h": 396
+          }
+        },
+        {
+          "type": "heading",
+          "lvl": 1,
+          "value": "7. Précisions dans le cas de groupes prudentiels",
+          "md": "# 7. Précisions dans le cas de groupes prudentiels",
+          "bBox": {
+            "x": 70,
+            "y": 374.96,
+            "w": 308,
+            "h": 16
+          }
+        },
+        {
+          "type": "text",
+          "value": "Les entités têtes de groupe visées aux L.356-2 al. 2 à 5 du code des assurances, L.212-1 al. 2 du code de la mutualité et L.913-9 al.2 du code de la sécurité sociale respectent les exigences quantitatives, les exigences relatives au système de gouvernance, au système de gestion des risques et au système de contrôle interne des groupes dont la maitrise de la qualité des données SII. À ce titre, les éléments de gouvernance (respectivement de gestion des risques et de contrôle interne) relatifs à la qualité des données SII de la tête de groupe et des entités « solos » du groupe sont cohérents entre eux, notamment :\n\n- le document cadre organisant le dispositif de maitrise de la qualité des données SII adopté par la tête de groupe est adopté, et le cas échéant adapté, par chaque entreprise soumise à la réglementation Solvabilité 2 composant le groupe,\n- les rôles et responsabilités des parties prenantes à la gestion de la qualité des données (dont les fonctions clefs) sont endossés au niveau de chaque entreprise soumise à la réglementation Solvabilité 2 composant le groupe,\n- la cartographie des risques du groupe comporte tous les risques émanant des entreprises du groupe dont celui de non qualité des données SII. La tolérance au risque de non qualité des données de la tête de groupe est cohérente avec celles des entreprises soumises à la réglementation Solvabilité 2,\n- les définitions des critères, les indicateurs et standards relatifs à la qualité des données sont partagés et adoptés par les entreprises du groupe soumises à la réglementation Solvabilité 2,\n- en conséquence, les contrôles mis en place pour mesurer la qualité des données sont cohérents d’une entreprise du groupe à l’autre. Les instruments de suivi sont communs de façon à garantir la compatibilité et en permettre la synthèse au niveau de la tête de groupe, aidant notamment la fonction clé actuariat du groupe à se prononcer sur la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles agrégées au niveau du groupe.",
+          "md": "Les entités têtes de groupe visées aux L.356-2 al. 2 à 5 du code des assurances, L.212-1 al. 2 du code de la mutualité et L.913-9 al.2 du code de la sécurité sociale respectent les exigences quantitatives, les exigences relatives au système de gouvernance, au système de gestion des risques et au système de contrôle interne des groupes dont la maitrise de la qualité des données SII. À ce titre, les éléments de gouvernance (respectivement de gestion des risques et de contrôle interne) relatifs à la qualité des données SII de la tête de groupe et des entités « solos » du groupe sont cohérents entre eux, notamment :\n\n- le document cadre organisant le dispositif de maitrise de la qualité des données SII adopté par la tête de groupe est adopté, et le cas échéant adapté, par chaque entreprise soumise à la réglementation Solvabilité 2 composant le groupe,\n- les rôles et responsabilités des parties prenantes à la gestion de la qualité des données (dont les fonctions clefs) sont endossés au niveau de chaque entreprise soumise à la réglementation Solvabilité 2 composant le groupe,\n- la cartographie des risques du groupe comporte tous les risques émanant des entreprises du groupe dont celui de non qualité des données SII. La tolérance au risque de non qualité des données de la tête de groupe est cohérente avec celles des entreprises soumises à la réglementation Solvabilité 2,\n- les définitions des critères, les indicateurs et standards relatifs à la qualité des données sont partagés et adoptés par les entreprises du groupe soumises à la réglementation Solvabilité 2,\n- en conséquence, les contrôles mis en place pour mesurer la qualité des données sont cohérents d’une entreprise du groupe à l’autre. Les instruments de suivi sont communs de façon à garantir la compatibilité et en permettre la synthèse au niveau de la tête de groupe, aidant notamment la fonction clé actuariat du groupe à se prononcer sur la suffisance et la qualité des données utilisées dans le calcul des provisions techniques prudentielles agrégées au niveau du groupe.",
+          "bBox": {
+            "x": 106,
+            "y": 400.88,
+            "w": 418,
+            "h": 390
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    },
+    {
+      "page": 14,
+      "text": "74  Plus largement, le système de contrôle interne du groupe garantit la bonne information\n    relative à la gestion de la qualité des données SII à tous les niveaux du groupe.\n                                                                           14",
+      "md": "Plus largement, le système de contrôle interne du groupe garantit la bonne information relative à la gestion de la qualité des données SII à tous les niveaux du groupe.\n\n14",
+      "images": [],
+      "charts": [],
+      "items": [
+        {
+          "type": "text",
+          "value": "Plus largement, le système de contrôle interne du groupe garantit la bonne information relative à la gestion de la qualité des données SII à tous les niveaux du groupe.\n\n14",
+          "md": "Plus largement, le système de contrôle interne du groupe garantit la bonne information relative à la gestion de la qualité des données SII à tous les niveaux du groupe.\n\n14",
+          "bBox": {
+            "x": 117,
+            "y": 89.88,
+            "w": 407,
+            "h": 701
+          }
+        }
+      ],
+      "status": "OK",
+      "links": [],
+      "width": 595.32,
+      "height": 841.92,
+      "triggeredAutoMode": false,
+      "parsingMode": "accurate",
+      "structuredData": null,
+      "noStructuredContent": false,
+      "noTextContent": false
+    }
+  ],
+  "job_metadata": {
+    "credits_used": 321,
+    "job_credits_usage": 42,
+    "job_pages": 14,
+    "job_auto_mode_triggered_pages": 0,
+    "job_is_cache_hit": false,
+    "credits_max": 3000
+  }
+}

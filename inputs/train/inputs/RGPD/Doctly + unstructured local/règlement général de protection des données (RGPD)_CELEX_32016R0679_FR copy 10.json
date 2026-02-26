@@ -1,0 +1,987 @@
+[
+  {
+    "type": "Title",
+    "element_id": "88885467573cec002bc5c755460390cc",
+    "text": "Mécanisme de contrôle de la cohérence",
+    "metadata": {
+      "category_depth": 2,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "7e1cb883ec31ee549d80e89a76a1e4d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "887b4898f2d419db10cf8ff6f61c97c2",
+    "text": "Afin de contribuer à l'application cohérente du présent règlement dans l'ensemble de l'Union, les autorités de contrôle coopèrent entre elles et, le cas échéant, avec la Commission dans le cadre du mécanisme de contrôle de la cohérence établi dans la présente section.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "88885467573cec002bc5c755460390cc"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "63d33183162f795e42de4a6d83a39bc7",
+    "text": "Article 64",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "88885467573cec002bc5c755460390cc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "070aa3e7b640c46ad1860f0d3401896b",
+    "text": "Avis du comité",
+    "metadata": {
+      "category_depth": 2,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "7e1cb883ec31ee549d80e89a76a1e4d7"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "edb97cabd9b8742abe9992d89cf2d49b",
+    "text": "Le comité émet un avis chaque fois qu'une autorité de contrôle compétente envisage d'adopter l'une des mesures ci-après. À cet effet, l'autorité de contrôle compétente communique le projet de décision au comité, lorsque ce projet:",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c33a1e86324d0535e5b5f58f64a438f",
+    "text": "a) vise à adopter une liste d'opérations de traitement pour lesquelles une analyse d'impact relative à la protection des données doit être effectuée en application de l'article 35, paragraphe 4;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cdcf12d35d84c13db740f6a4a8537a59",
+    "text": "b) concerne la question de savoir, en application de l'article 40, paragraphe 7, si un projet de code de conduite ou une modification ou une prorogation d'un code de conduite respecte le présent règlement;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "174c4a9b9b77994e7d204dfcd34158ba",
+    "text": "-------------------------------------------------------------------------------- Page 74",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d30e580cd779b3936d11a272b098c5ea",
+    "text": "c) vise à approuver les critères d'agrément d'un organisme en application de l'article 41, paragraphe 3, ou d'un organisme de certification en application de l'article 43, paragraphe 3;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6f3f9caf6cb5d589752c9d044e21a185",
+    "text": "d) vise à fixer des clauses types de protection des données visées à l'article 46, paragraphe 2, point d), et à l'article 28, paragraphe 8;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "33d93a9ceda61d516b5043ca0e278134",
+    "text": "e) vise à autoriser les clauses contractuelles visées à l'article 46, paragraphe 3, point a); ou",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3729cff6c921883826e80573d5380358",
+    "text": "f) vise à approuver des règles d'entreprise contraignantes au sens de l'article 47.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c94d5e20a0bc174fcde1b0b93ab99605",
+    "text": "Toute autorité de contrôle, le président du comité ou la Commission peuvent demander que toute question d'application générale ou produisant des effets dans plusieurs États membres soit examinée par le comité en vue d'obtenir un avis, en particulier lorsqu'une autorité de contrôle compétente ne respecte pas les obligations relatives à l'assistance mutuelle conformément à l'article 61 ou les obligations relatives aux opérations conjointes conformément à l'article 62.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc7d8811d6c83f500951edcd28e3b209",
+    "text": "Dans les cas visés aux paragraphes 1 et 2, le comité émet un avis sur la question qui lui est soumise, à condition qu'il n'ait pas déjà émis un avis sur la même question. Cet avis est adopté dans un délai de huit semaines à la majorité simple des membres du comité. Ce délai peut être prolongé de six semaines en fonction de la complexité de la question. En ce qui concerne le projet de décision visé au paragraphe 1 transmis aux membres du comité conformément au paragraphe 5, un membre qui n'a pas formulé d'objection dans un délai raisonnable fixé par le président est réputé approuver le projet de décision.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "287b1142017cdc3b20965fa06107becd",
+    "text": "Les autorités de contrôle et la Commission communiquent, dans les meilleurs délais, au comité, par voie électronique et au moyen d'un formulaire type, toutes les informations utiles, y compris, selon le cas, un résumé des faits, le projet de décision, les motifs rendant nécessaire l'adoption de cette mesure et les points de vue des autres autorités de contrôle concernées.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7d9fb0608d0a670f69bb31a9c3423645",
+    "text": "Le président du comité transmet dans les meilleurs délais par voie électronique:",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2909e8cb925d19307ac273f168431b7b",
+    "text": "a) toutes les informations utiles qui lui ont été communiquées aux membres du comité et à la Commission, au moyen d'un formulaire type. Le secrétariat du comité fournit, si nécessaire, les traductions des informations utiles; et",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b8cc8f728725a25ab974beb3d2cdbfd6",
+    "text": "b) l'avis à l'autorité de contrôle visée, selon le cas, aux paragraphes 1 et 2, et à la Commission, et le publie.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b23bd39602215cd33de650822b5cf962",
+    "text": "L'autorité de contrôle compétente n'adopte pas son projet de décision visé au paragraphe 1 lorsque le délai visé au paragraphe 3 court.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cb534866aa47dfa1d4e58bb109700863",
+    "text": "L'autorité de contrôle visée au paragraphe 1 tient le plus grand compte de l'avis du comité et fait savoir au président du comité par voie électronique au moyen d'un formulaire type, dans un délai de deux semaines suivant la réception de l'avis, si elle maintiendra ou si elle modifiera son projet de décision et, le cas échéant, son projet de décision modifié.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c65107ea4af634b16ebfb23ce47f95ac",
+    "text": "Lorsque l'autorité de contrôle concernée informe le président du comité dans le délai visé au paragraphe 7 du présent article qu'elle n'a pas l'intention de suivre, en tout ou en partie, l'avis du comité, en fournissant les motifs pertinents, l'article 65, paragraphe 1, s'applique.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "270f1ba44e7cad0d498ab2a9aeedb472",
+    "text": "Article 65",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "544f459d86cb0b7c0013fd686774463f",
+    "text": "Règlement des litiges par le comité",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b0db66136282572f0edf923e894ddb4f",
+    "text": "En vue d'assurer l'application correcte et cohérente du présent règlement dans les cas d'espèce, le comité adopte une décision contraignante dans les cas suivants:",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f49e84d009fe5cf17689dce87b3c8a56",
+    "text": "a) lorsque, dans le cas visé à l'article 60, paragraphe 4, une autorité de contrôle concernée a formulé une objection pertinente et motivée à l'égard d'un projet de décision de l'autorité de contrôle chef de file ou que l'autorité de contrôle chef de file a rejeté cette objection au motif qu'elle n'est pas pertinente ou motivée. La décision contraignante concerne toutes les questions qui font l'objet de l'objection pertinente et motivée, notamment celle de savoir s'il y a violation du présent règlement;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4a6cf9ecdda1a1339014c2c9688af9b",
+    "text": "-------------------------------------------------------------------------------- Page 75",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ac406b3d06f6613b450f8b135ccfae6d",
+    "text": "4.5.2016 FR Journal officiel de l'Union européenne L 119/75",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1e67e70df6a25f79851e0aa9993c72f",
+    "text": "b) lorsqu'il existe des points de vue divergents quant à l'autorité de contrôle concernée qui est compétente pour l'établis-sement principal;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4cf654d86a2d3b6c060da85f2ce6f5c7",
+    "text": "c) lorsqu'une autorité de contrôle compétente ne demande pas l'avis du comité dans les cas visés à l'article 64, paragraphe 1, ou qu'elle ne suit pas l'avis du comité émis en vertu de l'article 64. Dans ce cas, toute autorité de contrôle concernée ou la Commission peut saisir le comité de la question.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3f1c2ce03caa6f3533c7c1506937169",
+    "text": "La décision visée au paragraphe 1 est adoptée à la majorité des deux tiers des membres du comité dans un délai d'un mois à compter de la transmission de la question. Ce délai peut être prolongé d'un mois en fonction de la complexité de la question. La décision visée au paragraphe 1, est motivée et est adressée à l'autorité de contrôle chef de file et à toutes les autorités de contrôle concernées et est contraignante à leur égard.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d6c70ae0306a69cebd6b4091ad59d3e",
+    "text": "Lorsque le comité n'a pas été en mesure d'adopter une décision dans les délais visés au paragraphe 2, il adopte sa décision, à la majorité simple de ses membres, dans un délai de deux semaines suivant l'expiration du deuxième mois visé au paragraphe 2. En cas d'égalité des voix au sein du comité, la voix de son président est prépondérante.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f316a74f7fd79e091589849ef410ba50",
+    "text": "Les autorités de contrôle concernées n'adoptent pas de décision sur la question soumise au comité en vertu du paragraphe 1 lorsque les délais visés aux paragraphes 2 et 3 courent.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "434a4813728742e2c3ee086b2038741c",
+    "text": "Le président du comité notifie, dans les meilleurs délais, la décision visée au paragraphe 1 aux autorités de contrôle concernées. Il en informe la Commission. La décision est publiée sur le site internet du comité sans tarder après que l'autorité de contrôle a notifié la décision finale visée au paragraphe 6.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "11dca261be23702909f953d4e8bf65e7",
+    "text": "L'autorité de contrôle chef de file ou, selon le cas, l'autorité de contrôle auprès de laquelle la réclamation a été introduite adopte sa décision finale sur la base de la décision visée au paragraphe 1 du présent article, dans les meilleurs délais et au plus tard un mois après que le comité a notifié sa décision. L'autorité de contrôle chef de file ou, selon le cas, l'autorité de contrôle auprès de laquelle la réclamation a été introduite informe le comité de la date à laquelle sa décision finale est notifiée, respectivement, au responsable du traitement ou au sous-traitant et à la personne concernée. La décision finale des autorités de contrôle concernées est adoptée aux conditions de l'article 60, paragraphes 7, 8 et 9. La décision finale fait référence à la décision visée au paragraphe 1 du présent article et précise que celle-ci sera publiée sur le site internet du comité conformément au paragraphe 5 du présent article. La décision visée au paragraphe 1 du présent article est jointe à la décision finale.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "983d7f222a3752f1286e093ab0befefd",
+    "text": "Article 66",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bdbd2187e15abf4f685bddb3e387bcf5",
+    "text": "Procédure d'urgence",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e556cfc0ac830bd6de43a82917e5ecc1",
+    "text": "Dans des circonstances exceptionnelles, lorsqu'une autorité de contrôle concernée considère qu'il est urgent d'intervenir pour protéger les droits et libertés des personnes concernées, elle peut, par dérogation au mécanisme de contrôle de la cohérence visé aux articles 63, 64 et 65 ou à la procédure visée à l'article 60, adopter immédiatement des mesures provisoires visant à produire des effets juridiques sur son propre territoire et ayant une durée de validité déterminée qui n'excède pas trois mois. L'autorité de contrôle communique sans tarder ces mesures et les raisons de leur adoption aux autres autorités de contrôle concernées, au comité et à la Commission.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e2b539388a6a3fa485d61cf3200f1b2f",
+    "text": "Lorsqu'une autorité de contrôle a pris une mesure en vertu du paragraphe 1 et estime que des mesures définitives doivent être adoptées d'urgence, elle peut demander un avis d'urgence ou une décision contraignante d'urgence au comité, en motivant sa demande d'avis ou de décision.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "923a633aeaeb26ad5ea6a725875fec93",
+    "text": "Toute autorité de contrôle peut, en motivant sa demande d'avis ou de décision et notamment l'urgence d'intervenir, demander au comité un avis d'urgence ou une décision contraignante d'urgence, selon le cas, lorsqu'une autorité de contrôle compétente n'a pas pris de mesure appropriée dans une situation où il est urgent d'intervenir afin de protéger les droits et libertés des personnes concernées.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7352d0fbc6b71f9ed2306dd32c282624",
+    "text": "Par dérogation à l'article 64, paragraphe 3, et à l'article 65, paragraphe 2, l'avis d'urgence ou la décision contrai-gnante d'urgence visés aux paragraphes 2 et 3 du présent article est adopté dans un délai de deux semaines à la majorité simple des membres du comité.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ac45afa717c231f496ecd1f4c176ef93",
+    "text": "-------------------------------------------------------------------------------- Page 76",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4c1c412b09637b4e633a79c46e42e153",
+    "text": "Journal officiel de l'Union européenne 4.5.2016",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8fdf7d4c8ec087a4dfdd1384c56461cf",
+    "text": "Article 67",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "070aa3e7b640c46ad1860f0d3401896b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2cb5ea0116a188c5011c3638d3cd1cdc",
+    "text": "Échange d'informations",
+    "metadata": {
+      "category_depth": 2,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "7e1cb883ec31ee549d80e89a76a1e4d7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "08ac5f0f7c78cf45da4f032b14e0bb02",
+    "text": "La Commission peut adopter des actes d'exécution de portée générale afin de définir les modalités de l'échange d'infor- mations par voie électronique entre les autorités de contrôle, et entre ces autorités et le comité, notamment le formulaire type visé à l'article 64.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "2cb5ea0116a188c5011c3638d3cd1cdc"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d71ffa088f7efac7effc44461b235777",
+    "text": "Ces actes d'exécution sont adoptés en conformité avec la procédure d'examen visée à l'article 93, paragraphe 2.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "2cb5ea0116a188c5011c3638d3cd1cdc"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "576b0c41d3646778107e23b1f34f783d",
+    "text": "Section 3",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "2cb5ea0116a188c5011c3638d3cd1cdc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "962d48b993c66432544136a476d23f50",
+    "text": "Comité européen de la protection des données",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "6e4c0878a3383933b8cbd6419ffc5873"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c755280c0c957a0223f6e4fec7c286b6",
+    "text": "Article 68",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "962d48b993c66432544136a476d23f50"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d99083a7afdd1dc153faf48c40c43bc3",
+    "text": "Comité européen de la protection des données",
+    "metadata": {
+      "category_depth": 2,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "962d48b993c66432544136a476d23f50"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de8100549e6125e26c170a7c3444ee72",
+    "text": "Le comité européen de la protection des données (ci-après dénommé «comité») est institué en tant qu'organe de l'Union et possède la personnalité juridique.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "d99083a7afdd1dc153faf48c40c43bc3"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e2a3aba5faeccfb0a6f39d9aff89cdf3",
+    "text": "Le comité est représenté par son président.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "d99083a7afdd1dc153faf48c40c43bc3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dd74e148d60e0539102bad7631611bbc",
+    "text": "Le comité se compose du chef d'une autorité de contrôle de chaque État membre et du Contrôleur européen de la protection des données, ou de leurs représentants respectifs.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "d99083a7afdd1dc153faf48c40c43bc3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7de18075831517f0381181e605b2f118",
+    "text": "Lorsque, dans un État membre, plusieurs autorités de contrôle sont chargées de surveiller l'application des dispositions du présent règlement, un représentant commun est désigné conformément au droit de cet État membre.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "d99083a7afdd1dc153faf48c40c43bc3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f19bbbf7dd629ef9746eb9ecd94a3287",
+    "text": "La Commission a le droit de participer aux activités et réunions du comité sans droit de vote. La Commission désigne un représentant. Le président du comité informe la Commission des activités du comité.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "d99083a7afdd1dc153faf48c40c43bc3"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6f457e3d19a1340fc755d6b3b08d4e1",
+    "text": "Dans les cas visés à l'article 65, le Contrôleur européen de la protection des données ne dispose de droits de vote qu'à l'égard des décisions concernant des principes et règles applicables aux institutions, organes et organismes de l'Union qui correspondent, en substance, à ceux énoncés dans le présent règlement.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "d99083a7afdd1dc153faf48c40c43bc3"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2c52d5fb4dfde2aa98f7f85b65f16cec",
+    "text": "Article 69",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "d99083a7afdd1dc153faf48c40c43bc3"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fa8305cfbdc6f20dc66edc9f9c31193e",
+    "text": "Indépendance",
+    "metadata": {
+      "category_depth": 2,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "962d48b993c66432544136a476d23f50"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ce803017a80c31cf96f29840bf7660b",
+    "text": "Le comité exerce les missions et les pouvoirs qui lui sont conférés conformément aux articles 70 et 71 en toute indépendance.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "fa8305cfbdc6f20dc66edc9f9c31193e"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5aa007a63b3f64744910389a582f4114",
+    "text": "Sans préjudice des demandes de la Commission visées à l'article 70, paragraphe 1, point b), et à l'article 70, paragraphe 2, le comité ne sollicite ni n'accepte d'instructions de quiconque dans l'exercice de ses missions et de ses pouvoirs.",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "fa8305cfbdc6f20dc66edc9f9c31193e"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "42b14006aced4b0495e630f441ffba55",
+    "text": "Article 70",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "fa8305cfbdc6f20dc66edc9f9c31193e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "448b1ba68b1a095a69ff20595c0ff5dd",
+    "text": "Missions du comité",
+    "metadata": {
+      "category_depth": 2,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "962d48b993c66432544136a476d23f50"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98ee2a7ec1c480f63d3ff335b2aef7f8",
+    "text": "Le comité veille à l'application cohérente du présent règlement. À cet effet, le comité, de sa propre initiative ou, le cas échéant, à la demande de la Commission, a notamment pour missions:",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "007e3d06caae8ca8a13d2c6eed423ef0",
+    "text": "a) de surveiller et garantir la bonne application du présent règlement dans les cas prévus aux articles 64 et 65, sans préjudice des missions des autorités de contrôle nationales;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8766c4ca419522ee65950fb336c64534",
+    "text": "-------------------------------------------------------------------------------- Page 77",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4c5f75be3c1818f15146f883b733cb47",
+    "text": "4.5.2016 Journal officiel de l'Union européenne L 119/77",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc651deada5ee5c29e1c2db3d4489dbe",
+    "text": "b) de conseiller la Commission sur toute question relative à la protection des données à caractère personnel dans l'Union, y compris sur tout projet de modification du présent règlement;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d651345b00e666056f4357cc5872ba8",
+    "text": "c) de conseiller la Commission, en ce qui concerne les règles d'entreprise contraignantes, sur la forme de l'échange d'informations entre les responsables du traitement, les sous-traitants et les autorités de contrôle, ainsi que les procédures qui s'y rapportent;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "98385d342b3ed90bafaf31c2059159a4",
+    "text": "d) de publier des lignes directrices, des recommandations et des bonnes pratiques sur les procédures de suppression des liens vers des données à caractère personnel, des copies ou des reproductions de celles-ci existant dans les services de communication accessibles au public, ainsi que le prévoit l'article 17, paragraphe 2;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2cdc60dea1734c091a1447b76bc48785",
+    "text": "e) d'examiner, de sa propre initiative, à la demande de l'un de ses membres ou à la demande de la Commission, toute question portant sur l'application du présent règlement, et de publier des lignes directrices, des recommandations et des bonnes pratiques afin de favoriser l'application cohérente du présent règlement;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50ae78e080241fbc5fae13c4fc3da21c",
+    "text": "f) de publier des lignes directrices, des recommandations et des bonnes pratiques conformément au point e) du présent paragraphe, en vue de préciser davantage les critères et conditions applicables aux décisions fondées sur le profilage en vertu de l'article 22, paragraphe 2;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b8f3dbbf035ba90a8e7c6ee40709ea0",
+    "text": "g) de publier des lignes directrices, des recommandations et des bonnes pratiques conformément au point e) du présent paragraphe, en vue d'établir les violations de données à caractère personnel, de déterminer les meilleurs délais visés à l'article 33, paragraphes 1 et 2, et de préciser les circonstances particulières dans lesquelles un responsable du traitement ou un sous-traitant est tenu de notifier la violation de données à caractère personnel;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e52bd17bfffc6c01f32e50915207b6d8",
+    "text": "h) de publier des lignes directrices, des recommandations et des bonnes pratiques conformément au point e) du présent paragraphe concernant les circonstances dans lesquelles une violation de données à caractère personnel est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes physiques comme le prévoit l'article 34, paragraphe 1;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be15427b86c28be6274b17e3883f4df0",
+    "text": "i) de publier des lignes directrices, des recommandations et des bonnes pratiques conformément au point e) du présent paragraphe, aux fins de préciser davantage les critères et exigences applicables aux transferts de données à caractère personnel fondés sur des règles d'entreprise contraignantes appliquées par les responsables du traitement et sur des règles d'entreprise contraignantes appliquées par les sous-traitants et concernant les autres exigences nécessaires pour assurer la protection des données à caractère personnel des personnes concernées visées à l'article 47;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0664cfd268a0b32f32683277f06468f2",
+    "text": "j) de publier des lignes directrices, des recommandations et des bonnes pratiques conformément au point e) du présent paragraphe, en vue de préciser davantage les critères et exigences applicables aux transferts de données à caractère personnel sur la base de l'article 49, paragraphe 1;",
+    "metadata": {
+      "languages": [
+        "fra"
+      ],
+      "filename": "règlement général de protection des données (RGPD)_CELEX_32016R0679_FR.md",
+      "filetype": "application/pdf",
+      "parent_id": "448b1ba68b1a095a69ff20595c0ff5dd"
+    }
+  }
+]

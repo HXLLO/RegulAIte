@@ -1,0 +1,64 @@
+/**
+ * Global CSS variables for the theme
+ * These variables are used by TailwindCSS and directly in CSS
+ */
+
+:root {
+  /* Light theme (default) */
+  --background: 0 0% 100%;
+  --foreground: 240 10% 3.9%;
+  --card: 0 0% 100%;
+  --card-foreground: 240 10% 3.9%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 240 10% 3.9%;
+  --primary: 262 80% 40%;
+  --primary-foreground: 0 0% 98%;
+  --secondary: 240 4.8% 95.9%;
+  --secondary-foreground: 240 5.9% 10%;
+  --muted: 240 4.8% 95.9%;
+  --muted-foreground: 240 3.8% 46.1%;
+  --accent: 262 80% 40%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 240 5.9% 90%;
+  --input: 240 5.9% 90%;
+  --ring: 262 80% 40%;
+  --radius: 0.5rem;
+  
+  /* Brand colors */
+  --brand-primary: #4415b6;
+  --brand-primary-hover: #3a1296;
+  --brand-primary-light: rgba(68, 21, 182, 0.1);
+  --brand-primary-lighter: rgba(68, 21, 182, 0.05);
+  --brand-primary-medium: rgba(68, 21, 182, 0.2);
+}
+
+.dark {
+  --background: 240 10% 3.9%;
+  --foreground: 0 0% 98%;
+  --card: 240 10% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --popover: 240 10% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --primary: 262 80% 50%;
+  --primary-foreground: 0 0% 98%;
+  --secondary: 240 3.7% 15.9%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 240 3.7% 15.9%;
+  --muted-foreground: 240 5% 64.9%;
+  --accent: 262 80% 50%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 240 3.7% 15.9%;
+  --input: 240 3.7% 15.9%;
+  --ring: 262 80% 50%;
+  
+  /* Brand colors */
+  --brand-primary: #6c45e7;
+  --brand-primary-hover: #7d5df5;
+  --brand-primary-light: rgba(108, 69, 231, 0.15);
+  --brand-primary-lighter: rgba(108, 69, 231, 0.08);
+  --brand-primary-medium: rgba(108, 69, 231, 0.3);
+} 
