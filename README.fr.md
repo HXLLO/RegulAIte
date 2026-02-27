@@ -1,8 +1,21 @@
+<div align="center">
+
 # RegulAIte
 
-> **Système multi-agents d'analyse GRC (Gouvernance, Risques & Conformité)** — ancré dans vos propres documents.
+**Système multi-agents d'analyse GRC (Gouvernance, Risques & Conformité)**
+
+*Ancré dans vos propres documents — pas dans les connaissances génériques d'un LLM.*
+
+[![Licence: MIT](https://img.shields.io/badge/Licence-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://python.org)
+[![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)](https://react.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docker.com)
+[![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC143C)](https://qdrant.tech)
 
 *[Read in English](README.md)*
+
+</div>
 
 ---
 
@@ -10,18 +23,21 @@
 
 RegulAIte est un assistant GRC open-source développé par des étudiants de l'[OteriaCyberSchool](https://www.oteria.fr). Il permet aux organisations d'importer leurs documents internes (politiques, normes, contrats) et de les interroger via une IA conversationnelle — alimentée par une architecture multi-agents et un pipeline RAG (Retrieval-Augmented Generation).
 
-Plutôt que de s'appuyer sur les connaissances génériques d'un LLM, RegulAIte répond aux questions de conformité **uniquement sur la base de vos documents**, rendant les réponses traçables et auditables.
+> [!IMPORTANT]
+> Plutôt que de s'appuyer sur les connaissances génériques d'un LLM, RegulAIte répond aux questions de conformité **uniquement sur la base de vos documents**, rendant les réponses traçables et auditables.
 
 ---
 
 ## Fonctionnalités
 
-- **Orchestration multi-agents** — un Orchestrateur délègue les tâches à des agents spécialisés (analyse de conformité, gap analysis, évaluation des risques, gouvernance)
-- **Pipeline RAG** — les documents sont découpés, vectorisés et stockés dans une base vectorielle (Qdrant) pour une récupération précise
-- **Gestion documentaire** — import et parsing de PDF, Word et autres formats via l'API Unstructured
-- **File de tâches asynchrone** — les tâches longues sont gérées par Celery + Redis pour garder l'interface réactive
-- **Authentification** — gestion des utilisateurs et des organisations intégrée
-- **Support bilingue** — traitement des requêtes en français et en anglais
+| | Fonctionnalité | Description |
+|:---:|:---|:---|
+| 🤖 | **Orchestration multi-agents** | Un Orchestrateur délègue les tâches à des agents spécialisés (analyse de conformité, gap analysis, évaluation des risques, gouvernance) |
+| 🔍 | **Pipeline RAG** | Les documents sont découpés, vectorisés et stockés dans une base vectorielle (Qdrant) pour une récupération précise |
+| 📄 | **Gestion documentaire** | Import et parsing de PDF, Word et autres formats via l'API Unstructured |
+| ⚡ | **File de tâches asynchrone** | Les tâches longues sont gérées par Celery + Redis pour garder l'interface réactive |
+| 🔐 | **Authentification** | Gestion des utilisateurs et des organisations intégrée |
+| 🌍 | **Support bilingue** | Traitement des requêtes en français et en anglais |
 
 ---
 
@@ -59,14 +75,14 @@ flowchart TD
 ## Stack technique
 
 | Couche | Technologie |
-|---|---|
-| Frontend | React |
-| Backend | Python / FastAPI |
-| Base vectorielle | Qdrant |
-| Base relationnelle | MariaDB |
-| File de tâches | Celery + Redis |
-| Parsing documentaire | Unstructured |
-| Conteneurisation | Docker Compose |
+|:---|:---|
+| 🖥️ Frontend | React |
+| ⚙️ Backend | Python / FastAPI |
+| 🗄️ Base vectorielle | Qdrant |
+| 🗃️ Base relationnelle | MariaDB |
+| 📬 File de tâches | Celery + Redis |
+| 📑 Parsing documentaire | Unstructured |
+| 🐳 Conteneurisation | Docker Compose |
 
 ---
 
@@ -90,13 +106,15 @@ cp backend/.env.example backend/.env
 docker compose up --build
 ```
 
+Une fois lancé, accédez aux services :
+
 | Service | URL |
-|---|---|
-| Frontend | http://localhost:3000 |
-| API Backend | http://localhost:8000 |
-| Documentation API | http://localhost:8000/docs |
-| Monitoring Celery | http://localhost:5555 |
-| Dashboard Qdrant | http://localhost:6333/dashboard |
+|:---|:---|
+| 🌐 Frontend | http://localhost:3000 |
+| 🔌 API Backend | http://localhost:8000 |
+| 📖 Documentation API | http://localhost:8000/docs |
+| 📊 Monitoring Celery | http://localhost:5555 |
+| 🔷 Dashboard Qdrant | http://localhost:6333/dashboard |
 
 ---
 
